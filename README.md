@@ -7,9 +7,7 @@ including information architecture and DITA fundamentals.
 Language variants are handled using language-specific directory structures, 
 reflecting how output targets or translation memories are managed in DITA-based workflows.
 
-## Available Languages
-
-- English: `/docs/en/`
-- German: `/docs/de/`
+- **English:** `/docs/en/`
+- **German:** `/docs/de/`
 
 
