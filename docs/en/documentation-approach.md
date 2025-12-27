@@ -13,7 +13,7 @@ focus on task-oriented documentation, clear information architecture, and user-c
 The following diagram illustrates the key principles and steps that guide my documentation work 
 throughout the entire documentation lifecycle.
 
-![12 Principles of Technical Writing](12%20Principles%20of%20Technical%20Writing.png)
+![12 Principles of Technical Writing](12principles.png)
 
 ---
 
