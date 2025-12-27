@@ -17,8 +17,6 @@ through **separate output targets** or **translation memories**.
 For this portfolio, I simulate this approach using **language-specific directory structures**, 
 while keeping content structure and information types consistent across languages.
 
----
-
 ## Topics Covered
 
 - Task-oriented documentation (procedures and workflows)
