@@ -2,7 +2,7 @@
 
 In der Rolle als Technical Writer liegt mein Schwerpunkt auf **aufgabenorientierter Software-Dokumentation** und 
 strukturierter Informationsarchitektur. Mein Ziel ist es, komplexe technische Systeme durch 
-klare, präzise und nutzerzentrierte Dokumentation verständlich, benutzbar und wartbar zu machen.
+klare, präzise und nutzerzentrierte Dokumentation verständlich, nutzbar und wartbar zu machen.
 
 ### Dokumentationsansatz
 
