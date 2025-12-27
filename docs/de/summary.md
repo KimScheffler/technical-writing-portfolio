@@ -1,6 +1,6 @@
 # Kurzprofil
 
-Ich bin Technical Writer mit Schwerpunkt auf **aufgabenorientierter Software-Dokumentation** und 
+In der Rolle als Technical Writer liegt mein Schwerpunkt auf **aufgabenorientierter Software-Dokumentation** und 
 strukturierter Informationsarchitektur. Mein Ziel ist es, komplexe technische Systeme durch 
 klare, präzise und nutzerzentrierte Dokumentation verständlich, benutzbar und wartbar zu machen.
 
