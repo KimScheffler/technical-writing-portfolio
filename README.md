@@ -9,7 +9,7 @@ reflecting how output targets or translation memories are managed in DITA-based 
 
 ## Available Languages
 
-- **English portfolio:** `/docs/en/`
-- **German portfolio:** `/docs/de/`
+- English: `/docs/en/`
+- German: `/docs/de/`
 
 
