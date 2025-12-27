@@ -7,9 +7,9 @@ klare, präzise und nutzerzentrierte Dokumentation verständlich, nutzbar und wa
 ### Dokumentationsansatz
 
 Ich arbeite nach den Prinzipien der **aufgabenorientierten Dokumentation** und gehe dabei von den 
-Zielen Nutzer aus – nicht von Systemfunktionen. Inhalte werden entlang 
-konkreter Aufgaben strukturiert und dort durch konzeptionelle und referenzielle Informationen 
-ergänzt, wo sie einen Mehrwert bieten.
+Zielen der Nutzer aus – nicht von Systemfunktionen. Inhalte werden entlang konkreter Aufgaben 
+strukturiert und dort durch konzeptionelle und referenzielle Informationen ergänzt, wo sie einen 
+Mehrwert bieten.
 
 Dieser Ansatz unterstützt Nutzer dabei, ihre Ziele effizient zu erreichen, und sorgt 
 gleichzeitig für kompakte, gut wartbare Dokumentation.
@@ -18,8 +18,7 @@ gleichzeitig für kompakte, gut wartbare Dokumentation.
 
 Ich bin mit dem **DITA-Informationsmodell (Concept, Task, Reference)** vertraut und wende dessen 
 zentrale Prinzipien – Modularität, Wiederverwendbarkeit und die Trennung von Informationstypen – 
-auch bei der Arbeit mit Formaten wie Markdown und GitHub-basierter 
-Dokumentation an.
+auch bei der Arbeit mit Formaten wie Markdown und GitHub-basierter Dokumentation an.
 
 ### Zentrale Prinzipien
 
