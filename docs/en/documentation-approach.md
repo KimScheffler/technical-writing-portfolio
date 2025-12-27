@@ -13,7 +13,7 @@ focus on task-oriented documentation, clear information architecture, and user-c
 The following diagram illustrates the key principles and steps that guide my documentation work 
 throughout the entire documentation lifecycle.
 
-![Documentation process overview](../assets/images/en/12Principles.png)
+![Documentation process overview](docs/assets/images/en/12Principles.jpg)
 
 ---
 
