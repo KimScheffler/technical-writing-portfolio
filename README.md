@@ -1,14 +1,10 @@
-# Technical Writing Portfolio
+# Technical Writing Portfolio — Quick Access
 
-This repository contains my technical writing portfolio in **English and German**.
-
-## Quick Access
-
-### English
+## English
 
 - [Professional Summary](docs/en/summary.md)
 - [Documentation Approach](docs/en/documentation-approach.md)
 
-### German
+## German
 
 - [Kurzprofil](docs/de/summary.md)
