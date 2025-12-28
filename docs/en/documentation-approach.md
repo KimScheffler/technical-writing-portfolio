@@ -43,6 +43,10 @@ writing individual topics. This includes:
 This structured approach helps ensure that documentation remains understandable, scalable, and 
 easy to maintain over time.
 
+My documentation approach is based on the DITA information model and consistently 
+distinguishes between **Concept**, **Task**, and **Reference** content to ensure 
+clarity, reuse, and maintainability.
+
 ---
 
 ## Writing, Review, and Continuous Improvement
