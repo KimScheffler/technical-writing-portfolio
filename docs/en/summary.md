@@ -4,7 +4,7 @@ I am a Technical Writer with a strong focus on **task-oriented software document
 structured information architecture. My goal is to make complex technical systems 
 understandable, usable, and maintainable through clear, precise, and user-centered documentation.
 
-### Documentation Approach
+### ### Working Principles
 
 I work according to established principles of **task-based documentation**, starting from 
 user goals rather than system features. Documentation is structured around real user tasks 
