@@ -10,54 +10,56 @@ focus on task-oriented documentation, clear information architecture, and user-c
 
 ## Methodological Overview
 
-The following diagram illustrates the key principles and steps that guide my documentation work 
-throughout the entire documentation lifecycle.
+The following diagram provides a high-level overview of the principles and steps that guide my 
+documentation work throughout the documentation lifecycle.
 
 ![Documentation process overview](../assets/images/en/12Principles.jpg)
+
+My documentation approach is based on the DITA information model and consistently distinguishes 
+between **Concept**, **Task**, and **Reference** content to ensure clarity, reuse, and 
+maintainability.
 
 ---
 
 ## From User Analysis to Structured Content
 
 My documentation process starts with a clear understanding of **who the users are** and 
-**what they want to achieve**. Before writing any content, I focus on:
+**what they want to achieve** (see steps 1–3 in the diagram).
 
+Before writing any content, I focus on:
 - identifying target audiences and user roles  
 - understanding user goals and typical tasks  
 - clarifying information needs and usage contexts  
 
-Based on this analysis, I decide how to address users, which standards and guidelines to apply, 
-and which deliverables are appropriate for the specific product and audience.
+This analysis provides the foundation for all subsequent documentation decisions.
 
 ---
 
 ## Information Architecture and Content Design
 
-A central part of my approach is designing a **clear and logical content structure** before 
-writing individual topics. This includes:
+Designing a clear and logical information architecture is a central part of my approach 
+(steps 4–7).
 
-- breaking down complex information into manageable units  
+At this stage, I focus on:
 - structuring content around user tasks rather than system features  
+- separating information into Concept, Task, and Reference topics  
 - defining consistent terminology and navigation paths  
 
 This structured approach helps ensure that documentation remains understandable, scalable, and 
 easy to maintain over time.
 
-My documentation approach is based on the DITA information model and consistently 
-distinguishes between **Concept**, **Task**, and **Reference** content to ensure 
-clarity, reuse, and maintainability.
-
 ---
 
 ## Writing, Review, and Continuous Improvement
 
-Writing the documentation is an iterative process. Once a first version is created, I focus on:
+Writing the documentation is treated as an iterative process (steps 8–12).
 
+After creating an initial version, I focus on:
 - validating technical accuracy with subject matter experts  
 - improving clarity, precision, and consistency  
 - using visuals such as images or diagrams where they support understanding  
 
-After publication, user feedback and usage data are used to continuously improve the content. 
+After publication, user feedback and usage insights are used to continuously improve the content. 
 Documentation is treated as a **living product**, not a one-time deliverable.
 
 ---
@@ -65,7 +67,6 @@ Documentation is treated as a **living product**, not a one-time deliverable.
 ## Guiding Principles
 
 Across all documentation projects, I consistently apply the following principles:
-
 - user goals before system features  
 - clarity and simplicity over completeness  
 - consistency in structure, terminology, and style  
