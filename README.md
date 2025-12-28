@@ -3,9 +3,9 @@
 ## English
 
 - [Professional Summary](docs/en/summary.md)
-- [Documentation Approach](docs/en/documentation-approach.md)
+- [Documentation Approach (DITA-based)](docs/en/documentation-approach.md)
 
 ## German
 
 - [Kurzprofil](docs/de/summary.md)
-- [Dokumentationsansatz](docs/de/documentation-approach.md)
+- [Dokumentationsansatz (DITA-basiert)](docs/de/documentation-approach.md)
