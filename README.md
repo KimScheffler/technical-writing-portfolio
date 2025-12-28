@@ -11,3 +11,22 @@ reflecting how output targets or translation memories are managed in DITA-based 
 - **German:** `/docs/de/`
 
 
+# Technical Writing Portfolio
+
+This repository contains my technical writing portfolio in **English and German**.
+
+## Available Languages
+
+- **English:** `/docs/en/`
+- **German:** `/docs/de/`
+
+## Quick Access
+
+### English
+
+- [Professional Summary](docs/en/summary.md)
+- [Documentation Approach](docs/en/documentation-approach.md)
+
+### German
+
+- [Kurzprofil](docs/de/summary.md)
