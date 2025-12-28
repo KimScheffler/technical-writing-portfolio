@@ -1,4 +1,4 @@
-# Documentation Approach
+# Documentation Approach (DITA-based)
 
 This page describes my methodological approach to technical writing and how I structure 
 documentation projects from initial analysis to continuous improvement.
