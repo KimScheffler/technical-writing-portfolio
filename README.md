@@ -8,3 +8,4 @@
 ## German
 
 - [Kurzprofil](docs/de/summary.md)
+- [Dokumentationsansatz](docs/de/documentation-approach.md)
