@@ -49,8 +49,7 @@ The **content structure** is then designed using a task-oriented approach and ba
 **DITA information model**, with a clear distinction between **Concept**, **Task**, and 
 **Reference** content (step 6).
 
-Finally, I define the **output channels** and align navigation and terminology accordingly 
-to ensure a consistent documentation experience across formats (step 7).
+At this stage, I define the output channels of the documentation (step 7), such as web-based help systems, in-product documentation, PDF manuals, or internal knowledge bases.
 
 This structured approach helps ensure that documentation remains understandable, scalable, 
 and easy to maintain over time.
