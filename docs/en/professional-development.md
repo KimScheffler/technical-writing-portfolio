@@ -30,14 +30,3 @@ practical application. Key topics include:
 
 The training combines video lectures, hands-on exercises, and practical assignments to 
 support active learning and immediate application of concepts.
-
----
-
-## Portfolio Relevance
-
-This course provided the methodological foundation for my documentation approach and 
-directly informed the structure and principles demonstrated in this portfolio.
-
-Rather than focusing on tools alone, the training emphasized **process, structure, and 
-user-centered thinking**, which aligns with my approach to professional technical writing 
-and documentation architecture.
