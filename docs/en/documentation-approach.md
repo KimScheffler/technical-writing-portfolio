@@ -13,7 +13,12 @@ focus on task-oriented documentation, clear information architecture, and user-c
 The following diagram provides a high-level overview of the principles and steps that guide my 
 documentation work throughout the documentation lifecycle.
 
-![Documentation process overview](../assets/images/en/12Principles.jpg)
+![Documentation process overview](../assets/images/12Principles_EN.jpg)
+
+![Overview of a 12-step documentation process for task-oriented technical writing](../assets/images/12Principles_EN.png)
+
+*Figure 1: High-level overview of the documentation lifecycle used in this portfolio.*
+
 
 My documentation approach is based on the DITA information model and consistently distinguishes 
 between **Concept**, **Task**, and **Reference** content to ensure clarity, reuse, and 
