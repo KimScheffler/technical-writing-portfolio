@@ -13,9 +13,9 @@ focus on task-oriented documentation, clear information architecture, and user-c
 The following diagram provides a high-level overview of the principles and steps that guide my 
 documentation work throughout the documentation lifecycle.
 
-![Documentation process overview](../assets/images/12Principles_en.jpg)
+![12 Principles of Technical Writing](../assets/images/12Principles_en.jpg)
 
-![Overview of a 12-step documentation process for task-oriented technical writing](../assets/images/12Principles_en.png)
+![Overview of the typical 12-step documentation process for task-oriented technical writing](../assets/images/12Principles_en.png)
 
 *Figure 1: High-level overview of the documentation lifecycle used in this portfolio.*
 
