@@ -1,12 +1,12 @@
 # Windows Snipping Tool: Taking and Saving Screenshots
 
-## Table of Contents
+## Inhalt
 1. What is the Windows Snipping Tool?
 2. Snipping Tool starten
 3. 
 
 
-### What is the Windows Snipping Tool?
+## Was ist das Windows Snipping Tool?
 
 The **Windows Snipping Tool** is a built-in Windows application that allows you to capture, 
 save, and share screenshots and screenvideos of specific areas of the screen, individual windows, or the entire 
@@ -48,7 +48,7 @@ Das Bildschirmfoto wird anschließend im Bearbeitungsfenster geöffnet.
 
 
 
-### Tastenkombinationen
+## Tastenkombinationen
 
 - **Windows + Shift + S** – Screenshot-Funktionen öffnen
 - **Strg + S** – Screenshot speichern
