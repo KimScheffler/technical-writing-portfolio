@@ -41,21 +41,15 @@ Diese Analyse bildet die Grundlage für alle weiteren Entscheidungen im Dokument
 
 ## Informationsarchitektur und Content-Design
 
-Die Konzeption einer klaren und logischen Informationsarchitektur ist ein zentraler Bestandteil 
-meines Ansatzes (Schritte 4–7 in der Grafik).
+Die Konzeption einer klaren und logischen Informationsarchitektur ist ein zentraler Bestandteil meines Ansatzes (Schritte 4–7 in der Grafik).
 
-In dieser Phase lege ich das **Dokumentationsformat** fest und wähle geeignete **Werkzeuge** für 
-die Erstellung und Pflege der Inhalte aus (Schritte 4–5).
+In dieser Phase lege ich das **Dokumentationsformat** fest und wähle geeignete **Werkzeuge** für die Erstellung und Pflege der Inhalte aus (Schritte 4–5).
 
-Die **Inhaltsstruktur** wird anschließend aufgabenorientiert gestaltet und basiert auf dem 
-**DITA-Informationsmodell**, mit einer klaren Trennung zwischen **Concept-, Task- und 
-Reference-Inhalten** (Schritt 6).
+Die **Inhaltsstruktur** wird anschließend aufgabenorientiert gestaltet und basiert auf dem **DITA-Informationsmodell**, mit einer klaren Trennung zwischen **Concept-, Task- und Reference-Inhalten** (Schritt 6).
 
-Abschließend definiere ich die **Ausgabekanäle** und stimme Navigation und Terminologie darauf ab, 
-um eine konsistente Nutzungserfahrung über alle Formate hinweg sicherzustellen (Schritt 7).
+Nun lege ich die **Ausgabekanäle** der Dokumentation fest (Schritt 7), z. B. webbasiertes Hilfesystem, In-Product-Hilfe, PDF-Dokumentation oder interne Wissensdatenbanken.
 
-Dieser strukturierte Ansatz stellt sicher, dass Dokumentation verständlich, skalierbar und 
-langfristig gut wartbar bleibt.
+Dieser strukturierte Ansatz stellt sicher, dass Dokumentation verständlich, skalierbar und langfristig gut wartbar bleibt.
 
 ---
 
