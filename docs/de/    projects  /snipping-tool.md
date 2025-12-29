@@ -20,9 +20,9 @@ So starten Sie das Snipping Tool unter Windows 10 oder Windows 11:
 
 Das Snipping Tool wird gestartet und ist einsatzbereit.
 
-### Tastenkombinationen
-
-- **Windows + Shift + S** – Öffnet die Screenshot-Funktionen des Snipping Tools
+### Hinweis
+Alternativ können Sie die Screenshot-Funktionen auch über eine Tastenkombination starten.
+Die vollständige Liste der Tastenkombinationen finden Sie im Abschnitt *Tastenkombinationen*
 
 
 
