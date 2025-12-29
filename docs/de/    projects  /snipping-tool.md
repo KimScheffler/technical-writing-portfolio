@@ -10,7 +10,20 @@ The **Windows Snipping Tool** is a built-in Windows application that allows you 
 save, and share screenshots and screenvideos of specific areas of the screen, individual windows, or the entire 
 screen.
 
-This documentation explains how to take and save screenshots using the Windows Snipping Tool 
-on **Windows 10 and Windows 11**.
+## Task: Snipping Tool starten
+
+So starten Sie das Snipping Tool unter Windows 10 oder Windows 11:
+
+1. Öffnen Sie die **Windows-Suche**.
+2. Geben Sie **Snipping Tool** ein.
+3. Klicken Sie auf **Öffnen**.
+
+Das Snipping Tool wird gestartet und ist einsatzbereit.
+
+### Tastenkombinationen
+
+- **Windows + Shift + S** – Öffnet die Screenshot-Funktionen des Snipping Tools
+
+
 
 
