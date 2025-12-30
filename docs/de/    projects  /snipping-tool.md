@@ -26,6 +26,9 @@ Diese Dokumentation beschreibt grundlegende Funktionen des Snipping Tools, wie s
 **Windows 10** und **Windows 11** verfügbar sind. Einzelne Funktionen oder 
 Benutzeroberflächen können je nach Windows-Version oder App-Update abweichen.
 
+![Snipping Tool – Startansicht](../../assets/images/snipping-tool-start.png)
+
+
 ---
 
 ## Snipping Tool starten
