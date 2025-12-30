@@ -1,7 +1,7 @@
 # Windows Snipping Tool: Taking and Saving Screenshots
 
 ## Inhalt
-1. What is the Windows Snipping Tool?
+1. [What is the Windows Snipping Tool?](#Was-ist-das-Windows-Snipping-Tool?)
 2. Snipping Tool starten
 3. 
 
