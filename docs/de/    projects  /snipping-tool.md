@@ -1,48 +1,61 @@
-# Windows Snipping Tool: Bildschrimaufnahmen erstellen und speichern
-
+# Windows Snipping Tool
 ## Inhalt
 
 1. [Was ist das Windows Snipping Tool?](#was-ist-das-windows-snipping-tool)
 2. [Snipping Tool starten](#snipping-tool-starten)
 3. [Ein Bildschirmfoto erstellen](#ein-bildschirmfoto-erstellen)
 4. [Ein Bildschirmvideo aufnehmen](#ein-bildschirmvideo-aufnehmen)
-5. [Text aus einem Bildschirmfoto kopieren](#text-aus-einem-Bildschirmfoto-kopieren)
+5. [Text aus einem Bildschirmfoto kopieren](#text-aus-einem-bildschirmfoto-kopieren)
+6. [Referenzinformationen](#referenzinformationen)
+   - [Dateiformate](#dateiformate)
+   - [Aufnahmeformen](#aufnahmeformen)
+   - [Tastenkombinationen](#tastenkombinationen)
+
+---
 
 ## Was ist das Windows Snipping Tool?
 
-Das **Windows Snipping Tool** ist eine eingebaute Windows-App, mit der du Screenshots und Bildschirmvideos von bestimmten Bildschirmbereichen, einzelnen Fenstern oder dem ganzen Bildschirm machen, speichern und teilen kannst.
+Das **Windows Snipping Tool** ist eine Windows-App zum Erstellen, Bearbeiten und Speichern von 
+**Bildschirmfotos** und **Bildschirmvideos**.
+
+Mit dem Snipping Tool können Sie bestimmte Bildschirmbereiche, einzelne Fenster oder den 
+gesamten Bildschirm erfassen, zum Beispiel für Dokumentations-, Kommunikations- oder 
+Supportzwecke.
+
+Diese Dokumentation beschreibt grundlegende Funktionen des Snipping Tools, wie sie unter 
+**Windows 10** und **Windows 11** verfügbar sind. Einzelne Funktionen oder 
+Benutzeroberflächen können je nach Windows-Version oder App-Update abweichen.
+
+---
 
 ## Snipping Tool starten
-
-So starten Sie das Snipping Tool unter Windows 10 oder Windows 11:
 
 1. Öffnen Sie die **Windows-Suche**.
 2. Geben Sie **Snipping Tool** ein.
 3. Klicken Sie auf **Öffnen**.
 
-### Hinweis
-Alternativ können Sie die Screenshot-Funktionen auch über eine Tastenkombination starten.
-Die vollständige Liste der Tastenkombinationen finden Sie im Abschnitt *Tastenkombinationen*
+Das Snipping Tool wird gestartet und ist einsatzbereit.
 
+### Hinweis
+
+Alternativ können Sie die Screenshot-Funktionen auch über eine Tastenkombination starten.  
+Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt 
+[*Tastenkombinationen*](#tastenkombinationen).
+
+---
 
 ## Ein Bildschirmfoto erstellen
 
 1. Öffnen Sie das **Snipping Tool**.
-2. Wählen Sie in der Werkzeugleiste die gewünschte **Aufnahmeform**:
-   - Rechteck
-   - Fenster
-   - Vollbild
-   - Freihandform
+2. Wählen Sie in der Werkzeugleiste eine **Aufnahmeform**.
 3. (Optional) Legen Sie eine **Verzögerung** fest.
 4. Klicken Sie auf **Neu**.
 5. Markieren Sie den gewünschten Bildschirmbereich.
-6. Drücken Sie Enter.
 
-Das Bildschirmfoto wird anschließend im Bearbeitungsfenster geöffnet.
+Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unterstützten Dateiformat gespeichert werden.
 
-### Tipps
-- Für Software-Dokumentation eignet sich die **Fensteraufnahme** besonders gut.
-- Verzögerungen sind hilfreich bei aufklappenden Menüs oder Meldungen.
+
+---
 
 ## Ein Bildschirmvideo aufnehmen
 
@@ -52,7 +65,13 @@ Das Bildschirmfoto wird anschließend im Bearbeitungsfenster geöffnet.
 4. Klicken Sie auf **Aufnahme starten**.
 5. Beenden Sie die Aufnahme über **Aufnahme beenden**.
 
-Das Video wird anschließend geladen und kann gespeichert werden.
+Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
+
+### Hinweis
+
+Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
+
+---
 
 ## Text aus einem Bildschirmfoto kopieren
 
@@ -60,16 +79,40 @@ Das Video wird anschließend geladen und kann gespeichert werden.
 2. Klicken Sie im Snipping Tool auf **Text kopieren**.
 3. Fügen Sie den Text in eine andere Anwendung ein.
 
-### Tips
-- Helle Hintergründe verbessern die Texterkennung.
-- Achten Sie auf eine passende Bildschirmauflösung.
+Der erkannte Text steht anschließend zur weiteren Verwendung zur Verfügung.
 
-## Tastenkombinationen
+---
 
-- **Windows + Shift + S** – Screenshot-Funktionen öffnen
-- **Strg + S** – Screenshot speichern
-- **Esc** – Aufnahme abbrechen
+## Referenzinformationen
 
+### Dateiformate
 
+Das Snipping Tool unterstützt die folgenden Dateiformate:
 
+#### Bildschirmfotos
+- PNG
+- JPG
+- GIF
+
+#### Bildschirmvideos
+- MP4
+
+---
+
+### Aufnahmeformen
+
+Das Snipping Tool unterstützt folgende Aufnahmeformen:
+
+- **Rechteck** – Aufnahme eines rechteckigen Bildschirmbereichs  
+- **Fenster** – Aufnahme eines einzelnen Fensters  
+- **Vollbild** – Aufnahme des gesamten Bildschirms  
+- **Freihandform** – Freihändige Auswahl eines Bereichs  
+
+---
+
+### Tastenkombinationen
+
+- **Windows + Shift + S** – Screenshot-Funktionen öffnen  
+- **Strg + S** – Screenshot oder Video speichern  
+- **Esc** – Aufnahme abbrechen  
 
