@@ -4,8 +4,9 @@
 
 1. [Was ist das Windows Snipping Tool?](#was-ist-das-windows-snipping-tool)
 2. [Snipping Tool starten](#snipping-tool-starten)
-3. [Ein Bildschirmfoto erstellen](#ein-bildschirmfoto-erstellen]
-
+3. [Ein Bildschirmfoto erstellen](#ein-bildschirmfoto-erstellen)
+4. [Ein Bildschirmvideo aufnehmen](#ein-bildschirmvideo-aufnehmen)
+5. [Text aus einem Bildschirmfoto kopieren](#text-aus-einem-Bildschirmfoto-kopieren)
 
 ## Was ist das Windows Snipping Tool?
 
@@ -43,7 +44,25 @@ Das Bildschirmfoto wird anschließend im Bearbeitungsfenster geöffnet.
 - Für Software-Dokumentation eignet sich die **Fensteraufnahme** besonders gut.
 - Verzögerungen sind hilfreich bei aufklappenden Menüs oder Meldungen.
 
+## Ein Bildschirmvideo aufnehmen
 
+1. Öffnen Sie das **Snipping Tool**.
+2. Wechseln Sie in der Werkzeugleiste in den **Video-Modus**.
+3. Wählen Sie den gewünschten Aufnahmebereich.
+4. Klicken Sie auf **Aufnahme starten**.
+5. Beenden Sie die Aufnahme über **Aufnahme beenden**.
+
+Das Video wird anschließend geladen und kann gespeichert werden.
+
+## Text aus einem Bildschirmfoto kopieren
+
+1. Erstellen Sie ein **Bildschirmfoto**.
+2. Klicken Sie im Snipping Tool auf **Text kopieren**.
+3. Fügen Sie den Text in eine andere Anwendung ein.
+
+### Tips
+- Helle Hintergründe verbessern die Texterkennung.
+- Achten Sie auf eine passende Bildschirmauflösung.
 
 ## Tastenkombinationen
 
