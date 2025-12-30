@@ -1,16 +1,15 @@
-# Windows Snipping Tool: Taking and Saving Screenshots
+# Windows Snipping Tool: Bildschrimaufnahmen erstellen und speichern
 
 ## Inhalt
 
 1. [Was ist das Windows Snipping Tool?](#was-ist-das-windows-snipping-tool)
 2. [Snipping Tool starten](#snipping-tool-starten)
+3. [Ein Bildschirmfoto erstellen](#ein-bildschirmfoto-erstellen]
 
 
 ## Was ist das Windows Snipping Tool?
 
-The **Windows Snipping Tool** is a built-in Windows application that allows you to capture, 
-save, and share screenshots and screenvideos of specific areas of the screen, individual windows, or the entire 
-screen.
+Das **Windows Snipping Tool** ist eine eingebaute Windows-App, mit der du Screenshots und Bildschirmvideos von bestimmten Bildschirmbereichen, einzelnen Fenstern oder dem ganzen Bildschirm machen, speichern und teilen kannst.
 
 ## Snipping Tool starten
 
@@ -20,14 +19,12 @@ So starten Sie das Snipping Tool unter Windows 10 oder Windows 11:
 2. Geben Sie **Snipping Tool** ein.
 3. Klicken Sie auf **Öffnen**.
 
-Das Snipping Tool wird gestartet und ist einsatzbereit.
-
 ### Hinweis
 Alternativ können Sie die Screenshot-Funktionen auch über eine Tastenkombination starten.
 Die vollständige Liste der Tastenkombinationen finden Sie im Abschnitt *Tastenkombinationen*
 
 
-## Ein Bildschirmfoto erstellen.
+## Ein Bildschirmfoto erstellen
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Wählen Sie in der Werkzeugleiste die gewünschte **Aufnahmeform**:
