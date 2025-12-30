@@ -2,7 +2,7 @@
 
 ## Inhalt
 
-1. [What is the Windows Snipping Tool?](#what-is-the-windows-snipping-tool)
+1. [Was ist das Windows Snipping Tool?](#was-ist-das-windows-snipping-tool)
 2. [Snipping Tool starten](#snipping-tool-starten)
 
 
