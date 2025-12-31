@@ -8,7 +8,7 @@
 5. [Text aus einem Bildschirmfoto kopieren](#text-aus-einem-bildschirmfoto-kopieren)
 6. [Referenzinformationen](#referenzinformationen)
    - [Dateiformate](#dateiformate)
-   - [Aufnahmeformen](#aufnahmeformen)
+   - [Aufnahmeform festlegen](#aufnahmeform-festlegen)
    - [Tastenkombinationen](#tastenkombinationen)
 
 ---
@@ -51,14 +51,16 @@ Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Stellen Sie sicher, dass der **Foto-Modus** ausgewählt ist.
-   ![Foto-Modus](../../assets/images/snipping-tool-capture.png)
+   ![Schaltfläche zur Auswahl des Foto-Modus](../../assets/images/snipping-tool-capture.png)
 3. (Optional) Legen Sie eine **Verzögerung** fest.
-   ![Verzögerung](../../assets/images/snipping-tool-delay.png)
+   ![Schaltfläche zur Auswahl der Verzögerung](../../assets/images/snipping-tool-delay.png)
 4. Markieren Sie den gewünschten Aufnahmebereich.
-   ![Bildschirmbereich](../../assets/images/snipping-tool-area.png)
 6. Klicken Sie auf **Neu**.
 
 Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unterstützten Dateiformat gespeichert werden.
+
+### Hinweis
+Weitere Informationen zur Auswahl der Aufnahmeform finden Sie unter [*Aufnahmeform festlegen*](#aufnahmeform-festlegen).
 
 
 ---
@@ -67,29 +69,49 @@ Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unters
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Wechseln Sie in der Werkzeugleiste in den **Video-Modus**.
-   ![Video-Modus](../../assets/images/snipping-tool-video.png)
-4. Wählen Sie den gewünschten Aufnahmebereich.
+   ![Schaltfläche zur Auswahl des Video-Modus](../../assets/images/snipping-tool-video.png)
+4. Wählen Sie die gewünschte Aufnahmeform.
 5. Klicken Sie auf **Start**, um die Aufnahme zu starten.
 6. Beenden Sie die Aufnahme über **Aufnahme beenden**.
 
 Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 
-### Hinweis
+### Hinweise
 
-Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
+- Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
+- Weitere Informationen zur Auswahl der Aufnahmeform finden Sie unter [*Aufnahmeform festlegen*](#aufnahmeform-festlegen).
 
 ---
 
 ## Text aus einem Bildschirmfoto kopieren
 
-1. Klicken Sie im Snipping Tool auf **Text kopieren**.
-   ![Text kopieren](../../assets/images/snipping-tool-text2.png)
+1. Öffnen Sie das **Snipping Tool**.
+2. Klicken Sie im Snipping Tool auf **Text kopieren**.
+   ![Schaltfläche zur Auswahl des OCR-Mudus](../../assets/images/snipping-tool-text2.png)
 3. Wählen Sie den Bereich, in dem sich der Text befindet.
 4. Fügen Sie den Text in eine andere Anwendung ein.
 
 Der erkannte Text steht anschließend zur weiteren Verwendung zur Verfügung.
 
 ---
+
+## Farbe vom Bildschirm erfassen
+
+Mit dem Color Picker können Sie eine Farbe direkt vom Bildschirm aufnehmen
+und den Farbwert in anderen Anwendungen weiterverwenden, z. B. für Design-
+oder Dokumentationszwecke.
+
+1. Öffnen Sie das **Snipping Tool**.
+2. Klicken Sie 
+3. Klicken Sie im Snipping Tool auf **Farbe auswählen** (Color Picker).
+2. Bewegen Sie den Mauszeiger über den gewünschten Bildschirmbereich.
+3. Klicken Sie auf die gewünschte Farbe.
+4. Kopieren Sie den angezeigten Farbwert.
+
+### Ergebnis
+Der Farbwert steht zur Verwendung in anderen Anwendungen
+(z. B. Design- oder Entwicklungswerkzeugen) zur Verfügung.
+
 
 ## Referenzinformationen
 
@@ -107,7 +129,12 @@ Das Snipping Tool unterstützt die folgenden Dateiformate:
 
 ---
 
-### Aufnahmeformen
+### Aufnahmeform festlegen
+
+Über die Schaltfläche **Aufnahmeform** legen Sie fest, welcher Bereich des Bildschirms
+erfasst werden soll.
+
+![Schaltfläche zur Auswahl der Aufnahmeform](../../assets/images/snipping-tool-area.png)
 
 Das Snipping Tool unterstützt folgende Aufnahmeformen:
 
