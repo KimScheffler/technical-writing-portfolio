@@ -83,7 +83,7 @@ Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools
 ## Text aus einem Bildschirmfoto kopieren
 
 1. Klicken Sie im Snipping Tool auf **Text kopieren**.
-   ![Text kopieren](../../assets/images/snipping-tool-text.png)
+   ![Text kopieren](../../assets/images/snipping-tool-text2.png)
 3. Wählen Sie den Bereich, in dem sich der Text befindet.
 4. Fügen Sie den Text in eine andere Anwendung ein.
 
