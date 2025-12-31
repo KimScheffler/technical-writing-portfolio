@@ -6,7 +6,8 @@
 3. [Ein Bildschirmfoto erstellen](#ein-bildschirmfoto-erstellen)
 4. [Ein Bildschirmvideo aufnehmen](#ein-bildschirmvideo-aufnehmen)
 5. [Text aus einem Bildschirmfoto kopieren](#text-aus-einem-bildschirmfoto-kopieren)
-6. [Referenzinformationen](#referenzinformationen)
+6. [Farbe vom Bildschirm bestimmen](#farbe-vom-bildschirm-bestimmen)
+7. [Referenzinformationen](#referenzinformationen)
    - [Dateiformate](#dateiformate)
    - [Aufnahmeform festlegen](#aufnahmeform-festlegen)
    - [Tastenkombinationen](#tastenkombinationen)
@@ -27,7 +28,6 @@ Diese Dokumentation beschreibt grundlegende Funktionen des Snipping Tools, wie s
 Benutzeroberflächen können je nach Windows-Version oder App-Update abweichen.
 
 ![Snipping Tool – Startansicht](../../assets/images/snipping-tool-start.jpg)
-
 
 ---
 
@@ -54,14 +54,13 @@ Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt
    ![Schaltfläche zur Auswahl des Foto-Modus](../../assets/images/snipping-tool-capture.png)
 3. (Optional) Legen Sie eine **Verzögerung** fest.
    ![Schaltfläche zur Auswahl der Verzögerung](../../assets/images/snipping-tool-delay.png)
-4. Markieren Sie den gewünschten Aufnahmebereich.
-6. Klicken Sie auf **Neu**.
+4. Klicken Sie auf **Neu**.
+5. Markieren Sie den gewünschten Aufnahmebereich.
 
 Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unterstützten Dateiformat gespeichert werden.
 
 ### Hinweis
 Weitere Informationen zur Auswahl der Aufnahmeform finden Sie unter [*Aufnahmeform festlegen*](#aufnahmeform-festlegen).
-
 
 ---
 
@@ -87,7 +86,7 @@ Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Klicken Sie im Snipping Tool auf **Text kopieren**.
-   ![Schaltfläche zur Auswahl des OCR-Mudus](../../assets/images/snipping-tool-text2.png)
+   ![Schaltfläche zur Auswahl des OCR-Modus](../../assets/images/snipping-tool-text2.png)
 3. Wählen Sie den Bereich, in dem sich der Text befindet.
 4. Fügen Sie den Text in eine andere Anwendung ein.
 
@@ -95,22 +94,19 @@ Der erkannte Text steht anschließend zur weiteren Verwendung zur Verfügung.
 
 ---
 
-## Farbe vom Bildschirm erfassen
+## Farbe vom Bildschirm bestimmen
 
-Mit dem Color Picker können Sie eine Farbe direkt vom Bildschirm aufnehmen
+Mit dem Colour Picker (Farbwähler) können Sie eine Farbe direkt vom Bildschirm bestimmen
 und den Farbwert in anderen Anwendungen weiterverwenden, z. B. für Design-
 oder Dokumentationszwecke.
 
 1. Öffnen Sie das **Snipping Tool**.
-2. Klicken Sie 
-3. Klicken Sie im Snipping Tool auf **Farbe auswählen** (Color Picker).
-2. Bewegen Sie den Mauszeiger über den gewünschten Bildschirmbereich.
-3. Klicken Sie auf die gewünschte Farbe.
-4. Kopieren Sie den angezeigten Farbwert.
+2. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
+3. Wählen Sie den **Colour Picker**.
+4. Bewegen Sie den Mauszeiger über den gewünschten Bildschirmbereich.
+5. Um den angezeigten Farbwert zu kopieren, klicken Sie auf die gewünschte Farbe.
 
-### Ergebnis
-Der Farbwert steht zur Verwendung in anderen Anwendungen
-(z. B. Design- oder Entwicklungswerkzeugen) zur Verfügung.
+Der Farbwert steht zur Verwendung in anderen Anwendungen (z. B. Design- oder Entwicklungswerkzeugen) zur Verfügung.
 
 
 ## Referenzinformationen
