@@ -50,13 +50,13 @@ Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt
 ## Ein Bildschirmfoto erstellen
 
 1. Öffnen Sie das **Snipping Tool**.
-2. Wählen Sie in der Werkzeugleiste eine **Aufnahmeform**.
-   ![Aufnahmeform](../../assets/images/snipping-tool-capture.jpg)
-4. (Optional) Legen Sie eine **Verzögerung** fest.
-   ![Verzögerung](../../assets/images/snipping-tool-delay.jpg)
+2. Stellen Sie sicher, dass der **Foto-Modus** ausgewählt ist.
+   ![Foto-Modus](../../assets/images/snipping-tool-capture.png)
+3. (Optional) Legen Sie eine **Verzögerung** fest.
+   ![Verzögerung](../../assets/images/snipping-tool-delay.png)
+4. Markieren Sie den gewünschten Aufnahmebereich.
+   ![Bildschirmbereich](../../assets/images/snipping-tool-area.png)
 6. Klicken Sie auf **Neu**.
-   ![Neu](../../assets/images/snipping-tool-new.jpg)
-8. Markieren Sie den gewünschten Bildschirmbereich.
 
 Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unterstützten Dateiformat gespeichert werden.
 
@@ -67,9 +67,10 @@ Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unters
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Wechseln Sie in der Werkzeugleiste in den **Video-Modus**.
-3. Wählen Sie den gewünschten Aufnahmebereich.
-4. Klicken Sie auf **Aufnahme starten**.
-5. Beenden Sie die Aufnahme über **Aufnahme beenden**.
+   ![Video-Modus](../../assets/images/snipping-tool-video.png)
+4. Wählen Sie den gewünschten Aufnahmebereich.
+5. Klicken Sie auf **Start**, um die Aufnahme zu starten.
+6. Beenden Sie die Aufnahme über **Aufnahme beenden**.
 
 Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 
@@ -81,9 +82,10 @@ Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools
 
 ## Text aus einem Bildschirmfoto kopieren
 
-1. Erstellen Sie ein **Bildschirmfoto**.
-2. Klicken Sie im Snipping Tool auf **Text kopieren**.
-3. Fügen Sie den Text in eine andere Anwendung ein.
+1. Klicken Sie im Snipping Tool auf **Text kopieren**.
+   ![Text kopieren](../../assets/images/snipping-tool-text.png)
+3. Wählen Sie den Bereich, in dem sich der Text befindet.
+4. Fügen Sie den Text in eine andere Anwendung ein.
 
 Der erkannte Text steht anschließend zur weiteren Verwendung zur Verfügung.
 
