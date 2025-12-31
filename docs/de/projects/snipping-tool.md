@@ -51,9 +51,12 @@ Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Wählen Sie in der Werkzeugleiste eine **Aufnahmeform**.
-3. (Optional) Legen Sie eine **Verzögerung** fest.
-4. Klicken Sie auf **Neu**.
-5. Markieren Sie den gewünschten Bildschirmbereich.
+   ![Aufnahmeform](../../assets/images/snipping-tool-capture.jpg)
+4. (Optional) Legen Sie eine **Verzögerung** fest.
+   ![Verzögerung](../../assets/images/snipping-tool-delay.jpg)
+6. Klicken Sie auf **Neu**.
+   ![Neu](../../assets/images/snipping-tool-new.jpg)
+8. Markieren Sie den gewünschten Bildschirmbereich.
 
 Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unterstützten Dateiformat gespeichert werden.
 
