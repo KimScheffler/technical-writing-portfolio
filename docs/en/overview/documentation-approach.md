@@ -13,7 +13,7 @@ focus on task-oriented documentation, clear information architecture, and user-c
 The diagram illustrates the main stages of my documentation process, providing a 
 shared frame of reference for the sections below.
 
-![Overview of the typical 12-step documentation process for task-oriented technical writing](../assets/images/12Principles_en.png)
+![Overview of the typical 12-step documentation process for task-oriented technical writing](../../assets/images/12Principles_en.png)
 
 *Figure 1: High-level overview of the documentation lifecycle used in this portfolio.*
 
