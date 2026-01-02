@@ -79,21 +79,11 @@ UI-Elemente werden:
 - **nicht übersetzt**, wenn sie in der Anwendung englisch sind
 - **nicht paraphrasiert**
 - **einheitlich formatiert** (fett hervorgehoben)
-- - Ein Begriff = eine Bedeutung
+- Ein Begriff = eine Bedeutung
 
 Dies gilt insbesondere für Schaltflächen, Modi und Werkzeugnamen.
 
-### Beispiele aus diesem Portfolio
-
-| Begriff | Bedeutung |
-|------|---------|
-| Aufnahmeform | Art der Auswahl (z. B. Rechteck, Fenster) |
-| Bildschirmbereich | Tatsächlich markierter Bereich |
-| Foto-Modus | Modus für Screenshots |
-| Video-Modus | Modus für Bildschirmaufnahmen |
-| Farbwert | Ergebnis der Farbauswahl |
-
-UI-Begriffe werden **fett** hervorgehoben.
+Verbindliche UI-Bezeichnungen sind im projektspezifischen Glossar definiert und werden in der Dokumentation konsistent verwendet.
 
 ---
 
