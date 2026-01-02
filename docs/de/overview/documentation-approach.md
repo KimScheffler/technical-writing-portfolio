@@ -99,5 +99,6 @@ verstanden, das sich gemeinsam mit Software und Nutzeranforderungen weiterentwic
 Dieser Ansatz ermöglicht es, Dokumentation zu erstellen, die Nutzer effektiv unterstützt
 und gleichzeitig nachhaltig für Entwicklungs- und Dokumentationsteams bleibt.
 
-Dieser Ansatz ermöglicht es, Dokumentation zu erstellen, die Nutzer effektiv unterstützt und 
-gleichzeitig nachhaltig für Entwicklungs- und Dokumentationsteams bleibt.
+---
+
+**Hinweis:** Zur Erstellung dieses Portfolios wurde *ChatGPT (Version 5.2)* als unterstützendes Werkzeug für Strukturierung und Textausarbeitung verwendet. Inhalte, Terminologie und alle beschriebenen Arbeitsschritte wurden von mir geprüft, fachlich validiert und iterativ überarbeitet.
