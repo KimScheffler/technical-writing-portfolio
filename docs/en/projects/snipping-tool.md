@@ -83,8 +83,8 @@ The screen video is displayed in the Snipping Tool and can be saved.
 ## Copy text from a screenshot
 
 1. Open the **Snipping Tool**.
-2. Select **Text actions**.
-   ![Button to select OCR mode](../../assets/images/snipping-tool-text2.png)
+2. Select **Text extractor**.
+   ![Button to select the Text extractor](../../assets/images/snipping-tool-text2.png)
 3. Select the area containing the text.
 4. Paste the copied text into another application.
 
@@ -92,7 +92,7 @@ The recognized text is now available for further use.
 
 ### Note
 
-When copying text from a screenshot, you can optionally enable automatic **removal of line breaks** to optimize the text for use in other applications.
+When copying text from a screenshot, you can optionally **remove line breaks** to optimize the text for use in other applications.
 
 ---
 
