@@ -9,6 +9,16 @@ Er gilt projektübergreifend (z. B. für das Snipping Tool und memoQ).
 ## Inhalt
 
 1. [Informationsarten](#informationsarten)
+2. [Sprachstil](#sprachstil)
+3. [Satzbau und Stil](#satzbau-und-stil)
+4. [Terminologie](#terminologie)
+5. [Struktur von Tasks](#struktur-von-tasks)
+6. [Hinweise](#hinweise)
+7. [Referenzinformationen](#referenzinformationen)
+8. [Bilder und Grafiken](#bilder-und-grafiken)
+9. [Barrierefreiheit](#barrierefreiheit)
+10. [Wartbarkeit](#wartbarkeit)
+11. [Barrierefreiheit](#barrierefreiheit)
 
 ## Informationsarten
 
@@ -165,14 +175,5 @@ Beispiel:
 - UI-abhängige Details möglichst abstrahieren
 
 ---
-
-## Grundprinzipien
-
-Diese Prinzipien gelten für alle Dokumente:
-
-- Nutzerziele vor Systemfunktionen
-- Klarheit vor Vollständigkeit
-- Konsistenz vor Kreativität
-- Wartbarkeit vor Detailtiefe
 
 
