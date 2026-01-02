@@ -27,3 +27,5 @@ a stirred extraction column.
 Cultivation of plant cells (Prof. Ulber); comparison of secondary metabolite
 production across different plant cell cultures and fermentation methods;
 purification using HPLC.
+
+![Master certificate in Bio- and Environmental Process Engineering](../../assets/certificates/master-bio-process.png)
