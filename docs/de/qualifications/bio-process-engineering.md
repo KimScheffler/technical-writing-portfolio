@@ -19,4 +19,4 @@ Einzel- und Schwarmtropfenuntersuchungen in DN32 Kühni Geometrie für ein reakt
 ### Studienarbeit im Bereich Bioverfahrenstechnik
 Kultivierung von Pflanzenzellen (Prof. Ulber); Vergleich der Produktion von Sekundärmetaboliten in verschiedenen Pflanzenzellen und Fermentationsmethoden; Aufreinigung über HPLC
 
-![Zertifikat über den Abschluss in Bio- und Umweltverfahrenstechnik](../../assets/certificates/diplom-bio-process.jpg)
+![Zertifikat über den Abschluss in Bio- und Umweltverfahrenstechnik](../../assets/certificates/diplom-bio-process.png)
