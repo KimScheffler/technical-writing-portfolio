@@ -2,8 +2,8 @@
 
 | English | German | Description |
 |--------|--------|-------------|
-| Color picker | Farbwähler | Tool for selecting a color value directly from the screen |
-| Color value | Farbwert | Result of the color selection (for example, HEX or RGB value) |
+| Colour picker | Farbwähler | Tool for selecting a color value directly from the screen |
+| Colour value | Farbwert | Result of the color selection (for example, HEX or RGB value) |
 | Delay snip | Ausschnitt nach Verzögerung | Screenshot created after a defined delay |
 | Remove line breaks | Zeilenumbrüche entfernen | Option in the Text Extractor to remove automatic line breaks |
 | Screen recording | Bildschirmvideo | Video recording of a selected screen area |
