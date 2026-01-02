@@ -1,6 +1,6 @@
 # Weiterbildung & Qualifikation
 
-## Diplom in Bio- und Umweltverfahrenstechnik**  
+## Diplom in Bio- und Umweltverfahrenstechnik 
   *RPTU Kaiserslautern*  
   Abschlussjahr: 2016
   Abschlussnote: 1,9
