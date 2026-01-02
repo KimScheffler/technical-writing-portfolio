@@ -35,5 +35,6 @@
 
 ### Weiterbildung & Qualifikation
 
-- [Technical Writing-Kurs](docs/de/professional-development.md)
+- [Technical Writing – Zertifikat](docs/de/technical-writing.md)
+- [Bio- und Umweltverfahrenstechnik – Diplom](docs/de/bio-process-engineering.md)
 
