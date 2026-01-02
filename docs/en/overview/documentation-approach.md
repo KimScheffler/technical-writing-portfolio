@@ -92,3 +92,7 @@ Across all documentation projects, the following principles are applied consiste
 
 This approach enables the creation of documentation that effectively supports users while
 remaining sustainable for development and documentation teams.
+
+---
+
+**Note:** *ChatGPT (version 5.2)* was used as a supportive tool for content structuring and text drafting. All terminology, content, and described workflows were reviewed, professionally validated, and finalized by me.
