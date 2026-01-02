@@ -49,6 +49,10 @@ Informationstypen werden **nicht vermischt**.
 - ✔ *Klicken Sie auf **Neu***  
 - ✘ *Der Button **Neu** wird angeklickt*
 
+### Sprachvariante
+
+Die deutsche Dokumentation wird in **Standarddeutsch** verfasst.
+
 ---
 
 ## Satzbau und Stil
