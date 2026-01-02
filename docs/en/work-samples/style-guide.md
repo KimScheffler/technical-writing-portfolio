@@ -53,6 +53,11 @@ Information types must **not be mixed**.
 - ✔ *Select **New***  
 - ✘ *The **New** button is selected*
 
+### Language Variant
+
+This documentation uses international technical English
+with American English spelling and terminology.
+
 ---
 
 ## Sentence structure and tone
