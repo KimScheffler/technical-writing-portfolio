@@ -52,7 +52,7 @@ Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt
 1. Öffnen Sie das **Snipping Tool**.
 2. Stellen Sie sicher, dass der **Foto-Modus** ausgewählt ist.
    ![Schaltfläche zur Auswahl des Foto-Modus](../../assets/images/snipping-tool-capture.png)
-3. (Optional) Legen Sie eine **Verzögerung** fest.
+3. (Optional) Nehmen Sie einen **Ausschnitt nach Verzögerung** auf.
    ![Schaltfläche zur Auswahl der Verzögerung](../../assets/images/snipping-tool-delay.png)
 4. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
 5. Wählen Sie den gewünschten **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
