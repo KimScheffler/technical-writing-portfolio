@@ -6,6 +6,10 @@ Er gilt projektübergreifend (z. B. für das Snipping Tool und memoQ).
 
 ---
 
+## Inhalt
+
+1. [Informationsarten](#informationsarten)
+
 ## Informationsarten
 
 Es wird konsequent zwischen folgenden Informationstypen unterschieden:
