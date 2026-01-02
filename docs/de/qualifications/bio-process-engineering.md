@@ -1,4 +1,4 @@
-# Weiterbildung & Qualifikation
+# Weiterbildungen & Qualifikationen
 
 ## Diplom in Bio- und Umweltverfahrenstechnik 
   *RPTU Kaiserslautern*  
