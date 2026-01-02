@@ -8,7 +8,7 @@
 | Ausschnittbereich | Snipping area | Der tatsächlich ausgewählte Bildschirmbereich |
 | Bildschirmfoto | Screenshot | Einzelbildaufnahme des Bildschirms |
 | Bildschirmvideo | Screen recording | Videoaufnahme eines Bildschirmbereichs |
-| Farbwähler | Color picker | Werkzeug zum Erfassen eines Farbwerts vom Bildschirm |
-| Farbwert | Color value | Ergebnis der Farbauswahl (z. B. Hex- oder RGB-Wert) |
+| Farbwähler | Colour picker | Werkzeug zum Erfassen eines Farbwerts vom Bildschirm |
+| Farbwert | Colour value | Ergebnis der Farbauswahl (z. B. Hex- oder RGB-Wert) |
 | Textextraktor | Text extractor | Funktion zum Erkennen und Kopieren von Text aus Bildern (OCR) |
 | Zeilenumbrüche entfernen | Remove line breaks | Option im Textextractor, um automatische Zeilenumbrüche zu entfernen|
