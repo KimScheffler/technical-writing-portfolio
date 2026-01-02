@@ -1,33 +1,15 @@
 # Kurzprofil
 
-In der Rolle als Technical Writer liegt mein Schwerpunkt auf **aufgabenorientierter Software-Dokumentation** und 
-strukturierter Informationsarchitektur. Mein Ziel ist es, komplexe technische Systeme durch 
-klare, präzise und nutzerzentrierte Dokumentation verständlich, nutzbar und wartbar zu machen.
+Technical Writer mit wissenschaftlichem Hintergrund und mehrjähriger Erfahrung in
+Übersetzung, Lokalisierung und Qualitätssicherung. Fokus auf klar strukturierte,
+**aufgabenorientierte Dokumentation** für komplexe technische und wissenschaftliche
+Inhalte.
 
-### Arbeitsweise
+Durch meine Ausbildung in **Bio- und Umweltverfahrenstechnik** sowie praktische
+Labor- und Forschungserfahrung bringe ich ein fundiertes Domänenverständnis für
+Biotechnologie und Life Sciences mit.
 
-Ich arbeite nach den Prinzipien der **aufgabenorientierten Dokumentation** und gehe dabei von den 
-Zielen der Nutzer aus – nicht von Systemfunktionen. Inhalte werden entlang konkreter Aufgaben 
-strukturiert und dort durch konzeptionelle und referenzielle Informationen ergänzt, wo sie einen 
-Mehrwert bieten.
-
-Dieser Ansatz unterstützt Nutzer dabei, ihre Ziele effizient zu erreichen, und sorgt 
-gleichzeitig für kompakte, gut wartbare Dokumentation.
-
-### Methodischer Fokus
-
-Ich bin mit dem **DITA-Informationsmodell (Concept, Task, Reference)** vertraut und wende dessen 
-zentrale Prinzipien – Modularität, Wiederverwendbarkeit und die Trennung von Informationstypen – 
-auch bei der Arbeit mit Formaten wie Markdown und GitHub-basierter Dokumentation an.
-
-### Zentrale Prinzipien
-
-In meinem Dokumentationsprozess lege ich besonderen Wert auf:
-- eine klare Definition der Zielgruppen und ihrer Informationsbedürfnisse
-- eine logische und konsistente Informationsarchitektur
-- konsistente Terminologie und Stilrichtlinien
-- präzise, aktive und rechtlich eindeutige Sprache
-
-Dieses Portfolio zeigt meine Fähigkeit, technische Komplexität in strukturierte, 
-aufgabenorientierte Dokumentation zu übersetzen, und gibt Einblick in meinen methodischen 
-Ansatz im professionellen Technical Writing für Softwareprodukte.
+Im Rahmen meiner Weiterbildung im Technical Writing wende ich einen
+**DITA-basierten Dokumentationsansatz** an, mit klarer Trennung von
+Concept-, Task- und Reference-Inhalten, konsistenter Informationsarchitektur sowie
+der Arbeit mit Style Guides und Glossaren in Markdown- und GitHub-basierten Workflows.
