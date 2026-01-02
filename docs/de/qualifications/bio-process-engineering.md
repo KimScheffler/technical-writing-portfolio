@@ -2,6 +2,7 @@
 
 ## Diplom in Bio- und Umweltverfahrenstechnik 
   *RPTU Kaiserslautern*  
+  Abschlussjahr: 2016  
   Abschlussnote: 1,9
 
 ### Studienfokus (Kurzbeschreibung) 
