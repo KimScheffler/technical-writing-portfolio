@@ -9,9 +9,11 @@
 
 ### Work samples
 - [Example 1: Snipping Tool](docs/en/projects/snipping-tool.md)
+  - [Glossary – Snipping Tool](docs/en/projects/snipping-tool-glossary.md)
 - [Example 2: MemoQ](docs/en/projects/memoq.md)
-- [Style Guide](docs/en/projects/style-guide.md)
-- [Glossary – Snipping Tool](docs/en/projects/snipping-tool-glossary.md)
+  - [Glossary – MemoQ](docs/en/projects/memoq-glossary.md)
+- [Global Style Guide](docs/en/projects/style-guide.md)
+
 
 ### Professional Development
 - [Technical Writing course](docs/en/professional-development.md)
