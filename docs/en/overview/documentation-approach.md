@@ -1,37 +1,44 @@
 # Documentation Approach (DITA-based)
 
-This page describes my methodological approach to technical writing and how I structure 
-documentation projects from initial analysis to continuous improvement.
+This page describes the **methodological documentation approach** that was taught as part of my
+technical writing training and shows how I apply this approach in documentation projects—from
+initial analysis to continuous improvement.
 
-My work is guided by established principles of professional technical writing, with a strong 
-focus on task-oriented documentation, clear information architecture, and user-centered content.
+The approach is based on established principles of professional software documentation, with a
+strong focus on **task-oriented documentation**, clear information architecture, and consistently
+user-centered content.
+
+The methods and principles described here are applied across all documentation examples in this
+portfolio, including the **Windows Snipping Tool** project as well as the associated **glossaries**
+and **style guide** that were created as part of the documentation work.
 
 ---
 
 ## Methodological Overview
 
-The diagram illustrates the main stages of my documentation process, providing a 
-shared frame of reference for the sections below.
+The following diagram provides an overview of the principles and steps underlying this
+documentation approach and illustrates the full documentation lifecycle.
 
-![Overview of the typical 12-step documentation process for task-oriented technical writing](../../assets/images/12Principles_en.png)
+![Overview of a typical 12-step documentation process for task-oriented documentation](../../assets/images/12Principles_en.png)
 
-*Figure 1: High-level overview of the documentation lifecycle used in this portfolio.*
+*Figure 1: Overview of the documentation process used in this portfolio.*
 
-The diagram illustrates the main stages of my documentation process, from initial 
-user analysis to continuous improvement.
+The diagram illustrates the key phases of the documentation process—from user analysis to
+continuous improvement.
 
 ---
 
-## From User Analysis to Structured Content
+## From User Analysis to Structured Documentation
 
-My documentation process starts with a clear understanding of **who the users are** and 
-**what they want to achieve** (see steps 1–3 in the diagram).
+The documentation process begins with a clear understanding of **who the users are** and
+**what goals they want to achieve** (see steps 1–3 in the diagram).
 
-At this stage, I focus on identifying target audiences and user roles, understanding user 
-goals and typical tasks, and clarifying information needs and usage contexts.
+At this stage, target audiences and user roles are identified, typical tasks and usage scenarios
+are analyzed, and information needs and usage contexts are clarified.
 
-In addition, I define applicable **style guides and writing standards** early in the process 
-to ensure consistent terminology, tone, and structure across all documentation.
+As part of this approach, **style guides, terminology standards, and writing conventions** are
+defined early to ensure consistent UI naming, tone, and structure across all documentation.
+Global style guides and project-specific glossaries support consistency and content reuse.
 
 This analysis forms the foundation for all subsequent documentation decisions.
 
@@ -39,45 +46,49 @@ This analysis forms the foundation for all subsequent documentation decisions.
 
 ## Information Architecture and Content Design
 
-Designing a clear and logical information architecture is a central part of my approach 
-(steps 4–7 in the diagram).
+Designing a clear and logical information architecture is a central component of the applied
+approach (steps 4–7 in the diagram).
 
-At this stage, I define the **documentation format** and select appropriate **tools** for 
-content creation and maintenance (steps 4–5).
+At this stage, the **documentation format** is defined and appropriate **tools** for content
+creation and maintenance are selected (steps 4–5).
 
-The **content structure** is then designed using a task-oriented approach and based on the 
-**DITA information model**, with a clear distinction between **Concept**, **Task**, and 
-**Reference** content (step 6).
+The **content structure** is then designed using a task-oriented approach and is based on the
+**DITA information model**, with a clear separation of **Concept**, **Task**, and **Reference**
+content. This separation is not only conceptual but is also directly reflected in the structure
+of the individual documentation pages (step 6).
 
-At this stage, I define the output channels of the documentation (step 7), such as web-based help systems, in-product documentation, PDF manuals, or internal knowledge bases.
+Based on this structure, the **output channels** for the documentation are defined (step 7),
+such as web-based help systems, in-product help, PDF documentation, or internal knowledge bases,
+and navigation, terminology, and structure are aligned accordingly.
 
-This structured approach helps ensure that documentation remains understandable, scalable, 
-and easy to maintain over time.
+This structured approach ensures that documentation remains understandable, scalable, and
+maintainable over time.
 
 ---
 
 ## Writing, Review, and Continuous Improvement
 
-Writing the documentation is treated as an iterative process 
-(steps 8–12 in the diagram).
+Documentation is created iteratively (steps 8–12 in the diagram).
 
-At this stage, content is created, reviewed, and refined with a focus on clarity, 
-accuracy, and consistency. Visual elements are used where they support understanding 
-and complement the written content.
+During this phase, content is written, reviewed, and refined with a focus on clarity, technical
+accuracy, and consistency. **Visual elements** are used selectively where they support
+understanding. Reusable graphics and UI elements are placed centrally in reference sections
+whenever possible to avoid redundancy and improve maintainability.
 
-After publication, feedback and usage insights are incorporated to continuously 
-improve the documentation. Documentation is treated as a **living product**, evolving 
-alongside the software and user needs.
+After publication, feedback and usage insights are continuously incorporated into further
+documentation development. Documentation is treated as a **living product** that evolves
+alongside the software and user requirements.
 
 ---
 
 ## Guiding Principles
 
-Across all documentation projects, I consistently apply the following principles:
+Across all documentation projects, the following principles are applied consistently:
+
 - user goals before system features  
-- prioritizing clarity and simplicity
+- clarity and simplicity as guiding priorities  
 - consistency in structure, terminology, and style  
 - maintainability and reusability of content  
 
-This approach allows me to create documentation that supports users effectively while remaining 
-sustainable for development and documentation teams.
+This approach enables the creation of documentation that effectively supports users while
+remaining sustainable for development and documentation teams.
