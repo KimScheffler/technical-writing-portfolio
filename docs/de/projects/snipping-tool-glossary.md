@@ -17,9 +17,3 @@ Die Begriffe entsprechen den Beschriftungen in der Benutzeroberfläche.
 | Farbwert | Color value | Ergebnis der Farbauswahl (z. B. Hex- oder RGB-Wert) |
 | Textextraktor | Text extractor | Funktion zum Erkennen und Kopieren von Text aus Bildern (OCR) |
 | Zeilenumbrüche entfernen | Remove line breaks | Option im Textextraktor|
-
----
-
-**Hinweis:**  
-UI-Bezeichnungen werden in der Dokumentation exakt so verwendet,
-wie sie in der jeweiligen App-Sprache angezeigt werden.
