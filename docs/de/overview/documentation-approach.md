@@ -15,7 +15,7 @@ klare Informationsarchitektur und nutzerzentrierte Inhalte.
 Die folgende Grafik gibt einen Überblick über die Prinzipien und Schritte, die meine 
 Dokumentationsarbeit über den gesamten Dokumentationslebenszyklus hinweg leiten.
 
-![Übersicht über einen typischen 12-stufigen Dokumentationsprozess für aufgabenorientierte Dokumentation](../assets/images/12Principles_de.png)
+![Übersicht über einen typischen 12-stufigen Dokumentationsprozess für aufgabenorientierte Dokumentation](../../assets/images/12Principles_de.png)
 
 *Abbildung 1: Überblick über den im Portfolio verwendeten Dokumentationsprozess.*
 
