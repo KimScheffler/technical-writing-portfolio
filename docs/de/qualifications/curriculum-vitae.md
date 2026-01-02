@@ -1,4 +1,3 @@
-**Kontakt**
 - LinkedIn: www.linkedin.com/in/scheffler-kim
 - E-Mail: code.is.your.key@gmail.com
 
