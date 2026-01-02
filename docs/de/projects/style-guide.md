@@ -110,6 +110,26 @@ Jeder Task besteht aus:
 - **Hinweise** für Optionen oder Sonderfälle
 - **keine** Feature-Listen in Tasks
 
+### Listen und Schrittfolgen
+
+In der Dokumentation werden unterschiedliche Listentypen gezielt eingesetzt:
+
+- **Nummerierte Listen** werden verwendet, wenn die **Reihenfolge der Schritte relevant** ist,
+  insbesondere bei Anleitungen und Tasks.
+- **Aufzählungen (Bulletpoints)** werden verwendet, wenn die **Reihenfolge keine Rolle spielt**,
+  z. B. bei Optionen, Hinweisen oder Referenzinformationen.
+
+#### Umfang von Schrittfolgen
+
+Eine Schrittfolge sollte **nicht mehr als 10 Schritte** enthalten.
+
+Wenn ein Ablauf mehr als 10 Schritte erfordert:
+- wird der Task in **zwei oder mehr logisch abgegrenzte Tasks** aufgeteilt  
+  **oder**
+- der Ablauf wird durch eine **übersichtliche Grafik oder Prozessdarstellung** ergänzt.
+
+Ziel ist es, komplexe Abläufe übersichtlich, verständlich und gut wartbar zu halten.
+
 ---
 
 ## Hinweise
