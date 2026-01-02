@@ -80,7 +80,8 @@ with American English spelling and terminology.
 
 ## Terminology
 
-UI labels are used **exactly as they appear in the user interface**.
+UI labels are **reproduced exactly** as they appear in the user interface. This applies even if the UI spelling differs from the language variant used in the documentation (for example, British vs. American spelling).
+
 
 ### Consistency
 
