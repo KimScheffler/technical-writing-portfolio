@@ -12,31 +12,23 @@
 
 ## German
 
-- [Kurzprofil](docs/de/summary.md)
-- [Dokumentationsansatz (DITA-basiert)](docs/de/documentation-approach.md)
-- [Beispiel 1: Snipping Tool](docs/de/projects/snipping-tool.md)
-- [Beispiel 2: MemoQ](docs/de/projects/memoq.md)
-- [Glossar – Snipping Tool](docs/de/projects/snipping-tool-glossary.md)
-- [Style Guide](docs/de/projects/style-guide.md)
-- [Weiterbildung & Qualifikation](docs/de/professional-development.md)
-
-## Überblick
+### Überblick
 
 - [Kurzprofil](docs/de/summary.md)
 
-## Methodik und Standards
+### Methodik und Standards
 
 - [Dokumentationsansatz (DITA-basiert)](docs/de/documentation-approach.md)
 - [Globaler Style Guide](docs/de/projects/style-guide.md)
 
-## Arbeitsproben
+### Arbeitsproben
 
 - [Beispiel 1: Snipping Tool](docs/de/projects/snipping-tool.md)
-  - [Glossar – Snipping Tool](docs/de/projects/snipping-tool-glossary.md)
+  [Glossar – Snipping Tool](docs/de/projects/snipping-tool-glossary.md)
 - [Beispiel 2: memoQ](docs/de/projects/memoq.md)
-  - [Glossar – memoQ](docs/de/projects/memoq-glossary.md)
+  [Glossar – memoQ](docs/de/projects/memoq-glossary.md)
 
-## Weiterbildung & Qualifikation
+### Weiterbildung & Qualifikation
 
 - [Technical Writing-Kurs](docs/de/professional-development.md)
 
