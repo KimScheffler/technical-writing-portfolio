@@ -24,7 +24,7 @@ With the Snipping Tool, you can capture specific areas of the screen, individual
 
 This documentation describes core Snipping Tool features as available in **Windows 11**. Individual features or user interface elements may vary depending on the Windows version or application updates.
 
-![Snipping Tool – start view](../../assets/images/snipping-tool-start.jpg)
+![Snipping Tool – start view](../../assets/images/snipping-tool-start-en.jpg)
 
 ---
 
