@@ -18,7 +18,6 @@ Er gilt projektübergreifend (z. B. für das Snipping Tool und memoQ).
 8. [Bilder und Grafiken](#bilder-und-grafiken)
 9. [Barrierefreiheit](#barrierefreiheit)
 10. [Wartbarkeit](#wartbarkeit)
-11. [Barrierefreiheit](#barrierefreiheit)
 
 ## Informationsarten
 
