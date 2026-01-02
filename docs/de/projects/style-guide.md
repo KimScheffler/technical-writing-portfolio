@@ -106,7 +106,7 @@ Jeder Task besteht aus:
 2. **Schritte**
 3. **Ergebnis** (Outcome)
 
-### Optional:
+#### Optional:
 - **Hinweise** für Optionen oder Sonderfälle
 - **keine** Feature-Listen in Tasks
 
