@@ -16,7 +16,7 @@ Vergleich der Lipidakkumulation von *C. reinhardtii* und GMO-Stämmen unter vers
 ### Studienarbeit im Bereich Downstream-Verfahren (Thermischen Verfahrenstechnik)
 Einzel- und Schwarmtropfenuntersuchungen in DN32 Kühni Geometrie für ein reaktives Testsystem (Prof. Bart); experimentelle Untersuchung der Tropfen-größenverteilung in einer gerührten Extraktionssäule
 
-### Studienarbeit im Bereich Bioverfahrenstechnik**
+### Studienarbeit im Bereich Bioverfahrenstechnik
 Kultivierung von Pflanzenzellen (Prof. Ulber); Vergleich der Produktion von Sekundärmetaboliten in verschiedenen Pflanzenzellen und Fermentationsmethoden; Aufreinigung über HPLC
 
 
