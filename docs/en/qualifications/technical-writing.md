@@ -11,7 +11,7 @@ The course is designed to provide a structured introduction to technical writing
 software products and is taught by **Jordan Stanchev**, User Assistance Development Architect 
 and founder of JPDocu School of Technical Writing.
 
-![Certificate of completion for the online course "Technical Writing: How to Write Software Documentation"](../assets/certificates/Certificate.jpg)
+![Certificate of completion for the online course "Technical Writing: How to Write Software Documentation"](../../assets/certificates/Certificate.jpg)
 
 ---
 
