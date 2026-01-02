@@ -36,7 +36,7 @@
   - [Glossar – memoQ](docs/de/work-samples/memoq-glossary.md)
 - [Globaler Style Guide](docs/de/work-samples/style-guide.md)
 
-### Weiterbildung & Qualifikation
+### Weiterbildungen & Qualifikationen
 
 - [Technical Writing – Zertifikat](docs/de/qualifications/technical-writing.md)
 - [Bio- und Umweltverfahrenstechnik – Diplom](docs/de/qualifications/bio-process-engineering.md)
