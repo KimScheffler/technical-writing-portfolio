@@ -48,7 +48,7 @@ For an overview of available shortcuts, see [*Keyboard shortcuts*](#keyboard-sho
 1. Open the **Snipping Tool**.
 2. Make sure **Photo mode** is selected.
    ![Button to select Photo mode](../../assets/images/snipping-tool-capture.png)
-3. (Optional) Set a **delay**.
+3. (Optional) Set a Snip delay to delay the capture.
    ![Button to set delay](../../assets/images/snipping-tool-delay.png)
 4. Select **New** to start capture mode.
 5. Choose a **Snipping area** and mark the desired **screen area**.
@@ -57,7 +57,7 @@ The screenshot is displayed and can be edited or saved in a supported file forma
 
 ### Note
 
-For more information about selecting the Snipping area, see [*Select Snipping area*](#select-snipping-area).
+For more information about selecting the **Snipping area**, see [*Select Snipping area*](#select-snipping-area).
 
 ---
 
@@ -76,7 +76,7 @@ The screen video is displayed in the Snipping Tool and can be saved.
 ### Notes
 
 - Screen recording is only available in newer versions of the Snipping Tool.
-- For more information about selecting the Snipping area, see [*Select Snipping area*](#select-snipping-area).
+- For more information about selecting the **Snipping area**, see [*Select Snipping area*](#select-snipping-area).
 
 ---
 
@@ -98,11 +98,11 @@ When copying text from a screenshot, you can optionally **remove line breaks** t
 
 ## Pick a color from the screen
 
-Using the **Color Picker**, you can select a color directly from the screen and reuse the color value in other applications—for example for design or documentation purposes.
+Using the **Colour Picker**, you can select a color directly from the screen and reuse the color value in other applications—for example for design or documentation purposes.
 
 1. Open the **Snipping Tool**.
 2. Select **New** to start capture mode.
-3. Select the **Color Picker**.
+3. Select the **Colour Picker**.
 4. Move the pointer over the desired screen area.
 5. Click to copy the displayed color value.
 
