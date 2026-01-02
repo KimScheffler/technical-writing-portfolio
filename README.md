@@ -17,7 +17,7 @@
 
 ### Professional Development
 - [Technical Writing – Certificate](docs/en/qualifications/technical-writing.md)
-- [Bio and Environmental Processengineering – Master](docs/de/qualifications/bio-process-engineering.md)
+- [Bio and Environmental Process Engineering – Master](docs/de/qualifications/bio-process-engineering.md)
 
 ## German
 
