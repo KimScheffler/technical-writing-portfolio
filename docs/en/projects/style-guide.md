@@ -87,17 +87,7 @@ UI elements:
 
 This applies in particular to buttons, modes, and tool names.
 
-### Examples from this portfolio
-
-| Term | Meaning |
-|------|--------|
-| Snipping area | Area of the screen to be captured |
-| Screen area | The area selected during capture |
-| Photo mode | Mode for creating screenshots |
-| Video mode | Mode for recording screen videos |
-| Color value | Result of selecting a color |
-
-UI labels are formatted in **bold**.
+Binding UI terms are defined in the project-specific glossary and are used consistently throughout the documentation.
 
 ---
 
