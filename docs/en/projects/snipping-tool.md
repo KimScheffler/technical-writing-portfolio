@@ -51,13 +51,13 @@ For an overview of available shortcuts, see [*Keyboard shortcuts*](#keyboard-sho
 3. (Optional) Set a **delay**.
    ![Button to set delay](../../assets/images/snipping-tool-delay.png)
 4. Select **New** to start capture mode.
-5. Choose a **capture mode** and mark the desired **screen area**.
+5. Use the **Snipping area** option to define which part of the screen is captured.
 
 The screenshot is displayed and can be edited or saved in a supported file format.
 
 ### Note
 
-For more information about selecting a capture mode, see [*Select capture mode*](#select-capture-mode).
+For more information about selecting the Snipping area, see [*Select Snipping area*](#select-snipping-area).
 
 ---
 
@@ -67,7 +67,7 @@ For more information about selecting a capture mode, see [*Select capture mode*]
 2. Switch to **Video mode** in the toolbar.
    ![Button to select Video mode](../../assets/images/snipping-tool-video.png)
 3. Select **New** to start capture mode.
-4. Choose a **capture mode** and mark the desired **screen area**.
+4. Use the **Snipping area** option to define which part of the screen is captured.
 5. Select **Start** to begin recording.
 6. End the recording by selecting **Stop recording**.
 
@@ -76,7 +76,7 @@ The screen video is displayed in the Snipping Tool and can be saved.
 ### Notes
 
 - Screen recording is only available in newer versions of the Snipping Tool.
-- For more information about selecting a capture mode, see [*Select capture mode*](#select-capture-mode).
+- For more information about selecting the Snipping area, see [*Select Snipping area*](#select-snipping-area).
 
 ---
 
@@ -126,13 +126,13 @@ The Snipping Tool supports the following file formats:
 
 ---
 
-### Select capture mode
+### Select Snipping area
 
-Use the **Capture mode** button to define **how** the screen is captured, for example as a rectangular area, window, or full screen.
+Use the **Snipping area** button to define **how** the screen is captured.
 
-![Button to select capture mode](../../assets/images/snipping-tool-area.png)
+![Button to select the Snipping area](../../assets/images/snipping-tool-area.png)
 
-The Snipping Tool supports the following capture modes:
+The Snipping Tool supports the following Snipping areas:
 
 - **Rectangle** – Capture a rectangular area  
 - **Window** – Capture a single window  
