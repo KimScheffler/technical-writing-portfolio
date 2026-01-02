@@ -58,9 +58,17 @@ Informationstypen werden **nicht vermischt**.
 
 ## Terminologie
 
+In der Dokumentation werden **UI-Bezeichnungen exakt so verwendet, wie sie in der jeweiligen Benutzeroberfläche angezeigt werden**.
+
 ### Konsistenz
-- Ein Begriff = eine Bedeutung
-- Begriffe werden nicht synonym verwendet
+
+UI-Elemente werden:
+- **nicht übersetzt**, wenn sie in der Anwendung englisch sind
+- **nicht paraphrasiert**
+- **einheitlich formatiert** (fett hervorgehoben)
+- - Ein Begriff = eine Bedeutung
+
+Dies gilt insbesondere für Schaltflächen, Modi und Werkzeugnamen.
 
 ### Beispiele aus diesem Portfolio
 
