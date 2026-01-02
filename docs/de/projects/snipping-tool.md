@@ -9,7 +9,7 @@
 6. [Farbe vom Bildschirm bestimmen](#farbe-vom-bildschirm-bestimmen)
 7. [Referenzinformationen](#referenzinformationen)
    - [Dateiformate](#dateiformate)
-   - [Aufnahmeform festlegen](#aufnahmeform-festlegen)
+   - [Ausschnittbereich festlegen](#ausschnittbereich-festlegen)
    - [Tastenkombinationen](#tastenkombinationen)
 
 ---
@@ -55,12 +55,12 @@ Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt
 3. (Optional) Legen Sie eine **Verzögerung** fest.
    ![Schaltfläche zur Auswahl der Verzögerung](../../assets/images/snipping-tool-delay.png)
 4. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
-5. Wählen Sie die gewünschte **Aufnahmeform** und markieren Sie den gewünschten **Bildschirmbereich**.
+5. Wählen Sie den gewünschten **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
 
 Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unterstützten Dateiformat gespeichert werden.
 
 ### Hinweis
-Weitere Informationen zur Auswahl der Aufnahmeform finden Sie unter [*Aufnahmeform festlegen*](#aufnahmeform-festlegen).
+Weitere Informationen zur Auswahl des Ausschnittbereichs finden Sie unter [*Ausschnittbereich festlegen*](#ausschnittbereich-festlegen).
 
 ---
 
@@ -70,7 +70,7 @@ Weitere Informationen zur Auswahl der Aufnahmeform finden Sie unter [*Aufnahmefo
 2. Wechseln Sie in der Werkzeugleiste in den **Video-Modus**.
    ![Schaltfläche zur Auswahl des Video-Modus](../../assets/images/snipping-tool-video.png)
 3. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
-4. Wählen Sie die gewünschte **Aufnahmeform** und markieren Sie den gewünschten **Bildschirmbereich**.
+4. Wählen Sie die gewünschte **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
 5. Klicken Sie auf **Start**, um die Aufnahme zu starten.
 6. Beenden Sie die Aufnahme über **Aufnahme beenden**.
 
@@ -79,7 +79,7 @@ Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 ### Hinweise
 
 - Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
-- Weitere Informationen zur Auswahl der Aufnahmeform finden Sie unter [*Aufnahmeform festlegen*](#aufnahmeform-festlegen).
+- Weitere Informationen zur Auswahl des Ausschnittbereichs finden Sie unter [*Ausschnittbereich festlegen*](#ausschnittbereich-festlegen).
 
 ---
 
@@ -132,14 +132,14 @@ Das Snipping Tool unterstützt die folgenden Dateiformate:
 
 ---
 
-### Aufnahmeform festlegen
+### Ausschnittbereich festlegen
 
-Über die Schaltfläche **Aufnahmeform** legen Sie fest, welcher Bereich des Bildschirms
+Über die Schaltfläche **Ausschnittbereich** legen Sie fest, welcher Bereich des Bildschirms
 erfasst werden soll.
 
-![Schaltfläche zur Auswahl der Aufnahmeform](../../assets/images/snipping-tool-area.png)
+![Schaltfläche zur Auswahl des Ausschnittbereichs](../../assets/images/snipping-tool-area.png)
 
-Das Snipping Tool unterstützt folgende Aufnahmeformen:
+Das Snipping Tool unterstützt folgende Ausschnittbereiche:
 
 - **Rechteck** – Aufnahme eines rechteckigen Bildschirmbereichs  
 - **Fenster** – Aufnahme eines einzelnen Fensters  
