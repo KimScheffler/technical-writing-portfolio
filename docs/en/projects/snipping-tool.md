@@ -51,7 +51,7 @@ For an overview of available shortcuts, see [*Keyboard shortcuts*](#keyboard-sho
 3. (Optional) Set a **delay**.
    ![Button to set delay](../../assets/images/snipping-tool-delay.png)
 4. Select **New** to start capture mode.
-5. Use the **Snipping area** option to define which part of the screen is captured.
+5. Choose a **Snipping area** and mark the desired **screen area**.
 
 The screenshot is displayed and can be edited or saved in a supported file format.
 
@@ -67,9 +67,9 @@ For more information about selecting the Snipping area, see [*Select Snipping ar
 2. Switch to **Video mode** in the toolbar.
    ![Button to select Video mode](../../assets/images/snipping-tool-video.png)
 3. Select **New** to start capture mode.
-4. Use the **Snipping area** option to define which part of the screen is captured.
-5. Select **Start** to begin recording.
-6. End the recording by selecting **Stop recording**.
+4. Choose a **Snipping area** and mark the desired **screen area**.
+6. Select **Start** to begin recording.
+7. End the recording by selecting **Stop recording**.
 
 The screen video is displayed in the Snipping Tool and can be saved.
 
