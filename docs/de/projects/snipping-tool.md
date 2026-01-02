@@ -103,13 +103,13 @@ für die Weiterverarbeitung in anderen Anwendungen zu optimieren.
 
 ## Farbe vom Bildschirm bestimmen
 
-Mit dem Colour Picker (Farbwähler) können Sie eine Farbe direkt vom Bildschirm bestimmen
+Mit dem Farbwähler können Sie eine Farbe direkt vom Bildschirm bestimmen
 und den Farbwert in anderen Anwendungen weiterverwenden, z. B. für Design-
 oder Dokumentationszwecke.
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
-3. Wählen Sie den **Colour Picker**.
+3. Wählen Sie den **Farbwähler**.
 4. Bewegen Sie den Mauszeiger über den gewünschten Bildschirmbereich.
 5. Um den angezeigten Farbwert zu kopieren, klicken Sie auf die gewünschte Farbe.
 
