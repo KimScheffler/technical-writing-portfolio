@@ -4,7 +4,7 @@
   *RPTU Kaiserslautern*  
   Abschlussnote: 1,9
 
-**Studienfokus (Kurzbeschreibung)** 
+### Studienfokus (Kurzbeschreibung) 
 Der Studiengang vermittelte fundierte Kenntnisse in Bioverfahrenstechnik, Biotechnologie, Prozessengineering und analytischen Methoden mit starkem Praxisbezug im Laborumfeld.
 
 ## Ausgewählte praktische Arbeiten
