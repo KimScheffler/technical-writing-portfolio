@@ -1,4 +1,6 @@
-**100 Days of Code™ – The Complete Python Pro Bootcamp**  
+# Professional Developement
+
+## 100 Days of Code™ – The Complete Python Pro Bootcamp
 *Ongoing professional development*
 
 Practice-oriented online course focused on building a solid foundation in Python
