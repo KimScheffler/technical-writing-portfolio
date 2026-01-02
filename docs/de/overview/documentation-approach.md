@@ -1,39 +1,49 @@
 # Dokumentationsansatz (DITA-basiert)
 
-Diese Seite beschreibt meinen methodischen Ansatz im Technical Writing und zeigt, 
-wie ich Dokumentationsprojekte von der initialen Analyse bis zur kontinuierlichen 
-Weiterentwicklung strukturiere.
 
-Meine Arbeit orientiert sich an etablierten Prinzipien professioneller 
-Software-Dokumentation, mit besonderem Fokus auf **aufgabenorientierte Dokumentation**, 
-klare Informationsarchitektur und nutzerzentrierte Inhalte.
+Diese Seite beschreibt den **methodischen Dokumentationsansatz**, der im Rahmen meiner
+Weiterbildung im Technical Writing vermittelt wurde, und zeigt, wie ich diesen Ansatz
+in Dokumentationsprojekten praktisch anwende – von der initialen Analyse bis zur
+kontinuierlichen Weiterentwicklung.
+
+Der Ansatz orientiert sich an etablierten Prinzipien professioneller
+Software-Dokumentation, mit besonderem Fokus auf **aufgabenorientierte Dokumentation**,
+eine klare Informationsarchitektur und konsequent nutzerzentrierte Inhalte.
+
+Die beschriebenen Methoden und Prinzipien werden in allen Dokumentationsbeispielen
+dieses Portfolios praktisch umgesetzt, unter anderem im Projekt Windows Snipping Tool
+sowie in den zugehörigen Glossaren und dem Style Guide, die im Rahmen der
+Dokumentationsarbeit erstellt wurden.
 
 ---
 
 ## Methodischer Überblick
 
-Die folgende Grafik gibt einen Überblick über die Prinzipien und Schritte, die meine 
-Dokumentationsarbeit über den gesamten Dokumentationslebenszyklus hinweg leiten.
+Die folgende Grafik gibt einen Überblick über die Prinzipien und Schritte, die diesem
+Dokumentationsansatz zugrunde liegen und den gesamten Dokumentationslebenszyklus abbilden.
 
 ![Übersicht über einen typischen 12-stufigen Dokumentationsprozess für aufgabenorientierte Dokumentation](../../assets/images/12Principles_de.png)
 
 *Abbildung 1: Überblick über den im Portfolio verwendeten Dokumentationsprozess.*
 
-Die Grafik zeigt die zentralen Phasen meines Dokumentationsprozesses – von der 
+Die Grafik zeigt die zentralen Phasen des Dokumentationsprozesses – von der
 Nutzeranalyse bis zur kontinuierlichen Verbesserung.
 
 ---
 
 ## Von der Nutzeranalyse zur strukturierten Dokumentation
 
-Mein Dokumentationsprozess beginnt mit einem klaren Verständnis dafür, **wer die Nutzer sind** 
+Der Dokumentationsprozess beginnt mit einem klaren Verständnis dafür, **wer die Nutzer sind**
 und **welche Ziele sie erreichen möchten** (siehe Schritte 1–3 in der Grafik).
 
-In dieser Phase identifiziere ich Zielgruppen und Nutzerrollen, analysiere typische Aufgaben 
-und Nutzungsszenarien und kläre Informationsbedarfe sowie Nutzungskontexte.
+In dieser Phase werden Zielgruppen und Nutzerrollen identifiziert, typische Aufgaben und
+Nutzungsszenarien analysiert sowie Informationsbedarfe und Nutzungskontexte geklärt.
 
-Zusätzlich definiere ich frühzeitig anwendbare **Style Guides und Schreibstandards**, um eine 
-konsistente Terminologie, Tonalität und Struktur in der gesamten Dokumentation sicherzustellen.
+Im Rahmen des Ansatzes werden zudem frühzeitig **Style Guides, Terminologie- und
+Schreibstandards** definiert, um eine konsistente Benennung von UI-Elementen, eine
+einheitliche Tonalität und eine klare Struktur über alle Dokumente hinweg sicherzustellen.
+Globale Style-Guides und projektspezifische Glossare unterstützen dabei die Konsistenz
+und Wiederverwendbarkeit der Inhalte.
 
 Diese Analyse bildet die Grundlage für alle weiteren Entscheidungen im Dokumentationsprozess.
 
@@ -41,40 +51,53 @@ Diese Analyse bildet die Grundlage für alle weiteren Entscheidungen im Dokument
 
 ## Informationsarchitektur und Content-Design
 
-Die Konzeption einer klaren und logischen Informationsarchitektur ist ein zentraler Bestandteil meines Ansatzes (Schritte 4–7 in der Grafik).
+Die Konzeption einer klaren und logischen Informationsarchitektur ist ein zentraler
+Bestandteil des vermittelten Ansatzes (Schritte 4–7 in der Grafik).
 
-In dieser Phase lege ich das **Dokumentationsformat** fest und wähle geeignete **Werkzeuge** für die Erstellung und Pflege der Inhalte aus (Schritte 4–5).
+In dieser Phase werden das **Dokumentationsformat** festgelegt und geeignete
+**Werkzeuge** für die Erstellung und Pflege der Inhalte ausgewählt (Schritte 4–5).
 
-Die **Inhaltsstruktur** wird anschließend aufgabenorientiert gestaltet und basiert auf dem **DITA-Informationsmodell**, mit einer klaren Trennung zwischen **Concept-, Task- und Reference-Inhalten** (Schritt 6).
+Die **Inhaltsstruktur** wird anschließend aufgabenorientiert gestaltet und basiert auf dem
+**DITA-Informationsmodell**, mit einer klaren Trennung zwischen **Concept-, Task- und
+Reference-Inhalten**. Diese Trennung ist nicht nur konzeptionell, sondern auch direkt in
+der Struktur der einzelnen Dokumentationsseiten nachvollziehbar (Schritt 6).
 
-Nun lege ich die **Ausgabekanäle** der Dokumentation fest (Schritt 7), z. B. webbasiertes Hilfesystem, In-Product-Hilfe, PDF-Dokumentation oder interne Wissensdatenbanken.
+Darauf aufbauend werden die **Ausgabekanäle** der Dokumentation definiert (Schritt 7),
+z. B. webbasierte Hilfesysteme, In-Product-Hilfe, PDF-Dokumentation oder interne
+Wissensdatenbanken, und Navigation, Terminologie und Struktur entsprechend ausgerichtet.
 
-Dieser strukturierte Ansatz stellt sicher, dass Dokumentation verständlich, skalierbar und langfristig gut wartbar bleibt.
+Dieser strukturierte Ansatz stellt sicher, dass Dokumentation verständlich, skalierbar
+und langfristig gut wartbar bleibt.
 
 ---
 
 ## Schreiben, Review und kontinuierliche Verbesserung
 
-Die Erstellung der Dokumentation erfolgt iterativ 
-(Schritte 8–12 in der Grafik).
+Die Erstellung der Dokumentation erfolgt iterativ (Schritte 8–12 in der Grafik).
 
-In dieser Phase werden Inhalte erstellt, geprüft und überarbeitet, mit Fokus auf Klarheit, 
-fachliche Korrektheit und Konsistenz. Visuelle Elemente werden dort eingesetzt, wo sie das 
-Verständnis unterstützen und den Text sinnvoll ergänzen.
+In dieser Phase werden Inhalte erstellt, geprüft und überarbeitet, mit Fokus auf Klarheit,
+fachliche Korrektheit und Konsistenz. **Visuelle Elemente** werden gezielt eingesetzt,
+wenn sie das Verständnis unterstützen. Wiederverwendbare Grafiken und UI-Elemente werden
+nach Möglichkeit zentral im Referenzbereich platziert, um Redundanzen zu vermeiden und
+die Wartbarkeit zu erhöhen.
 
-Nach der Veröffentlichung fließen Feedback und Nutzungserkenntnisse kontinuierlich in die 
-Weiterentwicklung der Dokumentation ein. Dokumentation wird dabei als **lebendiges Produkt** 
+Nach der Veröffentlichung fließen Feedback und Nutzungserkenntnisse kontinuierlich in die
+Weiterentwicklung der Dokumentation ein. Dokumentation wird dabei als **lebendiges Produkt**
 verstanden, das sich gemeinsam mit Software und Nutzeranforderungen weiterentwickelt.
 
 ---
 
 ## Zentrale Prinzipien
 
-Über alle Dokumentationsprojekte hinweg wende ich konsequent folgende Prinzipien an:
+Über alle Dokumentationsprojekte hinweg werden folgende Prinzipien konsequent angewendet:
+
 - Nutzerziele vor Systemfunktionen  
 - Klarheit und Einfachheit als leitende Prioritäten  
 - Konsistenz in Struktur, Terminologie und Stil  
 - Wartbarkeit und Wiederverwendbarkeit der Inhalte  
+
+Dieser Ansatz ermöglicht es, Dokumentation zu erstellen, die Nutzer effektiv unterstützt
+und gleichzeitig nachhaltig für Entwicklungs- und Dokumentationsteams bleibt.
 
 Dieser Ansatz ermöglicht es, Dokumentation zu erstellen, die Nutzer effektiv unterstützt und 
 gleichzeitig nachhaltig für Entwicklungs- und Dokumentationsteams bleibt.
