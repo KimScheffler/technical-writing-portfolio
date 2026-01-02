@@ -1,12 +1,7 @@
 # Glossar – Snipping Tool
 
-Dieses Glossar definiert verbindliche UI-Bezeichnungen für die Dokumentation
-des Windows Snipping Tools.  
-Die Begriffe entsprechen den Beschriftungen in der Benutzeroberfläche.
 
----
-
-| Deutscher Begriff | Englischer UI-Name | Beschreibung |
+| Deutsch| Englisch| Beschreibung |
 |------------------|-------------------|--------------|
 | Ausschnitt | Snip | Zentraler Bereich zur Auswahl von Foto- und Video-Modus |
 | Ausschnitt nach Verzögerung | Delay snip | Verzögertes Erstellen eines Screenshots |
