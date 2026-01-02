@@ -1,4 +1,4 @@
-# Weiterbildung & Qualifikation
+# Weiterbildungen & Qualifikationen
 
 ## Technical Writing: How to Write Software Documentation  
 *JPDocu School of Technical Writing*
