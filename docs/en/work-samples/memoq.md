@@ -1,6 +1,8 @@
-## What is memoQ?
-## What is a memoQ project?
+1. [What is memoQ?](#what-is-memoq)
+2. [What is a memoQ project?](#what-is-a-memoq-project)
+3. [What is a memoQ project?](#what-is-a-memoq-project)
 
+---
 
 ## What is memoQ?
 
@@ -14,7 +16,7 @@ with linguistic resources such as **Translation Memories (TMs)** and
 memoQ is commonly used in professional translation workflows to ensure
 consistency, quality, and efficiency across translation projects.
 
-
+![memoQ – start view](../../assets/images/memoq-start.png)
 
 ---
 
