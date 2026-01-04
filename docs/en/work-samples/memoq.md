@@ -5,9 +5,12 @@
 1. [What is memoQ?](#what-is-memoq)
 2. [What is a memoQ project?](#what-is-a-memoq-project)
 3. [Set up a new memoQ project](#set-up-a-new-memoQ-project)
-4. [Upload a Translation Memory](#upload-a-translation-memory)
-5. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
-6. [](#)
+4. [What is a Translation Memory?](#what-is-a-translation-memory)
+5. [Upload a Translation Memory](#upload-a-translation-memory)
+6. [What is a Termbase (Glossary)](#what-is-a-term-base-glossary)
+7. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
+8. [](#)
+9. [](#)
 
 ---
 
@@ -45,7 +48,7 @@ Create a new memoQ project that serves as the basis for managing translation
 files and resources.
 
 1. Open **memoQ**.
-2. From the **Dashboard**, select **Create new project**.
+2. From the **Dashboard**, select **New project**.
    ![Create a new project in memoQ](../../assets/images/memoq-new-project.png)
 3. Enter a **project name** that clearly identifies the translation task.
    ![New memoQ project dialog with project name and language selection](../../assets/images/memoq-new-project-2.png)
@@ -59,22 +62,53 @@ such as **Translation Memories** and **Glossaries**.
 
 ---
 
+## What is a Translation Memory?
+
+A translation memory (TM) is a database that stores previously translated text segments as source–target pairs. When translating, memoQ compares new content with existing entries in the translation memory and suggests:
+
+- exact matches
+- similar (fuzzy) matches
+
+Using a translation memory helps translators:
+
+- work more efficiently
+- ensure consistency across projects
+- reuse existing translations for recurring content
+
+Translation memories are typically imported into a project and assigned to the project’s language pair.
+
 ## Upload a Translation Memory
 
 This task describes how to add an existing translation memory (TM) to a memoQ project so that previously translated content can be reused during translation.
 
-> Voraussetzungen
+> Prerequisites
 > - A memoQ project is created and open.
 > - A translation memory file is available (for example, a .tmx file).
 
 1. Open the memoQ project to which you want to add the translation memory.
 2. Select Translation memories in the project navigation.
-   ![Create a new project in memoQ](../../assets/images/memoq-new-TM.png)
+   ![Create a new TM in memoQ](../../assets/images/memoq-new-TM.png)
 4. Right click on the TM list and select **Create/Use New**.
 5. Choose a name that matches your project.
 6. Right click on new entry in the list and select **Import TM**.
 7. Browse to the location of the translation memory file.
 8. Select the TM file and confirm the import.
 9. Assign the imported translation memory to the project languages, if prompted.
+
+The translation memory is added to the project and can be used to automatically suggest existing translations during the translation process.
+
+## What is a Term Base (Glossary)?
+
+A term base (also called a glossary) stores **approved terminology** and its translations.
+
+Unlike a translation memory, a term base contains individual terms, not full sentences. During translation, memoQ highlights terms from the term base to support correct and consistent terminology usage.
+
+Term bases are commonly used to:
+
+- enforce preferred terminology
+- maintain consistency in technical or regulated content
+- avoid incorrect or outdated term usage
+
+Term bases are usually imported into a project and assigned to the relevant languages.
 
 ## Upload a Term Base (Glossary)
