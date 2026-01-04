@@ -68,9 +68,9 @@ The screenshot is displayed and can be edited or saved in a supported file forma
 
 The screen video is displayed in the Snipping Tool and can be saved.
 
-### Notes
+### Note
 
-- Screen recording is only available in newer versions of the Snipping Tool.
+Screen recording is only available in newer versions of the Snipping Tool.
 
 ---
 
