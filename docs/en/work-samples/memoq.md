@@ -5,8 +5,8 @@
 1. [What is memoQ?](#what-is-memoq)
 2. [What is a memoQ project?](#what-is-a-memoq-project)
 3. [Set up a new memoQ project](#set-up-a-new-memoQ-project)
-4. [](#)
-5. [](#)
+4. [Upload a Translation Memory](#upload-a-translation-memory)
+5. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
 6. [](#)
 
 ---
@@ -69,10 +69,12 @@ This task describes how to add an existing translation memory (TM) to a memoQ pr
 
 1. Open the memoQ project to which you want to add the translation memory.
 2. Select Translation memories in the project navigation.
-3. Click Add.
-4. Select Import TM.
-5. Browse to the location of the translation memory file.
-6. Select the TM file and confirm the import.
-7. Assign the imported translation memory to the project languages, if prompted.
+   ![Create a new project in memoQ](../../assets/images/memoq-new-TM.png)
+4. Right click on the TM list and select **Create/Use New**.
+5. Choose a name that matches your project.
+6. Right click on new entry in the list and select **Import TM**.
+7. Browse to the location of the translation memory file.
+8. Select the TM file and confirm the import.
+9. Assign the imported translation memory to the project languages, if prompted.
 
-
+## Upload a Term Base (Glossary)
