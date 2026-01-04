@@ -30,7 +30,7 @@ Benutzeroberflächen können je nach Windows-Version oder App-Update abweichen.
 ![Snipping Tool – Startansicht](../../assets/images/snipping-tool-start.jpg)
 
 > **Hinweis**  
-> Die in den folgenden Tasks verwendeten Schaltflächen und Bedienelemente sind im Abschnitt  [Aufnahme-Steuerelemente](#aufnahme-steuerelemente) beschrieben.
+> Die in den folgenden Tasks verwendeten Schaltflächen und Bedienelemente sind im Abschnitt [*Aufnahme-Steuerelemente*](#aufnahme-steuerelemente) beschrieben.
 
 ---
 
