@@ -5,12 +5,14 @@
 1. [What is memoQ?](#what-is-memoq)
 2. [What is a memoQ project?](#what-is-a-memoq-project)
 3. [Create a new memoQ project](#create-a-new-memoQ-project)
-4. [What is a Translation Memory?](#what-is-a-translation-memory)
-5. [Upload a Translation Memory](#upload-a-translation-memory)
-6. [What is a Termbase (Glossary)](#what-is-a-term-base-glossary)
-7. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
-8. [](#)
-9. [](#)
+4. [Add an Excel file for translation](#add-an-excel-file-for-translation)
+5. [What is a Translation Memory?](#what-is-a-translation-memory)
+6. [Upload a Translation Memory](#upload-a-translation-memory)
+7. [What is a Termbase (Glossary)](#what-is-a-term-base-glossary)
+8. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
+9. [Add a glossary term](#add-a-glossary-term)
+10. [Export file](#export-file)
+11. [](#)
 
 ---
 
@@ -64,9 +66,13 @@ such as **Translation Memories** and **Glossaries**.
 
 ---
 
+## Add an Excel file for translation
+
+---
+
 ## What is a Translation Memory?
 
-A translation memory (TM) is a database that stores previously translated text segments as source–target pairs. When translating, memoQ compares new content with existing entries in the translation memory and suggests:
+A translation memory (TM) is a database that automatically stores previously translated text segments as source–target pairs. When translating, memoQ compares new content with existing entries in the translation memory and suggests:
 
 - exact matches
 - similar (fuzzy) matches
@@ -127,7 +133,7 @@ Term bases are usually imported into a project and assigned to the relevant lang
 
 ### Prerequisites
 - A memoQ project is created and open.
-- A term base file is available as an Excel sheet.
+- A term base file is available as an Excel file only with columns A and B, the source and your language.
 
 ### Steps
 
@@ -142,7 +148,14 @@ Term bases are usually imported into a project and assigned to the relevant lang
    ![Term base Excel import settings](../../assets/images/memoq-TB-language.png)
 9. Click **OK** to complete the import.
 
-### Result
-
 The term base is added to the project and approved terminology is highlighted during translation to support consistent term usage.
+
+---
+## Add a glossary term
+
+---
+
+## Export file
+
+
 
