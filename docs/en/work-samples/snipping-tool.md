@@ -47,9 +47,7 @@ For an overview of available shortcuts, see [*Keyboard shortcuts*](#keyboard-sho
 
 1. Open the **Snipping Tool**.
 2. Make sure **Photo mode** is selected.
-   ![Button to select Photo mode](../../assets/images/snipping-tool-capture.png)
 3. (Optional) Set a Snip delay to delay the capture.
-   ![Button to set delay](../../assets/images/snipping-tool-delay.png)
 4. Select **New** to start capture mode.
 5. Choose a **Snipping area** and mark the desired **screen area**.
 
@@ -65,7 +63,6 @@ For more information about selecting the **Snipping area**, see [*Select Snippin
 
 1. Open the **Snipping Tool**.
 2. Switch to **Video mode** in the toolbar.
-   ![Button to select Video mode](../../assets/images/snipping-tool-video.png)
 3. Select **New** to start capture mode.
 4. Choose a **Snipping area** and mark the desired **screen area**.
 6. Select **Start** to begin recording.
@@ -84,7 +81,6 @@ The screen video is displayed in the Snipping Tool and can be saved.
 
 1. Open the **Snipping Tool**.
 2. Select **Text extractor**.
-   ![Button to select the Text extractor](../../assets/images/snipping-tool-text2.png)
 3. Select the area containing the text.
 4. Paste the copied text into another application.
 
@@ -126,18 +122,20 @@ The Snipping Tool supports the following file formats:
 
 ---
 
-### Select Snipping area
+### Capture controls
 
-Use the **Snipping area** button to define **how** the screen is captured.
+The Snipping Tool toolbar provides several controls that define how a capture is created.
 
-![Button to select the Snipping area](../../assets/images/snipping-tool-area.png)
+![Snipping Tool toolbar with capture controls highlighted](../../assets/images/snipping-tool-reference.png)
 
-The Snipping Tool supports the following Snipping areas:
-
-- **Rectangle** – Capture a rectangular area  
-- **Window** – Capture a single window  
-- **Full screen** – Capture the entire screen  
-- **Freeform** – Draw a freehand capture area  
+Controls from left to right:
+- **New** – Opens capture mode.
+- **Photo mode** – Captures screenshots.
+- **Video mode** – Records screen videos.
+- **Snipping area** – Defines the area of the screen to capture.
+- **Snip delay** – Delays the start of the capture.
+- **Text extractor** – Extracts text from screenshots (OCR).
+- **Color picker** – Captures a color value from the screen. This control is available only in capture mode.
 
 ---
 
