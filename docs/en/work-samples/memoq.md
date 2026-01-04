@@ -4,7 +4,10 @@
 
 1. [What is memoQ?](#what-is-memoq)
 2. [What is a memoQ project?](#what-is-a-memoq-project)
-3. [What is a memoQ project?](#what-is-a-memoq-project)
+3. [Set up a new memoQ project](#set-up-a-new-memoQ-project)
+4. [](#)
+5. [](#)
+6. [](#)
 
 ---
 
@@ -44,11 +47,12 @@ files and resources.
 1. Open **memoQ**.
 2. From the **Dashboard**, select **Create new project**.
    ![Create a new project in memoQ](../../assets/images/memoq-new-project.png)
-4. Enter a **project name** that clearly identifies the translation task.
-5. Select the required **source language** and **target language(s)**.
-6. Click **Next** to proceed through the project creation wizard.
-7. Add the files to be translated, if required.
-8. Complete the wizard to create the project.
+3. Enter a **project name** that clearly identifies the translation task.
+   ![New memoQ project dialog with project name and language selection](../../assets/images/memoq-new-project-2.png)
+4. Select the required **source language** and **target language**.
+5. Click **Next** to continue in the project creation wizard.
+6. Add the files to be translated, if required.
+7. Complete the wizard to create the project.
 
 The memoQ project is created and ready to be enriched with translation resources
 such as **Translation Memories** and **Glossaries**.
