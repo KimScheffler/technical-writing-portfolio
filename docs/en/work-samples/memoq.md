@@ -1,4 +1,4 @@
-# memoQ
+# memoQ (Version 9.12)
 
 ## Content
 
@@ -43,13 +43,13 @@ files and resources.
 
 1. Open **memoQ**.
 2. From the **Dashboard**, select **Create new project**.
-3. Enter a **project name** that clearly identifies the translation task.
-4. Select the required **source language** and **target language(s)**.
-5. Click **Next** to proceed through the project creation wizard.
-6. Add the files to be translated, if required.
-7. Complete the wizard to create the project.
+   ![Create a new project in memoQ](../../assets/images/memoq-new-project.png)
+4. Enter a **project name** that clearly identifies the translation task.
+5. Select the required **source language** and **target language(s)**.
+6. Click **Next** to proceed through the project creation wizard.
+7. Add the files to be translated, if required.
+8. Complete the wizard to create the project.
 
-### Result
 The memoQ project is created and ready to be enriched with translation resources
 such as **Translation Memories** and **Glossaries**.
 
