@@ -52,13 +52,27 @@ files and resources.
 4. Select the required **source language** and **target language**.
 5. Click **Next** to continue in the project creation wizard.
 6. Add the files to be translated, if required.
-7. Complete the wizard to create the project.
+7. Click **Finish** to create the project.
 
 The memoQ project is created and ready to be enriched with translation resources
 such as **Translation Memories** and **Glossaries**.
 
 ---
 
+## Upload a Translation Memory
 
+This task describes how to add an existing translation memory (TM) to a memoQ project so that previously translated content can be reused during translation.
+
+> Voraussetzungen
+> - A memoQ project is created and open.
+> - A translation memory file is available (for example, a .tmx file).
+
+1. Open the memoQ project to which you want to add the translation memory.
+2. Select Translation memories in the project navigation.
+3. Click Add.
+4. Select Import TM.
+5. Browse to the location of the translation memory file.
+6. Select the TM file and confirm the import.
+7. Assign the imported translation memory to the project languages, if prompted.
 
 
