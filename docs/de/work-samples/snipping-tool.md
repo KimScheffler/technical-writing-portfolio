@@ -9,7 +9,7 @@
 6. [Farbe vom Bildschirm bestimmen](#farbe-vom-bildschirm-bestimmen)
 7. [Referenzinformationen](#referenzinformationen)
    - [Dateiformate](#dateiformate)
-   - [Ausschnittbereich festlegen](#ausschnittbereich-festlegen)
+   - [Aufnahme-Steuerelemente](#aufnahme-steuerelemente)
    - [Tastenkombinationen](#tastenkombinationen)
 
 ---
@@ -28,6 +28,9 @@ Diese Dokumentation beschreibt grundlegende Funktionen des Snipping Tools, wie s
 Benutzeroberflächen können je nach Windows-Version oder App-Update abweichen.
 
 ![Snipping Tool – Startansicht](../../assets/images/snipping-tool-start.jpg)
+
+> **Hinweis**  
+> Die in den folgenden Tasks verwendeten Schaltflächen und Bedienelemente sind im Abschnitt  [Aufnahme-Steuerelemente](#aufnahme-steuerelemente) beschrieben.
 
 ---
 
@@ -51,16 +54,11 @@ Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Stellen Sie sicher, dass der **Foto-Modus** ausgewählt ist.
-   ![Schaltfläche zur Auswahl des Foto-Modus](../../assets/images/snipping-tool-capture.png)
 3. (Optional) Nehmen Sie einen **Ausschnitt nach Verzögerung** auf.
-   ![Schaltfläche zur Auswahl der Verzögerung](../../assets/images/snipping-tool-delay.png)
 4. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
 5. Wählen Sie den gewünschten **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
 
 Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unterstützten Dateiformat gespeichert werden.
-
-### Hinweis
-Weitere Informationen zur Auswahl des Ausschnittbereichs finden Sie unter [*Ausschnittbereich festlegen*](#ausschnittbereich-festlegen).
 
 ---
 
@@ -68,7 +66,6 @@ Weitere Informationen zur Auswahl des Ausschnittbereichs finden Sie unter [*Auss
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Wechseln Sie in der Werkzeugleiste in den **Video-Modus**.
-   ![Schaltfläche zur Auswahl des Video-Modus](../../assets/images/snipping-tool-video.png)
 3. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
 4. Wählen Sie die gewünschte **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
 5. Klicken Sie auf **Start**, um die Aufnahme zu starten.
@@ -76,10 +73,8 @@ Weitere Informationen zur Auswahl des Ausschnittbereichs finden Sie unter [*Auss
 
 Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 
-### Hinweise
-
-- Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
-- Weitere Informationen zur Auswahl des Ausschnittbereichs finden Sie unter [*Ausschnittbereich festlegen*](#ausschnittbereich-festlegen).
+### Hinweis
+Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
 
 ---
 
@@ -87,7 +82,6 @@ Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 
 1. Öffnen Sie das **Snipping Tool**.
 2. Klicken Sie im Snipping Tool auf **Text kopieren**.
-   ![Schaltfläche zur Auswahl des OCR-Modus](../../assets/images/snipping-tool-text2.png)
 3. Wählen Sie den Bereich, in dem sich der Text befindet.
 4. Fügen Sie den Text in eine andere Anwendung ein.
 
@@ -132,19 +126,21 @@ Das Snipping Tool unterstützt die folgenden Dateiformate:
 
 ---
 
-### Ausschnittbereich festlegen
+### Aufnahme-Steuerelemente
 
-Über die Schaltfläche **Ausschnittbereich** legen Sie fest, welcher Bereich des Bildschirms
-erfasst werden soll.
+Die Symbolleiste des Snipping Tools stellt mehrere Steuerelemente bereit, mit denen festgelegt wird,
+wie eine Aufnahme erstellt wird.
 
-![Schaltfläche zur Auswahl des Ausschnittbereichs](../../assets/images/snipping-tool-area.png)
+![Symbolleiste des Snipping Tools mit hervorgehobenen Steuerelementen](../../assets/images/snipping-tool-reference.png)
 
-Das Snipping Tool unterstützt folgende Ausschnittbereiche:
-
-- **Rechteck** – Aufnahme eines rechteckigen Bildschirmbereichs  
-- **Fenster** – Aufnahme eines einzelnen Fensters  
-- **Vollbild** – Aufnahme des gesamten Bildschirms  
-- **Freihandform** – Freihändige Auswahl eines Bereichs  
+Steuerelemente von links nach rechts:
+- **Neu** – Startet den Aufnahmemodus.
+- **Foto-Modus** – Erstellt Bildschirmfotos.
+- **Video-Modus** – Erstellt Bildschirmvideos.
+- **Ausschnittbereich** – Legt fest, welcher Bereich des Bildschirms erfasst wird.
+- **Ausschnitt nach Verzögerung** – Verzögert den Start der Aufnahme.
+- **Textextraktor** – Erkennt und kopiert Text aus Bildschirmfotos (OCR).
+- **Farbwähler** – Erfasst einen Farbwert vom Bildschirm. Dieses Steuerelement ist nur im Aufnahmemodus verfügbar.
 
 ---
 
