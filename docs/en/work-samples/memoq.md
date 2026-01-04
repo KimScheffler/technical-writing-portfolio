@@ -99,7 +99,7 @@ This task describes how to add an existing translation memory (TM) to a memoQ pr
 4. Enter a name that matches your project.
 5. Right-click the new entry in the list and select **Import TM**.
 6. Browse to the location of the term base file, select it, and confirm.
-7.     options opne
+7. In **Translation memory TMX import settings**, verify the **Source** and **Target** language codes and review the import    options as needed.
    ![Translation memory TMX import settings](../../assets/images/memoq-TM-settings.png)
 8. Click **OK** to complete the import.
 
