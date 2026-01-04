@@ -132,6 +132,7 @@ Controls from left to right:
 - **Snipping area** – Defines the area of the screen to capture.
 - **Snip delay** – Delays the start of the capture.
 - **Text extractor** – Extracts text from screenshots (OCR).
+- **Three-dot menu** – Opens existing files and the app settings.
 - **Color picker** – Captures a color value from the screen. This control is available only in capture mode.
 
 ---
