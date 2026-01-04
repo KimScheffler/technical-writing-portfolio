@@ -10,7 +10,7 @@
 6. [Pick a color from the screen](#pick-a-color-from-the-screen)  
 7. [Reference information](#reference-information)  
    - [File formats](#file-formats)  
-   - [Select capture mode](#select-capture-mode)  
+   - [Capture controls](#capture-controls)  
    - [Keyboard shortcuts](#keyboard-shortcuts)
 
 ---
@@ -53,10 +53,6 @@ For an overview of available shortcuts, see [*Keyboard shortcuts*](#keyboard-sho
 
 The screenshot is displayed and can be edited or saved in a supported file format.
 
-### Note
-
-For more information about selecting the **Snipping area**, see [*Select Snipping area*](#select-snipping-area).
-
 ---
 
 ## Record a screen video
@@ -73,7 +69,6 @@ The screen video is displayed in the Snipping Tool and can be saved.
 ### Notes
 
 - Screen recording is only available in newer versions of the Snipping Tool.
-- For more information about selecting the **Snipping area**, see [*Select Snipping area*](#select-snipping-area).
 
 ---
 
