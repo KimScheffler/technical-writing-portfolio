@@ -140,6 +140,7 @@ Steuerelemente von links nach rechts:
 - **Ausschnittbereich** – Legt fest, welcher Bereich des Bildschirms erfasst wird.
 - **Ausschnitt nach Verzögerung** – Verzögert den Start der Aufnahme.
 - **Textextraktor** – Erkennt und kopiert Text aus Bildschirmfotos (OCR).
+- **Drei-Punkte-Menü** – Öffnet bestehende Dateien sowie die App-Einstellungen.
 - **Farbwähler** – Erfasst einen Farbwert vom Bildschirm. Dieses Steuerelement ist nur im Aufnahmemodus verfügbar.
 
 ---
