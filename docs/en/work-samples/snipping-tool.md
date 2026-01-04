@@ -28,7 +28,7 @@ This documentation describes core Snipping Tool features as available in **Windo
 
 
 > **Note**  
-> The buttons and controls used in the following tasks are described in [Capture controls](#capture-controls).
+> The buttons and controls used in the following tasks are described in [*Capture controls*](#capture-controls).
 
 ## Start the Snipping Tool
 
