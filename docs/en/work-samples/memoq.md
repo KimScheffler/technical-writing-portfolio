@@ -100,7 +100,7 @@ This task describes how to add an existing translation memory (TM) to a memoQ pr
 5. Right-click the new entry in the list and select **Import TM**.
 6. Browse to the location of the term base file, select it, and confirm.
 7.     options opne
-   ![Translation memory TMX import settings](../../assets/images/memoq-TM_options.png)
+   ![Translation memory TMX import settings](../../assets/images/memoq-TM-settings.png)
 8. Click **OK** to complete the import.
 
 The translation memory is added to the project and can be used to automatically suggest existing translations during the translation process.
@@ -129,7 +129,7 @@ Term bases are usually imported into a project and assigned to the relevant lang
 - A memoQ project is created and open.
 - A term base file is available as an Excel sheet.
 
-11. ### Steps
+### Steps
 
 1. Open the memoQ project to which you want to add the term base.
 2. Select **Term bases** in the project navigation.
