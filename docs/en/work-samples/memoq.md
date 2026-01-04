@@ -1,4 +1,4 @@
-# memoQ (Version 9.12)
+# memoQ (Version 9.7.12)
 
 ## Content
 
