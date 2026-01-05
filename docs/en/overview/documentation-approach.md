@@ -21,7 +21,8 @@ documentation approach and illustrates the full documentation lifecycle.
 
 ![Overview of a typical 12-step documentation process for task-oriented documentation](../../assets/images/12Principles_en.png)
 
-*Figure 1: Overview of the documentation process used in this portfolio.*
+*Figure 1: Overview of the documentation process used in this portfolio.  
+Graphic created using PowerPoint and Canva.*
 
 The diagram illustrates the key phases of the documentation process—from user analysis to
 continuous improvement.
