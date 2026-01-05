@@ -10,7 +10,7 @@
 6. [Upload a Translation Memory](#upload-a-translation-memory)
 7. [What is a Termbase (Glossary)](#what-is-a-term-base-glossary)
 8. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
-9. [Add a new glossary term to a term base while translating](#add-a-new-glossary-term-to-a-term-base-while-translating)
+9. [Add a new term to a term base while translating](#add-a-new-term-to-a-term-base-while-translating)
 10. [Export a translated file](#export-a-translated-file)
 
 ---
@@ -151,7 +151,7 @@ The term base is added to the project and approved terminology is highlighted du
 
 ---
 
-## Add a new glossary term to a term base while translating
+## Add a new term to a term base while translating
 
 This task describes how to add a new term to an existing term base directly during translation in memoQ.
 
