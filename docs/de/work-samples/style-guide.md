@@ -12,12 +12,13 @@ Er gilt projektübergreifend (z. B. für das Snipping Tool und memoQ).
 2. [Sprachstil](#sprachstil)
 3. [Satzbau und Stil](#satzbau-und-stil)
 4. [Terminologie](#terminologie)
-5. [Struktur von Tasks](#struktur-von-tasks)
-6. [Hinweise](#hinweise)
-7. [Referenzinformationen](#referenzinformationen)
-8. [Bilder und Grafiken](#bilder-und-grafiken)
-9. [Barrierefreiheit](#barrierefreiheit)
-10. [Wartbarkeit](#wartbarkeit)
+5. [Überschriften](#ueberschriften)
+6. [Struktur von Tasks](#struktur-von-tasks)
+7. [Hinweise](#hinweise)
+8. [Referenzinformationen](#referenzinformationen)
+9. [Bilder und Grafiken](#bilder-und-grafiken)
+10. [Barrierefreiheit](#barrierefreiheit)
+11. [Wartbarkeit](#wartbarkeit)
 
 ## Informationsarten
 
@@ -101,6 +102,20 @@ UI-Elemente werden:
 Dies gilt insbesondere für Schaltflächen, Modi und Werkzeugnamen.
 
 Verbindliche UI-Bezeichnungen sind im projektspezifischen Glossar definiert und werden in der Dokumentation konsistent verwendet.
+
+---
+
+## Überschriften
+
+- Überschriften sind **kurz und beschreibend**
+- Keine vollständigen Sätze
+- Keine Punktuation am Ende
+- Tasks beginnen mit einem **Verb im Infinitiv**
+
+**Beispiele:**
+- ✔ *Ein Bildschirmfoto erstellen*
+- ✔ *Neuen Term zur Termbase hinzufügen*
+- ✘ *So erstellen Sie ein Bildschirmfoto*
 
 ---
 
