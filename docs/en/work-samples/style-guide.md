@@ -131,6 +131,23 @@ If a workflow requires more than 10 steps:
 
 The goal is to keep procedures readable, understandable, and maintainable.
 
+### Substeps in step sequences
+
+Substeps may be used within a numbered step when they describe
+configuration details or supporting actions that belong to a single main step.
+
+**Substeps may be used when:**
+
+- they do not represent standalone actions
+- they would not make sense as separate numbered steps
+- they clarify options, settings, or parameters
+
+**Substeps must not be used to:**
+- hide independent main actions
+- bypass the maximum number of steps rule
+
+If multiple substeps describe independent actions, the task must be split into separate steps or a separate task.
+
 ---
 
 ## Notes
@@ -143,6 +160,24 @@ Notes:
 
 Example:
 > When copying text, you can optionally enable automatic removal of line breaks.
+
+
+### Notes and references to reference information
+
+Tasks may include short notes that link to relevant
+reference sections (for example, keyboard shortcuts or UI overviews).
+
+The following rules apply:
+- Notes are optional
+- Notes appear after the steps
+- Notes link to reference sections
+- Reference content must not be repeated in tasks
+
+This approach keeps tasks concise while ensuring that additional information
+is centralized and easy to maintain.
+
+Example:
+> You can also perform this action using a keyboard shortcut. See Keyboard shortcuts for details.
 
 ---
 
