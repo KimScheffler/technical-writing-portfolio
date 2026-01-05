@@ -198,7 +198,7 @@ This task describes how to add a new term to an existing term base directly duri
 The new glossary term is added to the term base and will be available for term
 recognition and consistency checks during translation.
 
-### Note
+### Notes
 
 - You can use the mouse to select the English term and its corresponding German term in the text. Then select **Quick Add Term** to add the term without opening the term entry wizard.
 - You can also add a term using a keyboard shortcut. See [*Keyboard shortcuts*](#keyboard-shortcuts) for details.
@@ -218,7 +218,7 @@ recognition and consistency checks during translation.
 3. Select **Documents** in the project navigation.
    ![Export a file in memoQ](../../assets/images/memoq-export.png)
 5. From the menu, choose **Export**.
-6. Select **Choose path**.
+6. Select **Export (Choose path)**.
 7. Select the destination folder for the exported file.
 8. Confirm the export.
 
