@@ -10,7 +10,7 @@
 6. [Ein Translation Memory hochladen](#ein-translation-memory-hochladen)
 7. [Was ist eine Term Base (Glossar)?](#was-ist-eine-term-base-glossar)
 8. [Eine Term Base (Glossar) hochladen](#eine-term-base-glossar-hochladen)
-9. [Während der Übersetzung einen neuen Terminus zur Term Base hinzufügen](#während-der-übersetzung-einen-neuen-terminus-zur-term-base-hinzufügen)
+9. [Während der Übersetzung einen neuen Begriff zur Term Base hinzufügen](#während-der-übersetzung-einen-neuen-Begriff-zur-term-base-hinzufügen)
 10. [Eine übersetzte Datei exportieren](#eine-übersetzte-datei-exportieren)
 11. [Referenzmaterial](#referenzmaterial)
     - [Benutzeroberflächenbereiche in memoQ](#benutzeroberflächenbereiche-in-memoq)
@@ -194,7 +194,7 @@ wird während der Übersetzung hervorgehoben.
 
 ---
 
-## Während der Übersetzung einen neuen Terminus zur Term Base hinzufügen
+## Während der Übersetzung einen neuen Begriff zur Term Base hinzufügen
 
 Dieser Task beschreibt, wie während der Übersetzung ein neuer Terminus
 direkt zu einer bestehenden Term Base hinzugefügt wird.
