@@ -24,7 +24,7 @@ Dokumentationsansatz zugrunde liegen und den gesamten Dokumentationslebenszyklus
 
 ![Übersicht über einen typischen 12-stufigen Dokumentationsprozess für aufgabenorientierte Dokumentation](../../assets/images/12Principles_de.png)
 
-*Abbildung 1: Überblick über den im Portfolio verwendeten Dokumentationsprozess.*
+*Abbildung 1: Überblick über den im Portfolio verwendeten Dokumentationsprozess. Grafik erstellt mit PowerPoint und Canva.*
 
 Die Grafik zeigt die zentralen Phasen des Dokumentationsprozesses – von der
 Nutzeranalyse bis zur kontinuierlichen Verbesserung.
