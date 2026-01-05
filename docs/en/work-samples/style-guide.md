@@ -58,6 +58,14 @@ Information types must **not be mixed**.
 This documentation uses international technical English
 with American English spelling and terminology.
 
+### Gender-inclusive language
+
+For the sake of readability, this documentation uses gender-neutral
+language wherever possible.
+
+Where gender-specific terms are used, they are intended to refer
+to all genders equally.
+
 ---
 
 ## Sentence structure and tone
