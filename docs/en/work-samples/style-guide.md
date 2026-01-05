@@ -75,7 +75,7 @@ with American English spelling and terminology.
 ### Order
 Action → purpose
 
-> **Example:**
+> **Example:**  
 >*Select **New** to start capture mode.*
 
 ---
