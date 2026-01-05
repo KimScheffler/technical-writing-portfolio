@@ -8,7 +8,7 @@
 4. [Add an Excel file for translation](#add-an-excel-file-for-translation)
 5. [What is a Translation Memory?](#what-is-a-translation-memory)
 6. [Upload a Translation Memory](#upload-a-translation-memory)
-7. [What is a Termbase (Glossary)](#what-is-a-term-base-glossary)
+7. [What is a Termbase (Glossary)?](#what-is-a-term-base-glossary)
 8. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
 9. [Add a new term to a term base while translating](#add-a-new-term-to-a-term-base-while-translating)
 10. [Export a translated file](#export-a-translated-file)
