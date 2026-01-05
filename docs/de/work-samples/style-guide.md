@@ -169,10 +169,8 @@ Dabei gilt:
 Ziel ist es, Tasks klar und schlank zu halten, während weiterführende
 Informationen zentral und wartbar bleiben.
 
-**Beispiel:**
-
-Sie können diese Aktion auch über eine Tastenkombination ausführen.
-Weitere Informationen finden Sie unter *Tastenkombinationen*.
+Beispiel:
+> Sie können diese Aktion auch über eine Tastenkombination ausführen. Weitere Informationen finden Sie unter *Tastenkombinationen*.
 
 ---
 
