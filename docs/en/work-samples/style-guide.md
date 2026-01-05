@@ -179,6 +179,22 @@ Typical reference topics include:
 Example:
 > *Button to select Photo mode in the Snipping Tool*
 
+### Highlighting UI elements
+
+Rectangular highlights are used to mark UI elements in screenshots.
+
+The following conventions apply:
+- Shape: **Rectangle**
+- Color: **Standard red** (RGB **255, 0, 0**)
+- Stroke weight: **3 pt**
+- No fill, outline only
+
+UI elements are highlighted only when this supports the understanding of a task.
+Multiple UI elements may be highlighted in the same screenshot if they are explained
+within the same context.
+
+Decorative highlights or multiple colors are not used.
+
 ---
 
 ## Accessibility
