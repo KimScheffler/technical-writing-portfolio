@@ -159,7 +159,7 @@ Notes:
 - describe options or additional information
 - do **not** contain step sequences
 
-> **Example:**
+> **Example:**  
 > When copying text, you can optionally enable automatic removal of line breaks.
 
 
@@ -177,7 +177,7 @@ The following rules apply:
 This approach keeps tasks concise while ensuring that additional information
 is centralized and easy to maintain.
 
-> **Example:**
+> **Example:**  
 > You can also perform this action using a keyboard shortcut. See Keyboard shortcuts for details.
 
 ---
@@ -212,7 +212,7 @@ Typical reference topics include:
 - Describes **content and purpose** of the image
 - Avoid generic descriptions such as “screenshot”
 
-> **Example:**
+> **Example:**  
 > *Button to select Photo mode in the Snipping Tool*
 
 ### Highlighting UI elements
