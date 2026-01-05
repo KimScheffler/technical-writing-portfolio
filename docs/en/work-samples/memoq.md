@@ -67,6 +67,31 @@ such as **Translation Memories** and **Glossaries**.
 
 ## Add an Excel file for translation
 
+This task describes how to import an Excel file into a memoQ project using import options,
+so that the correct columns are prepared for translation.
+
+### Prerequisites
+- A memoQ project is created and open.
+- The structure of the Excel file (source and target columns) is known.
+
+### Steps
+
+1. Select **Translations** in the project navigation.
+    ![Translations section in memoQ](../../assets/images/memoq-translations.png)
+2. Select **Import with options**, then click **Next**.
+3. Select the Excel file and click **Open**.
+4. Click **Change filter and configuration**.
+5. Configure the import options:
+   - For **Filter**, select the **Multilingual delimited text filter**.
+   - Enable **Simple bilingual configuration**.
+   - Specify the **source** and **target** columns (for example, columns A and B).
+   - Enable **First row contains column names**, if applicable.
+   ![Document import settings](../../assets/images/memoq-import-settings.png)
+6. Click **OK**, then **OK** again, to complete the import process.
+
+The Excel file is imported into the memoQ project and prepared for translation,
+with the correct source and target columns assigned.
+
 ---
 
 ## What is a Translation Memory?
