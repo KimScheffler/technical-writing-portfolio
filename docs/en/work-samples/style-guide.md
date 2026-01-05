@@ -12,12 +12,13 @@ It applies across projects (for example, the Snipping Tool and memoQ).
 2. [Writing style](#writing-style)
 3. [Sentence structure and tone](#sentence-structure-and-tone)
 4. [Terminology](#terminology)
-5. [Task structure](#task-structure)
-6. [Notes](#notes)
-7. [Reference information](#reference-information)
-8. [Images and graphics](#images-and-graphics)
-9. [Accessibility](#accessibility)
-10. [Maintainability](#maintainability)
+5. [Headings](#headings)
+6. [Task structure](#task-structure)
+7. [Notes](#notes)
+8. [Reference information](#reference-information)
+9. [Images and graphics](#images-and-graphics)
+10. [Accessibility](#accessibility)
+11. [Maintainability](#maintainability)
 
 ---
 
@@ -104,6 +105,20 @@ UI elements:
 This applies in particular to buttons, modes, and tool names.
 
 Binding UI terms are defined in the project-specific glossary and are used consistently throughout the documentation.
+
+---
+
+## Headings
+
+- Headings are **concise and descriptive**
+- No full sentences
+- No punctuation at the end
+- Task headings start with a **verb in the infinitive**
+
+**Examples:**
+- ✔ *Create a screenshot*
+- ✔ *Add a new term to a term base*
+- ✘ *How to create a screenshot*
 
 ---
 
