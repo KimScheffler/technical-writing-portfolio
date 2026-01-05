@@ -11,8 +11,7 @@
 7. [What is a Termbase (Glossary)](#what-is-a-term-base-glossary)
 8. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
 9. [Add a glossary term](#add-a-glossary-term)
-10. [Export file](#export-file)
-11. [](#)
+10. [Export a translated file](#export-a-translated-file)
 
 ---
 
@@ -155,7 +154,27 @@ The term base is added to the project and approved terminology is highlighted du
 
 ---
 
-## Export file
+## Export a translated file
+
+### Prerequisites
+- The document is confirmed and ready for delivery.
+- - All QA checks are resolved (for example, no missing tags or formatting issues).
+
+### Steps
+
+1. Open the memoQ project containing the translated document.
+2. Select the document you want to export.
+3. Select **Documents** in the project navigation.
+   ![Export a file in memoQ](../../assets/images/memoq-export.png)
+5. From the menu, choose **Export**.
+6. Select **Choose path**.
+7. Select the destination folder for the exported file.
+8. Confirm the export.
+
+
+The translated file is exported to the selected location and can be uploaded to the
+project system or used to replace the original source file.
+
 
 
 
