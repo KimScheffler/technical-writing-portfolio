@@ -115,10 +115,10 @@ Binding UI terms are defined in the project-specific glossary and are used consi
 - No punctuation at the end
 - Task headings start with a **verb in the infinitive**
 
-**Examples:**
-- ✔ *Create a screenshot*
-- ✔ *Add a new term to a term base*
-- ✘ *How to create a screenshot*
+> **Examples:**  
+> - ✔ *Create a screenshot*
+> - ✔ *Add a new term to a term base*
+> - ✘ *How to create a screenshot*
 
 ---
 
