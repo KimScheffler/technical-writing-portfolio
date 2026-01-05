@@ -69,7 +69,9 @@ Die deutsche Dokumentation wird in **Standarddeutsch** verfasst.
 
 ### Reihenfolge
 - **Aktion → Zweck**
-  - *Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.*
+  
+> **Beispiel:**  
+>*Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.*
 
 ---
 
@@ -96,8 +98,7 @@ Verbindliche UI-Bezeichnungen sind im projektspezifischen Glossar definiert und 
 Jeder Task besteht aus:
 
 1. **Überschrift** (Ziel des Tasks)
-2. **Schritte**
-3. **Ergebnis** (Outcome)
+2. **Schritte** + **Ergebnis** (Outcome)
 
 #### Optional:
 - **Hinweise** für Optionen oder Sonderfälle
