@@ -10,7 +10,7 @@
 6. [Upload a Translation Memory](#upload-a-translation-memory)
 7. [What is a Termbase (Glossary)](#what-is-a-term-base-glossary)
 8. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
-9. [Add a glossary term](#add-a-glossary-term)
+9. [Add a new glossary term to a term base while translating](#add-a-new-glossary-term-to-a-term-base-while translating)
 10. [Export a translated file](#export-a-translated-file)
 
 ---
@@ -150,7 +150,30 @@ Term bases are usually imported into a project and assigned to the relevant lang
 The term base is added to the project and approved terminology is highlighted during translation to support consistent term usage.
 
 ---
-## Add a glossary term
+
+## Add a new glossary term to a term base while translating
+
+This task describes how to add a new term to an existing term base directly during translation in memoQ.
+
+### Prerequisites
+- A translation document is open.
+- A term base is available and assigned to the project.
+
+### Steps
+
+1. On the **Ribbon**, select **Translation**.
+2. Select **Add Term**.
+3. Enter the **source-language term**.
+4. Enter the corresponding **target-language term**.
+5. Save the new term.
+
+The new glossary term is added to the term base and will be available for term
+recognition and consistency checks during translation.
+
+### Note
+
+You can use the mouse to select the English term and its corresponding German term in the text.
+Then select **Quick Add Term** to add the term without opening the term entry wizard.
 
 ---
 
@@ -158,7 +181,7 @@ The term base is added to the project and approved terminology is highlighted du
 
 ### Prerequisites
 - The document is confirmed and ready for delivery.
-- - All QA checks are resolved (for example, no missing tags or formatting issues).
+- All QA checks are resolved (for example, no missing tags or formatting issues).
 
 ### Steps
 
