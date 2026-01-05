@@ -10,7 +10,7 @@
 6. [Ein Translation Memory hochladen](#ein-translation-memory-hochladen)
 7. [Was ist eine Term Base (Glossar)?](#was-ist-eine-term-base-glossar)
 8. [Eine Term Base (Glossar) hochladen](#eine-term-base-glossar-hochladen)
-9. [Während der Übersetzung einen neuen Begriff zur Term Base hinzufügen](#während-der-übersetzung-einen-neuen-Begriff-zur-term-base-hinzufügen)
+9. [Während der Übersetzung einen neuen Term zur Term Base hinzufügen](#während-der-übersetzung-einen-neuen-term-zur-term-base-hinzufügen)
 10. [Eine übersetzte Datei exportieren](#eine-übersetzte-datei-exportieren)
 11. [Referenzmaterial](#referenzmaterial)
     - [Benutzeroberflächenbereiche in memoQ](#benutzeroberflächenbereiche-in-memoq)
@@ -153,15 +153,15 @@ Das Translation Memory wird dem Projekt hinzugefügt und kann während der Über
 Eine **Term Base** (auch Glossar genannt) speichert **freigegebene Terminologie**
 und deren Übersetzungen.
 
-Im Gegensatz zu einem Translation Memory enthält eine Term Base einzelne Begriffe
-und keine vollständigen Sätze. Während der Übersetzung hebt memoQ Begriffe aus der
+Im Gegensatz zu einem Translation Memory enthält eine Term Base einzelne Terme
+und keine vollständigen Sätze. Während der Übersetzung hebt memoQ Terme aus der
 Term Base hervor, um eine korrekte und konsistente Terminologieverwendung zu unterstützen.
 
 Term Bases werden häufig eingesetzt, um:
 
 - bevorzugte Terminologie durchzusetzen
 - Konsistenz in technischen oder regulierten Inhalten sicherzustellen
-- falsche oder veraltete Begriffe zu vermeiden
+- falsche oder veraltete Terme zu vermeiden
 
 Term Bases werden in der Regel in ein Projekt importiert und den relevanten
 Sprachen zugewiesen.
@@ -192,9 +192,9 @@ wird während der Übersetzung hervorgehoben.
 
 ---
 
-## Während der Übersetzung einen neuen Begriff zur Term Base hinzufügen
+## Während der Übersetzung einen neuen Term zur Term Base hinzufügen
 
-Dieser Task beschreibt, wie während der Übersetzung ein neuer Begriff direkt zu einer bestehenden Term Base hinzugefügt wird.
+Dieser Task beschreibt, wie während der Übersetzung ein neuer Term direkt zu einer bestehenden Term Base hinzugefügt wird.
 
 ### Voraussetzungen
 - Ein Übersetzungsdokument ist geöffnet.
@@ -204,17 +204,17 @@ Dieser Task beschreibt, wie während der Übersetzung ein neuer Begriff direkt z
 
 1. Wählen Sie im **Ribbon** den Tab **Translation**.
 2. Wählen Sie **Add Term**.
-3. Geben Sie den **Quellsprachbegriff** ein.
-4. Geben Sie den entsprechenden **Zielsprachbegriff** ein.
-5. Speichern Sie den neuen Begriff.
+3. Geben Sie den **Quellsprachterm** ein.
+4. Geben Sie den entsprechenden **Zielsprachterm** ein.
+5. Speichern Sie den neuen Term.
 
-Der neue Begriff wird der Term Base hinzugefügt und steht für
+Der neue Term wird der Term Base hinzugefügt und steht für
 Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 
 ### Hinweise
 
-- Sie können den englischen Begriff und den entsprechenden deutschen Begriff im Text markieren und anschließend **Quick Add Term** wählen, um den Begriff ohne Öffnen des Assistenten hinzuzufügen.
-- Alternativ können Sie einen Begriff auch über eine Tastenkombination hinzufügen. Weitere Informationen finden Sie unter [*Tastenkombinationen*](#tastenkombinationen-auswahl).
+- Sie können den englischen Term und den entsprechenden deutschen Term im Text markieren und anschließend **Quick Add Term** wählen, um den Term ohne Öffnen des Assistenten hinzuzufügen.
+- Alternativ können Sie einen Term auch über eine Tastenkombination hinzufügen. Weitere Informationen finden Sie unter [*Tastenkombinationen*](#tastenkombinationen-auswahl).
 
 ---
 
