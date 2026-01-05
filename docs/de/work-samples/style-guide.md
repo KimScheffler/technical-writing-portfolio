@@ -123,6 +123,24 @@ Wenn ein Ablauf mehr als 10 Schritte erfordert:
 
 Ziel ist es, komplexe Abläufe übersichtlich, verständlich und gut wartbar zu halten.
 
+#### Unterpunkte (Substeps) in Schrittfolgen
+
+Unterpunkte dürfen innerhalb eines nummerierten Schritts verwendet werden,
+wenn sie konfigurierende oder erläuternde Teilschritte beschreiben, die
+funktional zu einem Hauptschritt gehören.
+
+**Unterpunkte dürfen verwendet werden, wenn:**  
+- sie keine eigenständige Aktion darstellen
+- sie nicht sinnvoll allein nummeriert werden können
+- sie Optionen, Einstellungen oder Parameter konkretisieren
+
+**Unterpunkte dürfen nicht verwendet werden, um:**  
+- eigenständige Hauptaktionen zu verstecken
+- die 10-Schritte-Regel zu umgehen
+
+Wenn mehrere Unterpunkte jeweils eigenständige Aktionen beschreiben,
+muss der Task in separate Schritte oder einen eigenen Task aufgeteilt werden.
+
 ---
 
 ## Hinweise
@@ -136,11 +154,31 @@ Hinweise:
 Beispiel:
 > Beim Kopieren von Text können optional Zeilenumbrüche entfernt werden.
 
+#### Hinweise und Verweise auf Referenzinformationen
+
+Tasks dürfen kurze Hinweise enthalten, die auf relevante
+Referenzinformationen verlinken (z. B. Tastenkombinationen oder UI-Übersichten).
+
+Dabei gilt:
+
+- Hinweise sind optional
+- Hinweise stehen nach den Schritten
+- Hinweise verlinken auf Referenzabschnitte
+- Referenzinhalte werden nicht wiederholt
+
+Ziel ist es, Tasks klar und schlank zu halten, während weiterführende
+Informationen zentral und wartbar bleiben.
+
+**Beispiel:**
+
+Sie können diese Aktion auch über eine Tastenkombination ausführen.
+Weitere Informationen finden Sie unter *Tastenkombinationen*.
+
 ---
 
 ## Referenzinformationen
 
-Reference-Inhalte:
+Referenzinformationen:
 - sind nachschlagbar
 - enthalten keine vollständigen Tasks
 - dürfen Tabellen oder Listen enthalten
