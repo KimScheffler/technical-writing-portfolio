@@ -211,7 +211,7 @@ Dieser Task beschreibt, wie während der Übersetzung ein neuer Begriff direkt z
 Der neue Begriff wird der Term Base hinzugefügt und steht für
 Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 
-### Hinweis
+### Hinweise
 
 - Sie können den englischen Begriff und den entsprechenden deutschen Begriff im Text markieren und anschließend **Quick Add Term** wählen, um den Begriff ohne Öffnen des Assistenten hinzuzufügen.
 - Alternativ können Sie einen Begriff auch über eine Tastenkombination hinzufügen. Weitere Informationen finden Sie unter [*Tastenkombinationen*](#tastenkombinationen-auswahl).
@@ -231,7 +231,7 @@ Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 3. Wählen Sie **Documents** in der Projektnavigation aus.
    ![Datei in memoQ exportieren](../../assets/images/memoq-export.png)
 4. Wählen Sie im Menü **Export**.
-5. Wählen Sie **Choose path**.
+5. Wählen Sie **Export (Choose path)**.
 6. Wählen Sie den Zielordner für die exportierte Datei aus.
 7. Bestätigen Sie den Export.
 
