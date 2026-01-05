@@ -8,10 +8,13 @@
 4. [Add an Excel file for translation](#add-an-excel-file-for-translation)
 5. [What is a Translation Memory?](#what-is-a-translation-memory)
 6. [Upload a Translation Memory](#upload-a-translation-memory)
-7. [What is a Termbase (Glossary)?](#what-is-a-term-base-glossary)
-8. [Upload a Termbase (Glossary)](#upload-a-term-base-glossary)
+7. [What is a Term Base (Glossary)?](#what-is-a-term-base-glossary)
+8. [Upload a Term Base (Glossary)](#upload-a-term-base-glossary)
 9. [Add a new term to a term base while translating](#add-a-new-term-to-a-term-base-while-translating)
 10. [Export a translated file](#export-a-translated-file)
+10. [Reference](#reference)
+    - [memoQ user interface areas](#memoQ-user-interface-areas)
+    - [Keyboard shortcuts (selection)](#keyboard-shortcuts-selection)
 
 ---
 
@@ -47,8 +50,7 @@ the translation—are performed within the context of an existing project.
 
 ## Create a new memoQ project
 
-Create a new memoQ project that serves as the basis for managing translation
-files and resources.
+Create a new memoQ project to manage translation files and linguistic resources.
 
 1. Open **memoQ**.
 2. From the **Dashboard**, select **New project**.
@@ -87,7 +89,7 @@ so that the correct columns are prepared for translation.
    - Specify the **source** and **target** columns (for example, columns A and B).
    - Enable **First row contains column names**, if applicable.
    ![Document import settings](../../assets/images/memoq-import-settings.png)
-6. Click **OK**, then **OK** again, to complete the import process.
+6. Click **OK**, then **OK** again to complete the import process.
 
 The Excel file is imported into the memoQ project and prepared for translation,
 with the correct source and target columns assigned.
@@ -128,7 +130,7 @@ This task describes how to add an existing translation memory (TM) to a memoQ pr
 3. Right-click the TM list and select **Create/Use New**.
 4. Enter a name that matches your project.
 5. Right-click the new entry in the list and select **Import TM**.
-6. Browse to the location of the term base file, select it, and confirm.
+6. Browse to the location of the translation memory file, select it, and confirm.
 7. In **Translation memory TMX import settings**, verify the **Source** and **Target** language codes and review the import    options as needed.
    ![Translation memory TMX import settings](../../assets/images/memoq-TM-settings.png)
 8. Click **OK** to complete the import.
@@ -153,11 +155,12 @@ Term bases are usually imported into a project and assigned to the relevant lang
 
 ---
 
-## Upload a Term Base (Glossary) from an Excel sheet
+## Upload a Term Base (Glossary) from an Excel file
 
 ### Prerequisites
-- A memoQ project is created and open.
-- A term base file is available as an Excel file only with columns A and B, the source and your language.
+- A memoQ project is created.
+- A term base file is available as an Excel file with source and target language columns.
+
 
 ### Steps
 
@@ -197,8 +200,8 @@ recognition and consistency checks during translation.
 
 ### Note
 
-You can use the mouse to select the English term and its corresponding German term in the text.
-Then select **Quick Add Term** to add the term without opening the term entry wizard.
+- You can use the mouse to select the English term and its corresponding German term in the text. Then select **Quick Add Term** to add the term without opening the term entry wizard.
+- You can also add a term using a keyboard shortcut. See [*Keyboard shortcuts*](#keyboard-shortcuts) for details.
 
 ---
 
@@ -224,5 +227,29 @@ The translated file is exported to the selected location and can be uploaded to 
 project system or used to replace the original source file.
 
 
+---
+
+## Reference
+
+### memoQ user interface areas
+
+- **Dashboard** – Start view used to create and open projects.
+- **Project navigation** – Left-hand navigation area within a memoQ project.
+- **Ribbon** – Top menu area containing tabs and commands.
+- **Translation editor** – Central area used to translate and review segments.
+
+---
+
+### Keyboard shortcuts (selection)
+
+The following keyboard shortcuts are commonly used during translation and review
+in memoQ:
+
+- **Ctrl + Enter** – Confirm segment
+- **Ctrl + Shift + Enter** – Confirm segment and move to next
+- **Ctrl + Z** – Undo last action
+- **Ctrl + C / Ctrl + V** – Copy / paste content
+- **Ctrl + F** – Search in document
+- **Ctrl + E** – Add new glossary term *(Equivalent to **Translation > Add Term**)*
 
 
