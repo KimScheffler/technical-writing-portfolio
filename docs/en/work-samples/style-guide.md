@@ -153,32 +153,22 @@ If multiple substeps describe independent actions, the task must be split into s
 
 ## Notes
 
-Notes:
-- are optional
-- appear **after** the steps
-- describe options or additional information
-- do **not** contain step sequences
-
-> **Example:**  
-> When copying text, you can optionally enable automatic removal of line breaks.
-
-
-### Notes and references to reference information
-
 Tasks may include short notes that link to relevant
 reference sections (for example, keyboard shortcuts or UI overviews).
 
 The following rules apply:
-- Notes are optional
-- Notes appear after the steps
-- Notes link to reference sections
-- Reference content must not be repeated in tasks
+- Notes are optional.
+- Notes appear **after** the steps.
+- Notes describe options or additional information.
+- Notes do **not** contain step sequences.
+- Notes may link to reference sections.
 
 This approach keeps tasks concise while ensuring that additional information
 is centralized and easy to maintain.
 
-> **Example:**  
-> You can also perform this action using a keyboard shortcut. See Keyboard shortcuts for details.
+> **Examples:**  
+> - *You can also perform this action using a keyboard shortcut. See Keyboard shortcuts for details.*
+> - *When copying text, you can optionally enable automatic removal of line breaks.*
 
 ---
 
