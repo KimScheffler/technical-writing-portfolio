@@ -53,6 +53,17 @@ Informationstypen werden **nicht vermischt**.
 
 Die deutsche Dokumentation wird in **Standarddeutsch** verfasst.
 
+### Geschlechtergerechte Sprache
+
+In dieser Dokumentation wird aus Gründen der besseren Lesbarkeit
+das **generische Maskulinum** verwendet.
+
+Die verwendeten Personenbezeichnungen beziehen sich gleichermaßen
+auf alle Geschlechter.
+
+Diese Entscheidung dient der sprachlichen Klarheit und Konsistenz
+und stellt keine Wertung dar.
+
 ---
 
 ## Satzbau und Stil
