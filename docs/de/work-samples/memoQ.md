@@ -128,7 +128,7 @@ So wird ein vorhandenes Translation Memory (TM) zu einem memoQ-Projekt hinzugef�
 während der Übersetzung wiederzuverwenden.
 
 ### Voraussetzungen
-- Ein memoQ-Projekt ist erstellt und geöffnet.
+- Das memoQ-Projekt besteht bereits.
 - Eine Translation-Memory-Datei ist verfügbar (z. B. eine `.tmx`-Datei).
 
 ### Schritte
@@ -171,7 +171,7 @@ Sprachen zugewiesen.
 ## Eine Term Base (Glossar) aus einer Excel-Datei hochladen
 
 ### Voraussetzungen
-- Ein memoQ-Projekt ist erstellt und geöffnet.
+- Das memoQ-Projekt besteht bereits.
 - Eine Term-Base-Datei liegt als Excel-Datei mit Quell- und Zielspalten vor.
 
 ### Schritte
@@ -183,7 +183,7 @@ Sprachen zugewiesen.
 4. Geben Sie einen Namen ein, der zum Projekt passt.
 5. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import term base**.
 6. Navigieren Sie zum Speicherort der Term-Base-Datei, wählen Sie sie aus und bestätigen Sie.
-7. Überprüfen Sie die **Importeinstellungen für die Term Base** und ordnen Sie die Sprachspalten korrekt zu.
+7. Überprüfen Sie, ob die **Importeinstellungen für die Term Base** und Sprachspalten korrekt zugeordnet sind.
    ![Importeinstellungen für Term Base aus Excel](../../assets/images/memoq-TB-language.png)
 8. Klicken Sie auf **OK**, um den Import abzuschließen.
 
@@ -194,8 +194,7 @@ wird während der Übersetzung hervorgehoben.
 
 ## Während der Übersetzung einen neuen Begriff zur Term Base hinzufügen
 
-Dieser Task beschreibt, wie während der Übersetzung ein neuer Terminus
-direkt zu einer bestehenden Term Base hinzugefügt wird.
+Dieser Task beschreibt, wie während der Übersetzung ein neuer Begriff direkt zu einer bestehenden Term Base hinzugefügt wird.
 
 ### Voraussetzungen
 - Ein Übersetzungsdokument ist geöffnet.
@@ -207,15 +206,15 @@ direkt zu einer bestehenden Term Base hinzugefügt wird.
 2. Wählen Sie **Add Term**.
 3. Geben Sie den **Quellsprachbegriff** ein.
 4. Geben Sie den entsprechenden **Zielsprachbegriff** ein.
-5. Speichern Sie den neuen Terminus.
+5. Speichern Sie den neuen Begriff.
 
-Der neue Terminus wird der Term Base hinzugefügt und steht für
+Der neue Begriff wird der Term Base hinzugefügt und steht für
 Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 
 ### Hinweis
 
-- Sie können den englischen Begriff und den entsprechenden deutschen Begriff im Text markieren und anschließend **Quick Add Term** wählen, um den Terminus ohne Öffnen des Assistenten hinzuzufügen.
-- Alternativ können Sie einen Terminus auch über eine Tastenkombination hinzufügen. Weitere Informationen finden Sie unter [*Tastenkombinationen*](#tastenkombinationen-auswahl).
+- Sie können den englischen Begriff und den entsprechenden deutschen Begriff im Text markieren und anschließend **Quick Add Term** wählen, um den Begriff ohne Öffnen des Assistenten hinzuzufügen.
+- Alternativ können Sie einen Begriff auch über eine Tastenkombination hinzufügen. Weitere Informationen finden Sie unter [*Tastenkombinationen*](#tastenkombinationen-auswahl).
 
 ---
 
