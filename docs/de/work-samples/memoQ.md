@@ -20,8 +20,8 @@
 
 ## Was ist memoQ?
 
-**memoQ** ist eine professionelle Übersetzungsumgebung, die von Übersetzer:innen,
-Reviewer:innen und Lokalisierungsteams zur Durchführung und Verwaltung von
+**memoQ** ist eine professionelle Übersetzungsumgebung, die von Übersetzern,
+Reviewern und Lokalisierungsteams zur Durchführung und Verwaltung von
 Übersetzungsprojekten verwendet wird.
 
 Die Software unterstützt die Übersetzung mehrsprachiger Inhalte durch die
@@ -60,7 +60,7 @@ Erstellen Sie ein neues memoQ-Projekt als Grundlage für die Verwaltung von
    ![Neues Projekt in memoQ erstellen](../../assets/images/memoq-new-project.png)
 3. Geben Sie einen **Projektnamen** ein, der den Übersetzungsauftrag eindeutig beschreibt.
    ![Neues memoQ-Projekt – Projektnamen und Sprachauswahl](../../assets/images/memoq-new-project-2.png)
-4. Wählen Sie die erforderliche **Quellsprache** und **Zielsprache** aus.
+4. Wählen Sie die erforderliche **Source language** (Quellsprache) und **Target language** (Zielsprache) aus.
 5. Klicken Sie auf **Next**, um im Projektassistenten fortzufahren.
 6. Fügen Sie bei Bedarf die zu übersetzenden Dateien hinzu.
 7. Klicken Sie auf **Finish**, um das Projekt zu erstellen.
@@ -90,7 +90,7 @@ in ein memoQ-Projekt importiert wird, sodass die richtigen Spalten für die
 5. Konfigurieren Sie die Importoptionen:
    - Wählen Sie als **Filter** den **Multilingual delimited text filter**.
    - Aktivieren Sie **Simple bilingual configuration**.
-   - Legen Sie die **Quell-** und **Zielspalten** fest (z. B. Spalten A und B).
+   - Legen Sie **Source** (Spalte der Quellsprache) und **Target** (Spalte der Zielsprache) fest (z. B. Spalten A und B).
    - Aktivieren Sie **First row contains column names**, falls zutreffend.
    ![Importeinstellungen für Dokumente](../../assets/images/memoq-import-settings.png)
 6. Klicken Sie auf **OK** und anschließend erneut auf **OK**, um den Import abzuschließen.
@@ -124,8 +124,7 @@ jeweiligen Sprachpaar zugewiesen.
 
 ## Ein Translation Memory hochladen
 
-Dieser Task beschreibt, wie ein vorhandenes Translation Memory (TM)
-zu einem memoQ-Projekt hinzugefügt wird, um bereits übersetzte Inhalte
+So wird ein vorhandenes Translation Memory (TM) zu einem memoQ-Projekt hinzugefügt wird, um bereits übersetzte Inhalte
 während der Übersetzung wiederzuverwenden.
 
 ### Voraussetzungen
@@ -141,12 +140,11 @@ während der Übersetzung wiederzuverwenden.
 4. Geben Sie einen Namen ein, der zum Projekt passt.
 5. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import TM**.
 6. Navigieren Sie zum Speicherort der Translation-Memory-Datei, wählen Sie sie aus und bestätigen Sie.
-7. Überprüfen Sie in den **Translation memory TMX import settings** die **Quell-** und **Zielsprachen-Codes** und passen Sie die Importoptionen bei Bedarf an.
+7. Überprüfen Sie in den **Translation memory TMX import settings** die **Source** (Quellsprache) und **Target** (Zielsprachen) und passen Sie die Importoptionen bei Bedarf an.
    ![TMX-Importeinstellungen für Translation Memories](../../assets/images/memoq-TM-settings.png)
 8. Klicken Sie auf **OK**, um den Import abzuschließen.
 
-Das Translation Memory wird dem Projekt hinzugefügt und kann während der
-Übersetzung automatisch vorhandene Übersetzungen vorschlagen.
+Das Translation Memory wird dem Projekt hinzugefügt und kann während der Übersetzung automatisch vorhandene Übersetzungen vorschlagen.
 
 ---
 
