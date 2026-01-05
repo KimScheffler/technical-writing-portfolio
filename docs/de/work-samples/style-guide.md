@@ -171,6 +171,22 @@ Geeignet für:
 Beispiel:
 > *Schaltfläche zur Auswahl des Foto-Modus im Snipping Tool*
 
+### Hervorhebung von UI-Elementen
+
+Zur Hervorhebung von UI-Elementen in Screenshots werden **rechteckige Markierungen** verwendet.
+
+Die Markierungen folgen diesen verbindlichen Vorgaben:
+- Form: **Rechteck**
+- Farbe: **Standardrot** (RGB **255, 0, 0**)
+- Linienstärke: **3 pt**
+- Keine Füllung, nur Umrandung
+
+UI-Elemente werden ausschließlich dann hervorgehoben, wenn dies zum Verständnis
+eines Arbeitsschritts erforderlich ist. Mehrere UI-Elemente dürfen im selben Screenshot
+markiert werden, sofern sie im gleichen Kontext erläutert werden.
+
+Dekorative Markierungen oder unterschiedliche Farben werden nicht verwendet.
+
 ---
 
 ## Barrierefreiheit
