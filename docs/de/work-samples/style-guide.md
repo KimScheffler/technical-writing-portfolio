@@ -145,32 +145,23 @@ muss der Task in separate Schritte oder einen eigenen Task aufgeteilt werden.
 
 ## Hinweise
 
-Hinweise:
-- sind optional
-- stehen **nach** den Schritten
-- beschreiben Optionen oder ergänzende Informationen
-- enthalten **keine** Schrittfolgen
+Tasks können **kurze Hinweise** enthalten, die auf relevante
+**Referenzabschnitte** verlinken (z. B. Tastenkombinationen oder UI-Übersichten).
 
-Beispiel:
-> Beim Kopieren von Text können optional Zeilenumbrüche entfernt werden.
-
-#### Hinweise und Verweise auf Referenzinformationen
-
-Tasks dürfen kurze Hinweise enthalten, die auf relevante
-Referenzinformationen verlinken (z. B. Tastenkombinationen oder UI-Übersichten).
-
-Dabei gilt:
-
+Dabei gelten folgende Regeln:
 - Hinweise sind optional
-- Hinweise stehen nach den Schritten
+- Hinweise stehen **nach** den Schritten
+- Hinweise beschreiben Optionen oder ergänzende Informationen
+- Hinweise enthalten **keine** Schrittfolgen
 - Hinweise verlinken auf Referenzabschnitte
-- Referenzinhalte werden nicht wiederholt
 
-Ziel ist es, Tasks klar und schlank zu halten, während weiterführende
-Informationen zentral und wartbar bleiben.
+Dieser Ansatz hält Tasks schlank und übersichtlich und stellt gleichzeitig sicher,
+dass zusätzliche Informationen zentral und gut wartbar bleiben.
 
-Beispiel:
-> Sie können diese Aktion auch über eine Tastenkombination ausführen. Weitere Informationen finden Sie unter *Tastenkombinationen*.
+> **Beispiele:**  
+> - *Sie können diese Aktion auch über eine Tastenkombination ausführen. Weitere Informationen finden Sie unter Tastenkombinationen.*  
+> - *Beim Kopieren von Text können optional Zeilenumbrüche automatisch entfernt werden.*
+
 
 ---
 
@@ -204,7 +195,7 @@ Geeignet für:
 - beschreibt **Inhalt und Zweck** des Bildes
 - keine generischen Begriffe wie „Screenshot“
 
-Beispiel:
+> **Beispiel:**  
 > *Schaltfläche zur Auswahl des Foto-Modus im Snipping Tool*
 
 ### Hervorhebung von UI-Elementen
