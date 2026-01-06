@@ -177,7 +177,7 @@ dass zusätzliche Informationen zentral und gut wartbar bleiben.
 
 > **Beispiele:**  
 > - *Sie können diese Aktion auch über eine Tastenkombination ausführen. Weitere Informationen finden Sie unter Tastenkombinationen.*  
-> - *Beim Kopieren von Text können optional Zeilenumbrüche automatisch entfernt werden.*
+> - *Beim Kopieren von Text können Sie optional Zeilenumbrüche automatisch entfernen.*
 
 
 ---
