@@ -6,15 +6,15 @@
 2. [What is a memoQ project?](#what-is-a-memoq-project)
 3. [Create a new memoQ project](#create-a-new-memoq-project)
 4. [Add an Excel file for translation](#add-an-excel-file-for-translation)
-5. [What is a Translation Memory?](#what-is-a-translation-memory)
-6. [Upload a Translation Memory](#upload-a-translation-memory)
-7. [What is a Term Base (Glossary)?](#what-is-a-term-base-glossary)
-8. [Upload a Term Base (Glossary)](#upload-a-term-base-glossary)
-9. [Add a new term to a term base while translating](#add-a-new-term-to-a-term-base-while-translating)
+5. [What is a Translation memory?](#what-is-a-translation-memory)
+6. [Upload a Translation memory](#upload-a-translation-memory)
+7. [What is a Term base (Glossary)?](#what-is-a-term-base-glossary)
+8. [Upload a Term base (Glossary)](#upload-a-term-base-glossary)
+9. [Add a new term to a Term base while translating](#add-a-new-term-to-a-term-base-while-translating)
 10. [Export a translated file](#export-a-translated-file)
 11. [Reference](#reference)
-    - [memoQ user interface areas](#memoq-user-interface-areas)
-    - [Keyboard shortcuts (selection)](#keyboard-shortcuts-selection)
+  - [memoQ user interface areas](#memoq-user-interface-areas)
+  - [Keyboard shortcuts (selection)](#keyboard-shortcuts-selection)
 
 ---
 
@@ -24,8 +24,8 @@
 reviewers, and localization teams to manage and perform translation work.
 
 It supports the translation of multilingual content by combining source files
-with linguistic resources such as **Translation Memories** and
-**Term Bases (Glossaries)**.
+with linguistic resources such as **Translation memories** and
+**Term bases (Glossaries)**.
 
 memoQ is commonly used in professional translation workflows to support
 consistency and quality across translation projects.
@@ -41,9 +41,9 @@ resources and files are managed.
 
 A project defines the source and target languages, contains the files to be
 translated, and serves as the container for translation resources such as
-**Translation Memories (TMs)** and **Term Bases (Glossaries)**.
+**Translation memories (TMs)** and **Term bases (Glossaries)**.
 
-All further steps in memoQ—such as assigning Translation Memories, adding Term Bases, or starting
+All further steps in memoQ—such as assigning Translation memories, adding Term bases, or starting
 the translation—are performed within the context of an existing project.
 
 ---
@@ -56,15 +56,16 @@ translation files and linguistic resources.
 1. Open **memoQ**.
 2. From the **Dashboard**, select **New project**.
    ![Create a new project in memoQ](../../assets/images/memoq-new-project.png)
-3. Enter a **project name** that clearly identifies the translation task.
+3. Enter the project information:
+   - Enter a **project name** that clearly identifies the translation task.
+   - Select the required **source language** and **target language**.
    ![New memoQ project dialog with project name and language selection](../../assets/images/memoq-new-project-2.png)
-4. Select the required **source language** and **target language**.
-5. Click **Next** to continue in the project creation wizard.
-6. Add the files to be translated, if required.
-7. Click **Finish** to create the project.
+4. Click **Next** to continue in the project creation wizard.
+5. Add the files to be translated, if required.
+6. Click **Finish** to create the project.
 
 The memoQ project is created and ready to be enriched with translation resources
-such as **Translation Memories** and **Term Bases**.
+such as **Translation memories** and **Term bases**.
 
 ---
 
@@ -76,8 +77,8 @@ such as **Translation Memories** and **Term Bases**.
 
 ### Steps
 
-1. Select **Translations** in the project navigation.
-    ![Translations section in memoQ](../../assets/images/memoq-translations.png)
+1. In the Project Navigation, select **Translations**.
+   ![Translations section in memoQ](../../assets/images/memoq-translations.png)
 2. Select **Import with options**.
 3. Select the Excel file and click **Open**.
 4. Click **Change filter and configuration**.
@@ -94,14 +95,14 @@ with the correct source and target columns assigned.
 
 ---
 
-## What is a Translation Memory?
+## What is a Translation memory?
 
-A translation memory (TM) is a database that automatically stores previously translated text segments as source–target pairs. When translating, memoQ compares new content with existing entries in the translation memory and suggests:
+A Translation memory (TM) is a database that automatically stores previously translated text segments as source–target pairs. When translating, memoQ compares new content with existing entries in the Translation memory and suggests:
 
 - exact matches
 - similar (fuzzy) matches
 
-**Using a translation memory helps translators:**
+**Using a Translation memory helps translators:**
 
 - work more efficiently
 - ensure consistency across projects
@@ -111,34 +112,37 @@ Translation memories are typically imported into a project and assigned to the p
 
 ---
 
-## Upload a Translation Memory
+## Upload a Translation memory
 
 ### Prerequisites
 
 - A memoQ project is created and open.
-- A translation memory file is available (for example, a `.tmx` file).
+- A Translation memory file is available (for example, a `.tmx` file).
 
 ### Steps
 
-1. Select **Translation memories** in the project navigation.
+1. In the Project Navigation, select **Translation memories**.
    ![Translation memories section in memoQ](../../assets/images/memoq-new-TM.png)
 2. Right-click the TM list and select **Create/Use New**.
 3. Enter a name that matches your project.
 4. Right-click the new entry in the list and select **Import TM**.
-5. Browse to the location of the translation memory file, select it, and confirm.
-6. In **Translation memory TMX import settings**, verify the **Source** and **Target** language codes and review the import    options as needed.
+5. Select the Translation memory file and click **Open**.
+6. Review the import settings:
+   - Verify the **Source** language code.
+   - Verify the **Target** language code.
+   - Adjust additional options as needed.
    ![Translation memory TMX import settings](../../assets/images/memoq-TM-settings.png)
 7. Click **OK** to complete the import.
 
-The translation memory is added to the project and can be used to automatically suggest existing translations during the translation process.
+The Translation memory is added to the project and can be used to automatically suggest existing translations during the translation process.
 
 ---
 
-## What is a Term Base (Glossary)?
+## What is a Term base (Glossary)?
 
-A term base (also called a glossary) stores **approved terminology** and its translations.
+A Term base (also called a glossary) stores **approved terminology** and its translations.
 
-Unlike a translation memory, a term base contains individual terms, not full sentences. During translation, memoQ highlights terms from the term base to support correct and consistent terminology usage.
+Unlike a Translation memory, a Term base contains individual terms, not full sentences. During translation, memoQ highlights terms from the Term base to support correct and consistent terminology usage.
 
 **Term bases are commonly used to:**
 
@@ -150,44 +154,43 @@ Term bases are usually imported into a project and assigned to the relevant lang
 
 ---
 
-## Upload a Term Base (Glossary) from an Excel file
+## Upload a Term base (Glossary) from an Excel file
 
 ### Prerequisites
 - A memoQ project is created and open.
-- A term base file is available as an Excel file with source and target language columns.
-
+- A Term base file is available as an Excel file with source and target language columns.
 
 ### Steps
 
-1. Select **Term bases** in the project navigation.
-   ![Term Base section in memoQ](../../assets/images/memoq-new-TB.png)
-2. Right-click the term base list and select **Create/Use New**.
+1. In the Project Navigation, select **Term bases**.
+   ![Term base section in memoQ](../../assets/images/memoq-new-TB.png)
+2. Right-click the Term base list and select **Create/Use New**.
 3. Enter a name that matches your project.
-4. Right-click the new entry in the list and select **Import term base**.
-5. Browse to the location of the term base file, select it, and confirm.
-6. Review the **term base import settings** and map the language columns as required.
+4. Right-click the new entry in the list and select **Import Term base**.
+5. Select the Term base file and click **Open**.
+6. Review the **Term base import settings** and map the language columns as required.
    ![Term base Excel import settings](../../assets/images/memoq-TB-language.png)
 7. Click **OK** to complete the import.
 
-The term base is added to the project and approved terminology is highlighted during translation to support consistent term usage.
+The Term base is added to the project and approved terminology is highlighted during translation to support consistent term usage.
 
 ---
 
-## Add a new term to a term base while translating
+## Add a new term to a Term base while translating
 
 ### Prerequisites
 - A translation document is open.
-- A term base is available and assigned to the project.
+- A Term base is available and assigned to the project.
 
 ### Steps
 
-1. On the **Ribbon**, select **Translation**.
+1. On the Ribbon, select **Translation**.
 2. Select **Add Term**.
 3. Enter the **source-language term**.
 4. Enter the corresponding **target-language term**.
 5. Click **OK** to save the new term.
 
-The new term is added to the term base and will be available for term
+The new term is added to the Term base and will be available for term
 recognition and consistency checks during translation.
 
 ### Notes
@@ -205,10 +208,10 @@ recognition and consistency checks during translation.
 
 ### Steps
 
-1. Select **Documents** in the project navigation.
+1. On the Ribbon, select **Documents**.
    ![Export a file in memoQ](../../assets/images/memoq-export.png)
-2. From the menu, choose **Export**.
-3. Select **Export (Choose path)**.
+2. Click **Export**.
+3. Choose **Export (Choose path)**.
 4. Select the destination folder for the exported file.
 5. Confirm the export.
 
@@ -224,9 +227,9 @@ project system or used to replace the original source file.
 ### memoQ user interface areas
 
 - **Dashboard** – Start view used to create and open projects.
-- **Project navigation** – Left-hand navigation area within a memoQ project.
+- **Project Navigation** – Left-hand navigation area within a memoQ project.
 - **Ribbon** – Top menu area containing tabs and commands.
-- **Translation editor** – Central area used to translate and review segments.
+- **Translation Editor** – Central area used to translate and review segments.
 
 ---
 
