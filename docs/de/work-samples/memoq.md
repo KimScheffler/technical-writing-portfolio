@@ -52,8 +52,8 @@ erfolgen immer im Kontext eines bestehenden Projekts.
 
 ## Ein neues memoQ-Projekt erstellen
 
-Erstellen Sie ein neues memoQ-Projekt als Grundlage für die Verwaltung von
-Übersetzungsdateien und linguistischen Ressourcen.
+In diesem Abschnitt wird beschrieben, wie Sie ein neues memoQ-Projekt als Grundlage für die Verwaltung von
+Übersetzungsdateien und linguistischen Ressourcen erstellen.
 
 1. Öffnen Sie **memoQ**.
 2. Wählen Sie im **Dashboard** die Option **New project**.
@@ -71,9 +71,6 @@ Das memoQ-Projekt wird erstellt und ist bereit, mit
 ---
 
 ## Eine Excel-Datei zur Übersetzung hinzufügen
-
-Importieren Sie eine Excel-Datei mithilfe von Importoptionen in ein memoQ-Projekt,
-sodass die richtigen Spalten für die Übersetzung vorbereitet sind.
 
 ### Voraussetzungen
 - Ein memoQ-Projekt ist erstellt und geöffnet.
@@ -122,8 +119,6 @@ jeweiligen Sprachpaar zugewiesen.
 ---
 
 ## Ein Translation Memory hochladen
-
-So wird ein vorhandenes Translation Memory (TM) zu einem memoQ-Projekt hinzugefügt, um bereits übersetzte Inhalte während der Übersetzung wiederzuverwenden.
 
 ### Voraussetzungen
 - Ein memoQ-Projekt ist erstellt und geöffnet.
@@ -189,8 +184,6 @@ wird während der Übersetzung hervorgehoben.
 ---
 
 ## Während der Übersetzung einen neuen Term zur Term Base hinzufügen
-
-Fügen Sie während der Übersetzung einen neuen Term direkt zu einer bestehenden Term Base hinzu.
 
 ### Voraussetzungen
 - Ein Übersetzungsdokument ist geöffnet.
