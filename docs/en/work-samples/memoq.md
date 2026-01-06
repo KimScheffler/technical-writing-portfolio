@@ -103,7 +103,7 @@ A translation memory (TM) is a database that automatically stores previously tra
 - exact matches
 - similar (fuzzy) matches
 
-Using a translation memory helps translators:
+**Using a translation memory helps translators:**
 
 - work more efficiently
 - ensure consistency across projects
@@ -144,7 +144,7 @@ A term base (also called a glossary) stores **approved terminology** and its tra
 
 Unlike a translation memory, a term base contains individual terms, not full sentences. During translation, memoQ highlights terms from the term base to support correct and consistent terminology usage.
 
-Term bases are commonly used to:
+**Term bases are commonly used to:**
 
 - enforce preferred terminology
 - maintain consistency in technical or regulated content
@@ -191,7 +191,7 @@ This task describes how to add a new term to an existing term base directly duri
 2. Select **Add Term**.
 3. Enter the **source-language term**.
 4. Enter the corresponding **target-language term**.
-5. Save the new term.
+5. Click **OK** to save the new term.
 
 The new glossary term is added to the term base and will be available for term
 recognition and consistency checks during translation.
@@ -211,13 +211,12 @@ recognition and consistency checks during translation.
 
 ### Steps
 
-1. Select the document you want to export.
-2. Select **Documents** in the project navigation.
+1. Select **Documents** in the project navigation.
    ![Export a file in memoQ](../../assets/images/memoq-export.png)
-3. From the menu, choose **Export**.
-4. Select **Export (Choose path)**.
-5. Select the destination folder for the exported file.
-6. Confirm the export.
+2. From the menu, choose **Export**.
+3. Select **Export (Choose path)**.
+4. Select the destination folder for the exported file.
+5. Confirm the export.
 
 
 The translated file is exported to the selected location and can be uploaded to the
