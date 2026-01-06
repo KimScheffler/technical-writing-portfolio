@@ -11,9 +11,9 @@
 | Create/Use New | Creates a new resource or uses an existing one |
 | Dashboard | Start view used to create and open projects |
 | Documents | Area used to export and manage files |
-| Export | Exports translated documents |
+| Export | Exports translated files |
 | Export (Choose path) | Export option to select the destination folder |
-| Filter | Setting used to control file import behavior |
+| Filter | Setting used to control how files are imported |
 | Finish | Completes the project creation wizard |
 | Import term base | Imports a term base into a project |
 | Import TM | Imports a translation memory |
@@ -26,7 +26,6 @@
 | Simple bilingual configuration | Simplified setup for bilingual file imports |
 | Source language | Language of the source content |
 | Target language | Language of the translated content |
-| Text extractor | OCR feature for extracting text from files |
 | Translation | Ribbon tab containing translation commands |
 | Translation editor | Central workspace for translating segments |
 | Translation memory TMX import settings | Settings used when importing TMX files |
