@@ -72,9 +72,8 @@ Das memoQ-Projekt wird erstellt und ist bereit, mit
 
 ## Eine Excel-Datei zur Übersetzung hinzufügen
 
-Dieser Task beschreibt, wie eine Excel-Datei mithilfe von Importoptionen
-in ein memoQ-Projekt importiert wird, sodass die richtigen Spalten für die
-Übersetzung vorbereitet sind.
+Importieren Sie eine Excel-Datei mithilfe von Importoptionen in ein memoQ-Projekt,
+sodass die richtigen Spalten für die Übersetzung vorbereitet sind.
 
 ### Voraussetzungen
 - Ein memoQ-Projekt ist erstellt und geöffnet.
@@ -191,7 +190,7 @@ wird während der Übersetzung hervorgehoben.
 
 ## Während der Übersetzung einen neuen Term zur Term Base hinzufügen
 
-Dieser Task beschreibt, wie während der Übersetzung ein neuer Term direkt zu einer bestehenden Term Base hinzugefügt wird.
+Fügen Sie während der Übersetzung einen neuen Term direkt zu einer bestehenden Term Base hinzu.
 
 ### Voraussetzungen
 - Ein Übersetzungsdokument ist geöffnet.
