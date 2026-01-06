@@ -16,7 +16,7 @@
 
 ## Was ist das Windows Snipping Tool?
 
-Das **Windows Snipping Tool** ist eine Windows-App zum Erstellen, Bearbeiten und Speichern von 
+Das **Windows Snipping Tool** ist eine Windows-Anwendung zum Erstellen, Bearbeiten und Speichern von 
 **Bildschirmfotos** und **Bildschirmvideos**.
 
 Mit dem Snipping Tool können Sie bestimmte Bildschirmbereiche, einzelne Fenster oder den 
@@ -25,11 +25,11 @@ Supportzwecke.
 
 Diese Dokumentation beschreibt grundlegende Funktionen des Snipping Tools, wie sie unter 
 **Windows 11** verfügbar sind. Einzelne Funktionen oder 
-Benutzeroberflächen können je nach Windows-Version oder App-Update abweichen.
+Benutzeroberflächen können je nach Windows-Version oder Anwendungs-Update abweichen.
 
 ![Snipping Tool – Startansicht](../../assets/images/snipping-tool-start.jpg)
 
-> **Hinweis**  
+> **Hinweis**
 > Die in den folgenden Tasks verwendeten Schaltflächen und Bedienelemente sind im Abschnitt [*Aufnahme-Steuerelemente*](#aufnahme-steuerelemente) beschrieben.
 
 ---
@@ -42,9 +42,8 @@ Benutzeroberflächen können je nach Windows-Version oder App-Update abweichen.
 
 Das Snipping Tool wird gestartet und ist einsatzbereit.
 
-### Hinweis
-
-Alternativ können Sie die Screenshot-Funktionen auch über eine Tastenkombination starten.  
+> **Hinweis**
+> Alternativ können Sie die Screenshot-Funktionen auch über eine Tastenkombination starten.  
 Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt 
 [*Tastenkombinationen*](#tastenkombinationen).
 
@@ -56,7 +55,7 @@ Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt
 2. Stellen Sie sicher, dass der **Foto-Modus** ausgewählt ist.
 3. (Optional) Nehmen Sie einen **Ausschnitt nach Verzögerung** auf.
 4. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
-5. Wählen Sie den gewünschten **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
+5. Wählen Sie den **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
 
 Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unterstützten Dateiformat gespeichert werden.
 
@@ -67,29 +66,28 @@ Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unters
 1. Öffnen Sie das **Snipping Tool**.
 2. Wechseln Sie in der Werkzeugleiste in den **Video-Modus**.
 3. Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.
-4. Wählen Sie die gewünschte **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
+4. Wählen Sie den gewünschten **Ausschnittbereich** und markieren Sie den gewünschten **Bildschirmbereich**.
 5. Klicken Sie auf **Start**, um die Aufnahme zu starten.
 6. Beenden Sie die Aufnahme über **Aufnahme beenden**.
 
 Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 
-### Hinweis
-Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
+> **Hinweis**
+> Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
 
 ---
 
 ## Text aus einem Bildschirmfoto kopieren
 
 1. Öffnen Sie das **Snipping Tool**.
-2. Klicken Sie im Snipping Tool auf **Text kopieren**.
+2. Klicken Sie im Snipping Tool auf **Textextraktor**.
 3. Wählen Sie den Bereich, in dem sich der Text befindet.
 4. Fügen Sie den Text in eine andere Anwendung ein.
 
 Der erkannte Text steht anschließend zur weiteren Verwendung zur Verfügung.
 
-### Hinweis
-
-Beim Kopieren von Text aus einem Bildschirmfoto können Sie optional die 
+> **Hinweis**
+> Beim Kopieren von Text aus einem Bildschirmfoto können Sie optional die 
 automatische Entfernung von **Zeilenumbrüchen** aktivieren, um den Text
 für die Weiterverarbeitung in anderen Anwendungen zu optimieren.
 
@@ -140,7 +138,7 @@ Steuerelemente von links nach rechts:
 - **Ausschnittbereich** – Legt fest, welcher Bereich des Bildschirms erfasst wird.
 - **Ausschnitt nach Verzögerung** – Verzögert den Start der Aufnahme.
 - **Textextraktor** – Erkennt und kopiert Text aus Bildschirmfotos (OCR).
-- **Drei-Punkte-Menü** – Öffnet bestehende Dateien sowie die App-Einstellungen.
+- **Drei-Punkte-Menü** – Öffnet bestehende Dateien sowie die Einstellungen.
 - **Farbwähler** – Erfasst einen Farbwert vom Bildschirm. Dieses Steuerelement ist nur im Aufnahmemodus verfügbar.
 
 ---
