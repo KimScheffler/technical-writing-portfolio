@@ -90,7 +90,7 @@ sodass die richtigen Spalten für die Übersetzung vorbereitet sind.
    - Wählen Sie als **Filter** den **Multilingual delimited text filter**.
    - Aktivieren Sie **Simple bilingual configuration**.
    - Legen Sie **Source** (Spalte der Quellsprache) und **Target** (Spalte der Zielsprache) fest (z. B. Spalten A und B).
-   - Aktivieren Sie **First row contains column names**, falls zutreffend.
+   - Aktivieren Sie **First row contains column names**, wenn die erste Zeile der Excel-Datei Spaltenüberschriften enthält.
    ![Importeinstellungen für Dokumente](../../assets/images/memoq-import-settings.png)
 6. Klicken Sie auf **OK** und anschließend erneut auf **OK**, um den Import abzuschließen.
 
@@ -110,7 +110,7 @@ im Translation Memory und schlägt passende Übersetzungen vor, z. B.:
 - exakte Übereinstimmungen
 - ähnliche (fuzzy) Übereinstimmungen
 
-Der Einsatz eines Translation Memorys hilft dabei:
+**Der Einsatz eines Translation Memorys hilft dabei:**
 
 - effizienter zu arbeiten
 - Konsistenz über Projekte hinweg sicherzustellen
@@ -222,7 +222,7 @@ Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 
 ### Schritte
 
-1. Wählen Sie **Documents** in der Projektnavigation aus.
+1. Wählen Sie im **Ribbon** den Tab **Documents**.
    ![Datei in memoQ exportieren](../../assets/images/memoq-export.png)
 2. Wählen Sie im Menü **Export**.
 3. Wählen Sie **Export (Choose path)**.
