@@ -113,21 +113,10 @@ Each task consists of:
 2. **Steps** and **Result** (outcome)
 
 #### Optional:
-- **Task introduction**
+- **Task introduction** (must not paraphrase the task heading; is used only when additional context is required) 
 - **Notes** for options or special cases
 - **No feature lists** within tasks
 
-## Task introductions
-
-### Rule
-Task sections **do not require an introductory sentence** if the task heading clearly and unambiguously states the user goal.
-
-An introductory sentence **is used only when additional context is required**, for example to:
-- clarify the scope of the task,
-- describe constraints or prerequisites that are not obvious from the heading,
-- explain the purpose of the task beyond the literal wording of the heading.
-
-Introductory sentences **must not paraphrase the task heading**.
 
 ### Style
 
