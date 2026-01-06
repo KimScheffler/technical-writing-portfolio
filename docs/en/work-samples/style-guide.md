@@ -113,17 +113,9 @@ Each task consists of:
 2. **Steps** and **Result** (outcome)
 
 #### Optional:
-- **Task introduction** (must not paraphrase the task heading; is used only when additional context is required) 
+- **Task introduction** (This section describes how to...) 
 - **Notes** for options or special cases
 - **No feature lists** within tasks
-
-
-### Style
-
-If an introductory sentence is required, it follows a **neutral, goal-oriented structure** and does not reference the information type (for example, “task”).
-
-**Template:**
-> This section describes how to <achieve goal>.
 
 ---
 
