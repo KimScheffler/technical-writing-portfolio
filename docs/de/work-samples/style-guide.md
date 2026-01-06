@@ -13,11 +13,12 @@ Er gilt projektübergreifend (z. B. für das Snipping Tool und memoQ).
 3. [Satzbau und Stil](#satzbau-und-stil)
 4. [Terminologie](#terminologie)
 5. [Struktur von Tasks](#struktur-von-tasks)
-6. [Hinweise](#hinweise)
-7. [Referenzinformationen](#referenzinformationen)
-8. [Bilder und Grafiken](#bilder-und-grafiken)
-9. [Barrierefreiheit](#barrierefreiheit)
-10. [Wartbarkeit](#wartbarkeit)
+6. [](#)
+7. [Hinweise](#hinweise)
+8. [Referenzinformationen](#referenzinformationen)
+9. [Bilder und Grafiken](#bilder-und-grafiken)
+10. [Barrierefreiheit](#barrierefreiheit)
+11. [Wartbarkeit](#wartbarkeit)
 
 ## Informationsarten
 
@@ -116,13 +117,14 @@ Ist ein technischer Fachbegriff unter einer allgemein gebräuchlicheren Bezeichn
 Jeder Task besteht aus:
 
 1. **Überschrift** (Ziel des Tasks)
-2. **Schritte** + **Ergebnis** (Outcome)
+2. (Optional) **Einleitung** (In diesem Abschnitt wird beschrieben, wie ...), aber nur, wenn sie Mehrwert bringt
+3. (Optional) **Voraussetzungen** werden genannt, falls es welche gibt
+4. **Schritte** + **Ergebnis** (Outcome)
+5. (Optional)**Hinweise** für Optionen oder Sonderfälle oder **Beispiele** zu Veranschaulichung
 
-#### Optional:
-- **Hinweise** für Optionen oder Sonderfälle
-- **keine** Feature-Listen in Tasks
+---
 
-### Listen und Schrittfolgen
+## Listen und Schrittfolgen
 
 In der Dokumentation werden unterschiedliche Listentypen gezielt eingesetzt:
 
@@ -131,7 +133,7 @@ In der Dokumentation werden unterschiedliche Listentypen gezielt eingesetzt:
 - **Aufzählungen (Bulletpoints)** werden verwendet, wenn die **Reihenfolge keine Rolle spielt**,
   z. B. bei Optionen, Hinweisen oder Referenzinformationen.
 
-#### Umfang von Schrittfolgen
+### Umfang von Schrittfolgen
 
 Eine Schrittfolge sollte **nicht mehr als 10 Schritte** enthalten.
 
@@ -142,7 +144,7 @@ Wenn ein Ablauf mehr als 10 Schritte erfordert:
 
 Ziel ist es, komplexe Abläufe übersichtlich, verständlich und gut wartbar zu halten.
 
-#### Unterpunkte (Substeps) in Schrittfolgen
+### Unterpunkte (Substeps) in Schrittfolgen
 
 Unterpunkte dürfen innerhalb eines nummerierten Schritts verwendet werden,
 wenn sie konfigurierende oder erläuternde Teilschritte beschreiben, die
