@@ -60,11 +60,7 @@ except for UI labels, which are reproduced as shown in the application.
 
 ### Gender-inclusive language
 
-For the sake of readability, this documentation uses gender-neutral
-language wherever possible.
-
-Where gender-specific terms are used, they are intended to refer
-to all genders equally.
+For the sake of readability, this documentation uses gender-neutral language wherever possible.
 
 ---
 
