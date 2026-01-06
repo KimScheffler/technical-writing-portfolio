@@ -24,8 +24,8 @@
 reviewers, and localization teams to manage and perform translation work.
 
 It supports the translation of multilingual content by combining source files
-with linguistic resources such as **Translation Memories (TMs)** and
-**Glossaries (Term Bases)**.
+with linguistic resources such as **Translation Memories** and
+**Term Bases (Glossaries)**.
 
 memoQ is commonly used in professional translation workflows to support
 consistency and quality across translation projects.
