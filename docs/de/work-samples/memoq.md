@@ -84,7 +84,7 @@ in ein memoQ-Projekt importiert wird, sodass die richtigen Spalten für die
 
 1. Wählen Sie **Translations** in der Projektnavigation aus.
    ![Bereich „Translations“ in memoQ](../../assets/images/memoq-translations.png)
-2. Wählen Sie **Import with options** und klicken Sie anschließend auf **Next**.
+2. Wählen Sie **Import with options**.
 3. Wählen Sie die Excel-Datei aus und klicken Sie auf **Open**.
 4. Klicken Sie auf **Change filter and configuration**.
 5. Konfigurieren Sie die Importoptionen:
@@ -124,25 +124,23 @@ jeweiligen Sprachpaar zugewiesen.
 
 ## Ein Translation Memory hochladen
 
-So wird ein vorhandenes Translation Memory (TM) zu einem memoQ-Projekt hinzugefügt wird, um bereits übersetzte Inhalte
-während der Übersetzung wiederzuverwenden.
+So wird ein vorhandenes Translation Memory (TM) zu einem memoQ-Projekt hinzugefügt, um bereits übersetzte Inhalte während der Übersetzung wiederzuverwenden.
 
 ### Voraussetzungen
-- Das memoQ-Projekt besteht bereits.
+- Ein memoQ-Projekt ist erstellt und geöffnet.
 - Eine Translation-Memory-Datei ist verfügbar (z. B. eine `.tmx`-Datei).
 
 ### Schritte
 
-1. Öffnen Sie das memoQ-Projekt, dem Sie das Translation Memory hinzufügen möchten.
-2. Wählen Sie **Translation memories** in der Projektnavigation aus.
+1. Wählen Sie **Translation memories** in der Projektnavigation aus.
    ![Bereich „Translation memories“ in memoQ](../../assets/images/memoq-new-TM.png)
-3. Klicken Sie mit der rechten Maustaste in die TM-Liste und wählen Sie **Create/Use New**.
-4. Geben Sie einen Namen ein, der zum Projekt passt.
-5. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import TM**.
-6. Navigieren Sie zum Speicherort der Translation-Memory-Datei, wählen Sie sie aus und bestätigen Sie.
-7. Überprüfen Sie in den **Translation memory TMX import settings** die **Source** (Quellsprache) und **Target** (Zielsprachen) und passen Sie die Importoptionen bei Bedarf an.
+2. Klicken Sie mit der rechten Maustaste in die TM-Liste und wählen Sie **Create/Use New**.
+3. Geben Sie einen Namen ein, der zum Projekt passt.
+4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import TM**.
+5. Navigieren Sie zum Speicherort der Translation-Memory-Datei, wählen Sie sie aus und bestätigen Sie.
+6. Überprüfen Sie in den **Translation memory TMX import settings** die **Source** (Quellsprache) und **Target** (Zielsprachen) und passen Sie die Importoptionen bei Bedarf an.
    ![TMX-Importeinstellungen für Translation Memories](../../assets/images/memoq-TM-settings.png)
-8. Klicken Sie auf **OK**, um den Import abzuschließen.
+7. Klicken Sie auf **OK**, um den Import abzuschließen.
 
 Das Translation Memory wird dem Projekt hinzugefügt und kann während der Übersetzung automatisch vorhandene Übersetzungen vorschlagen.
 
@@ -157,7 +155,7 @@ Im Gegensatz zu einem Translation Memory enthält eine Term Base einzelne Terme
 und keine vollständigen Sätze. Während der Übersetzung hebt memoQ Terme aus der
 Term Base hervor, um eine korrekte und konsistente Terminologieverwendung zu unterstützen.
 
-Term Bases werden häufig eingesetzt, um:
+**Term Bases werden häufig eingesetzt, um:**
 
 - bevorzugte Terminologie durchzusetzen
 - Konsistenz in technischen oder regulierten Inhalten sicherzustellen
@@ -171,21 +169,20 @@ Sprachen zugewiesen.
 ## Eine Term Base (Glossar) aus einer Excel-Datei hochladen
 
 ### Voraussetzungen
-- Das memoQ-Projekt besteht bereits.
+- Ein memoQ-Projekt ist erstellt und geöffnet.
 - Eine Term-Base-Datei liegt als Excel-Datei mit Quell- und Zielspalten vor.
 
 ### Schritte
 
-1. Öffnen Sie das memoQ-Projekt, dem Sie die Term Base hinzufügen möchten.
-2. Wählen Sie **Term bases** in der Projektnavigation aus.
+1. Wählen Sie **Term bases** in der Projektnavigation aus.
    ![Bereich „Term bases“ in memoQ](../../assets/images/memoq-new-TB.png)
-3. Klicken Sie mit der rechten Maustaste in die Term-Base-Liste und wählen Sie **Create/Use New**.
-4. Geben Sie einen Namen ein, der zum Projekt passt.
-5. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import term base**.
-6. Navigieren Sie zum Speicherort der Term-Base-Datei, wählen Sie sie aus und bestätigen Sie.
-7. Überprüfen Sie, ob die **Importeinstellungen für die Term Base** und Sprachspalten korrekt zugeordnet sind.
+2. Klicken Sie mit der rechten Maustaste in die Term-Base-Liste und wählen Sie **Create/Use New**.
+3. Geben Sie einen Namen ein, der zum Projekt passt.
+4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import term base**.
+5. Navigieren Sie zum Speicherort der Term-Base-Datei, wählen Sie sie aus und bestätigen Sie.
+6. Überprüfen Sie, ob die **Importeinstellungen für die Term Base** und Sprachspalten korrekt zugeordnet sind.
    ![Importeinstellungen für Term Base aus Excel](../../assets/images/memoq-TB-language.png)
-8. Klicken Sie auf **OK**, um den Import abzuschließen.
+7. Klicken Sie auf **OK**, um den Import abzuschließen.
 
 Die Term Base wird dem Projekt hinzugefügt und freigegebene Terminologie
 wird während der Übersetzung hervorgehoben.
@@ -221,19 +218,17 @@ Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 ## Eine übersetzte Datei exportieren
 
 ### Voraussetzungen
-- Das Dokument ist bestätigt und bereit zur Auslieferung.
+- Das übersetzte Dokument ist fertig und kann geliefert werden.
 - Alle QA-Prüfungen sind abgeschlossen (z. B. keine fehlenden Tags oder Formatierungsfehler).
 
 ### Schritte
 
-1. Öffnen Sie das memoQ-Projekt mit dem übersetzten Dokument.
-2. Wählen Sie das zu exportierende Dokument aus.
-3. Wählen Sie **Documents** in der Projektnavigation aus.
+1. Wählen Sie **Documents** in der Projektnavigation aus.
    ![Datei in memoQ exportieren](../../assets/images/memoq-export.png)
-4. Wählen Sie im Menü **Export**.
-5. Wählen Sie **Export (Choose path)**.
-6. Wählen Sie den Zielordner für die exportierte Datei aus.
-7. Bestätigen Sie den Export.
+2. Wählen Sie im Menü **Export**.
+3. Wählen Sie **Export (Choose path)**.
+4. Wählen Sie den Zielordner für die exportierte Datei aus.
+5. Bestätigen Sie den Export.
 
 Die übersetzte Datei wird am ausgewählten Speicherort abgelegt und kann
 in das Projektsystem hochgeladen oder als Ersatz für die Originaldatei verwendet werden.
