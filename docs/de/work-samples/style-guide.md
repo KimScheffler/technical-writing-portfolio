@@ -51,18 +51,23 @@ Informationstypen werden **nicht vermischt**.
 
 ### Sprachvariante
 
+### Sprachvariante
+
 Die deutsche Dokumentation wird in **Standarddeutsch** verfasst.
+
+Die Sprache von **UI-Elementen (z. B. Bedienfelder, Schaltflächen, Modi)** wird
+exakt so übernommen, wie sie in der jeweiligen Benutzeroberfläche angezeigt wird.
+Ist dies für das Verständnis erforderlich, kann eine **deutsche Übersetzung in Klammern**
+ergänzend angegeben werden.
+
 
 ### Geschlechtergerechte Sprache
 
 In dieser Dokumentation wird aus Gründen der besseren Lesbarkeit
-das **generische Maskulinum** verwendet.
-
-Die verwendeten Personenbezeichnungen beziehen sich gleichermaßen
+das **generische Maskulinum** verwendet. Die verwendeten Personenbezeichnungen beziehen sich gleichermaßen
 auf alle Geschlechter.
 
-Diese Entscheidung dient der sprachlichen Klarheit und Konsistenz
-und stellt keine Wertung dar.
+Diese Entscheidung dient der sprachlichen Klarheit und Konsistenz und stellt keine Wertung dar.
 
 ---
 
