@@ -42,7 +42,7 @@ Ein **memoQ-Projekt** ist der zentrale Arbeitsbereich, in dem alle
 
 Ein Projekt definiert die Quell- und Zielsprachen, enthält die zu übersetzenden
 Dateien und dient als Container für Übersetzungsressourcen wie
-**Translation Memories (TMs)** und **Glossare (Term Bases)**.
+**Translation Memories** und **Term Bases (Glossare)**.
 
 Alle weiteren Arbeitsschritte in memoQ – etwa das Zuweisen von TMs,
 das Hinzufügen von Glossaren oder das Starten der Übersetzung –
