@@ -1,4 +1,4 @@
-# Style Guide – Deutsche Software-Dokumentation
+# Styleguide – Deutsche Software-Dokumentation
 
 Dieser Style Guide definiert verbindliche Richtlinien für die Erstellung
 deutscher, **aufgabenorientierten Dokumentation** Software-Dokumentation in diesem Portfolio.
