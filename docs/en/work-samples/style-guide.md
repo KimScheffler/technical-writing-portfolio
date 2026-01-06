@@ -13,11 +13,12 @@ It applies across projects (for example, the Snipping Tool and memoQ).
 3. [Sentence structure and tone](#sentence-structure-and-tone)
 4. [Terminology](#terminology)
 5. [Task structure](#task-structure)
-6. [Notes](#notes)
-7. [Reference information](#reference-information)
-8. [Images and graphics](#images-and-graphics)
-9. [Accessibility](#accessibility)
-10. [Maintainability](#maintainability)
+6. [Lists and step sequences](#lists-and-step-sequences)
+7. [Notes](#notes)
+8. [Reference information](#reference-information)
+9. [Images and graphics](#images-and-graphics)
+10. [Accessibility](#accessibility)
+11. [Maintainability](#maintainability)
 
 ---
 
@@ -119,7 +120,7 @@ Each task consists of:
 
 ---
 
-### Lists and step sequences
+## Lists and step sequences
 
 Different list types are used intentionally:
 
@@ -128,7 +129,7 @@ Different list types are used intentionally:
 - **Bullet lists** are used when the **order does not matter**,
   for example in options, notes, or reference sections.
 
-#### Length of step sequences
+### Length of step sequences
 
 A step sequence should contain **no more than 10 steps**.
 
