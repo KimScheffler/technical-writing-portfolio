@@ -26,7 +26,7 @@ Reviewern und Lokalisierungsteams zur Durchführung und Verwaltung von
 
 Die Software unterstützt die Übersetzung mehrsprachiger Inhalte durch die
 Kombination von Quelldateien mit linguistischen Ressourcen wie
-**Translation Memories** und **Term Bases (Glossare)**.
+**Translation Memories (TMs)** und **Term Bases (Glossare)**.
 
 memoQ wird in professionellen Übersetzungsworkflows eingesetzt, um
 Konsistenz, Qualität und Effizienz über Projekte hinweg sicherzustellen.
@@ -42,7 +42,7 @@ Ein **memoQ-Projekt** ist der zentrale Arbeitsbereich, in dem alle
 
 Ein Projekt definiert die Quell- und Zielsprachen, enthält die zu übersetzenden
 Dateien und dient als Container für Übersetzungsressourcen wie
-**Translation Memories** und **Term Bases (Glossare)**.
+**Translation Memories (TMs)** und **Term Bases (Glossare)**.
 
 Alle weiteren Arbeitsschritte in memoQ – etwa das Zuweisen von TMs,
 das Hinzufügen von Glossaren oder das Starten der Übersetzung –
