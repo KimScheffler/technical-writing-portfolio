@@ -107,6 +107,8 @@ Dies gilt insbesondere für Schaltflächen, Modi und Werkzeugnamen.
 
 Verbindliche UI-Bezeichnungen sind im projektspezifischen Glossar definiert und werden in der Dokumentation konsistent verwendet.
 
+Ist ein technischer Fachbegriff unter einer allgemein gebräuchlicheren Bezeichnung bekannt, wird der technische Fachbegriff als Primärbegriff verwendet und bei der ersten Nennung durch die gebräuchliche Bezeichnung in Klammern ergänzt (z. B. *Term Base (Glossary)*). Der Primärbegriff wird anschließend konsistent verwendet.
+
 ---
 
 ## Struktur von Tasks
