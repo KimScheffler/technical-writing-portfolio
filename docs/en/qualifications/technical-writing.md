@@ -1,32 +1,28 @@
-# Professional Development
+# Professional Development & Qualifications
 
 ## Technical Writing: How to Write Software Documentation  
 *JPDocu School of Technical Writing*
 
-I completed the online course **Technical Writing: How to Write Software Documentation**, 
-a practice-oriented training program focused on modern software documentation workflows 
-and entry-level professional technical writing.
+I completed the online course **Technical Writing: How to Write Software Documentation**, a practice-oriented training program focused on modern software documentation workflows and fundamental professional methods of software documentation.
 
-The course is designed to provide a structured introduction to technical writing for 
-software products and is taught by **Jordan Stanchev**, User Assistance Development Architect 
-and founder of JPDocu School of Technical Writing.
+The course provides a structured introduction to documenting software products and is delivered by **Jordan Stanchev**, User Assistance Development Architect and founder of the JPDocu School of Technical Writing.
 
-![Certificate of completion for the online course "Technical Writing: How to Write Software Documentation"](../../assets/certificates/technical-writing.jpg)
+The methods and workflows taught in this course are consistently applied across the documentation examples in this portfolio (for example, the Snipping Tool, memoQ, and the Style Guide).
+
+![Certificate of completion for the online course “Technical Writing: How to Write Software Documentation”](../../assets/certificates/technical-writing.jpg)
 
 ---
 
-## Course Focus and Key Topics
+## Course content and focus areas
 
-The course covers the fundamentals of software documentation with a strong emphasis on 
-practical application. Key topics include:
+The course covers the fundamentals of software documentation with a strong emphasis on practical application. Key topics include:
 
-- fundamentals of technical writing for software products  
-- task-oriented documentation and user-focused content design  
-- writing and structuring documentation using **Markdown** in **GitHub-based workflows**  
-- basics of **information architecture** from a technical writing perspective  
-- creating instructional graphics and diagrams using **Canva**  
-- quality criteria for professional software documentation  
-- introductory user research techniques, including card sorting  
+- Fundamentals of technical writing for software products  
+- Task-oriented documentation and user-centered content design  
+- Writing and structuring documentation using **Markdown** in **GitHub-based workflows**  
+- Fundamentals of information architecture from a technical writing perspective  
+- Creating supporting graphics and diagrams using **Canva**  
+- Quality criteria for professional software documentation  
+- Basic methods of user analysis (for example, card sorting)  
 
-The training combines video lectures, hands-on exercises, and practical assignments to 
-support active learning and immediate application of concepts.
+The training combines video lessons, hands-on exercises, and assignments to support the direct and sustainable application of the content.
