@@ -5,18 +5,18 @@
   Abschlussjahr: 2016  
   Abschlussnote: 1,9
 
-### Studienfokus (Kurzbeschreibung) 
+## Studienfokus (Kurzbeschreibung) 
 Der Studiengang vermittelte fundierte Kenntnisse in Bioverfahrenstechnik, Biotechnologie, Prozessengineering und analytischen Methoden mit starkem Praxisbezug im Laborumfeld.
 
 ## Ausgewählte praktische Arbeiten
 
 ### Diplomarbeit im Bereich Biotechnologie
-Vergleich der Lipidakkumulation von *C. reinhardtii* und GMO-Stämmen unter verschiedenen Stressbedingungen; Bestimmung der Lipidakkumulation unter Hitzestress, Stickstoff- und Schwefellimitierung in Phytoplankton
+Vergleich der Lipidakkumulation von *C. reinhardtii* und GMO-Stämmen unter verschiedenen Stressbedingungen; Bestimmung der Lipidakkumulation unter Hitzestress, Stickstoff- und Schwefellimitierung in Phytoplankton.
 
-### Studienarbeit im Bereich Downstream-Verfahren (Thermischen Verfahrenstechnik)
-Einzel- und Schwarmtropfenuntersuchungen in DN32 Kühni Geometrie für ein reaktives Testsystem; experimentelle Untersuchung der Tropfen-größenverteilung in einer gerührten Extraktionssäule
+### Studienarbeit im Bereich Downstream-Verfahren (Thermische Verfahrenstechnik)
+Einzel- und Schwarmtropfenuntersuchungen in DN32 Kühni Geometrie für ein reaktives Testsystem; experimentelle Untersuchung der Tropfengrößenverteilung in einer gerührten Extraktionssäule.
 
 ### Studienarbeit im Bereich Bioverfahrenstechnik
-Kultivierung von Pflanzenzellen; Vergleich der Produktion von Sekundärmetaboliten in verschiedenen Pflanzenzellen und Fermentationsmethoden; Aufreinigung über HPLC
+Kultivierung von Pflanzenzellen; Vergleich der Produktion von Sekundärmetaboliten in verschiedenen Pflanzenzellen und Fermentationsmethoden; Aufreinigung über HPLC.
 
 ![Zertifikat über den Abschluss in Bio- und Umweltverfahrenstechnik](../../assets/certificates/diplom-bio-process.png)
