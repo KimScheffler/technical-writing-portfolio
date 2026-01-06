@@ -110,13 +110,11 @@ When a technical term is widely known under a more general name, the technical t
 
 Each task consists of:
 
-1. **Heading** (goal of the task)
-2. **Steps** and **Result** (outcome)
-
-#### Optional:
-- **Task introduction** (This section describes how to...) 
-- **Notes** for options or special cases
-- **No feature lists** within tasks
+1. **Heading** (task goal)
+2. (Optional) **Introduction** (*This section describes how …*), only if it adds value
+3. (Optional) **Prerequisites**, if applicable
+4. **Steps** + **Result** (outcome)
+5. (Optional) **Notes** for options or special cases or **Examples** for clarification
 
 ---
 
