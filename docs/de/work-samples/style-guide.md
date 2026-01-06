@@ -120,7 +120,7 @@ Jeder Task besteht aus:
 2. (Optional) **Einleitung** (In diesem Abschnitt wird beschrieben, wie ...), aber nur, wenn sie Mehrwert bringt
 3. (Optional) **Voraussetzungen** werden genannt, falls es welche gibt
 4. **Schritte** + **Ergebnis** (Outcome)
-5. (Optional)**Hinweise** für Optionen oder Sonderfälle oder **Beispiele** zu Veranschaulichung
+5. (Optional) **Hinweise** für Optionen oder Sonderfälle oder **Beispiele** zu Veranschaulichung
 
 ---
 
