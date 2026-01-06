@@ -80,7 +80,7 @@ so that the correct columns are prepared for translation.
 
 1. Select **Translations** in the project navigation.
     ![Translations section in memoQ](../../assets/images/memoq-translations.png)
-2. Select **Import with options**, then click **Next**.
+2. Select **Import with options**.
 3. Select the Excel file and click **Open**.
 4. Click **Change filter and configuration**.
 5. Configure the import options:
