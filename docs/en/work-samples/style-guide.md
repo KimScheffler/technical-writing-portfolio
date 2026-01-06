@@ -55,8 +55,8 @@ Information types must **not be mixed**.
 
 ### Language Variant
 
-This documentation uses international technical English
-with American English spelling and terminology.
+This documentation uses international technical English with American English spelling and terminology,
+except for UI labels, which are reproduced as shown in the application.
 
 ### Gender-inclusive language
 
@@ -244,7 +244,4 @@ Decorative highlights or multiple colors are not used.
 - Avoid redundancy
 - Centralize reusable information
 - Abstract UI-dependent details where possible
-
----
-
-
+- Support updates across software releases
