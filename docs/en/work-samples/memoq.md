@@ -50,7 +50,8 @@ the translation—are performed within the context of an existing project.
 
 ## Create a new memoQ project
 
-Create a new memoQ project to manage translation files and linguistic resources.
+This section describes how to create a new memoQ project as the basis for managing
+translation files and linguistic resources.
 
 1. Open **memoQ**.
 2. From the **Dashboard**, select **New project**.
@@ -68,9 +69,6 @@ such as **Translation Memories** and **Term Bases**.
 ---
 
 ## Add an Excel file for translation
-
-This task describes how to import an Excel file into a memoQ project using import options,
-so that the correct columns are prepared for translation.
 
 ### Prerequisites
 - A memoQ project is created and open.
@@ -114,8 +112,6 @@ Translation memories are typically imported into a project and assigned to the p
 ---
 
 ## Upload a Translation Memory
-
-This task describes how to add an existing translation memory (TM) to a memoQ project so that previously translated content can be reused during translation.
 
 ### Prerequisites
 
@@ -178,8 +174,6 @@ The term base is added to the project and approved terminology is highlighted du
 ---
 
 ## Add a new term to a term base while translating
-
-This task describes how to add a new term to an existing term base directly during translation in memoQ.
 
 ### Prerequisites
 - A translation document is open.
