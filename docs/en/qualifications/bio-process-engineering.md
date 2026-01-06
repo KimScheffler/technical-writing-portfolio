@@ -8,7 +8,7 @@ Final grade: 1.9
 ## Program Focus (Brief Description)
 
 The degree program provided a strong foundation in bioprocess engineering,
-biotechnology, process engineering, and analytical methods, with a strong
+biotechnology, process engineering, and analytical methods, with an
 emphasis on hands-on laboratory work.
 
 ## Selected Practical Work
