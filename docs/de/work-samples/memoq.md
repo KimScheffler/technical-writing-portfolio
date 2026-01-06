@@ -44,8 +44,8 @@ Ein Projekt definiert die Quell- und Zielsprachen, enthält die zu übersetzende
 Dateien und dient als Container für Übersetzungsressourcen wie
 **Translation Memories (TMs)** und **Term Bases (Glossare)**.
 
-Alle weiteren Arbeitsschritte in memoQ – etwa das Zuweisen von TMs,
-das Hinzufügen von Glossaren oder das Starten der Übersetzung –
+Alle weiteren Arbeitsschritte in memoQ – etwa das Zuweisen von Translation Memories,
+das Hinzufügen von Term Bases oder das Starten der Übersetzung –
 erfolgen immer im Kontext eines bestehenden Projekts.
 
 ---
@@ -66,7 +66,7 @@ Erstellen Sie ein neues memoQ-Projekt als Grundlage für die Verwaltung von
 7. Klicken Sie auf **Finish**, um das Projekt zu erstellen.
 
 Das memoQ-Projekt wird erstellt und ist bereit, mit
-**Translation Memories** und **Glossaren** ergänzt zu werden.
+**Translation Memories** und **Term Bases** ergänzt zu werden.
 
 ---
 
