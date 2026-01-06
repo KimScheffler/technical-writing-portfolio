@@ -13,7 +13,7 @@ Er gilt projektübergreifend (z. B. für das Snipping Tool und memoQ).
 3. [Satzbau und Stil](#satzbau-und-stil)
 4. [Terminologie](#terminologie)
 5. [Struktur von Tasks](#struktur-von-tasks)
-6. [](#)
+6. [Listen und Schrittfolgen](#listen-und-schrittfolgen)
 7. [Hinweise](#hinweise)
 8. [Referenzinformationen](#referenzinformationen)
 9. [Bilder und Grafiken](#bilder-und-grafiken)
