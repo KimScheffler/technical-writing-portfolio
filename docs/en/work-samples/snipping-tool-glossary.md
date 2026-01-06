@@ -9,7 +9,7 @@
 | Ausschnitt | Snip | Central control for selecting photo and video capture modes |
 | Ausschnitt nach Verzögerung | Delay snip | Screenshot created after a defined delay |
 | Ausschnittbereich | Snipping area | The actual area of the screen that is selected |
-| Bildschirmfoto | Screenshot | Single-image capture of the screen |
+| Bildschirmfoto | Screenshot | Single-image capture of a selected screen area |
 | Bildschirmvideo | Screen recording | Video recording of a selected screen area |
 | Farbwähler | Colour picker | Tool for selecting a color value directly from the screen |
 | Farbwert | Color value | Result of the color selection (for example, HEX or RGB value) |
