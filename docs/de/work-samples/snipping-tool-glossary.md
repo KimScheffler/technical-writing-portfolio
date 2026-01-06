@@ -1,14 +1,11 @@
 # Glossar – Snipping Tool
 
-
-| Deutsch| Englisch| Beschreibung |
-|------------------|-------------------|--------------|
-| Ausschnitt | Snip | Zentraler Bereich zur Auswahl von Foto- und Video-Modus |
-| Ausschnitt nach Verzögerung | Delay snip | Verzögertes Erstellen eines Screenshots |
-| Ausschnittbereich | Snipping area | Der tatsächlich ausgewählte Bildschirmbereich |
-| Bildschirmfoto | Screenshot | Einzelbildaufnahme des Bildschirms |
-| Bildschirmvideo | Screen recording | Videoaufnahme eines Bildschirmbereichs |
-| Farbwähler | Colour picker | Werkzeug zum Erfassen eines Farbwerts vom Bildschirm |
-| Farbwert | Colour value | Ergebnis der Farbauswahl (z. B. Hex- oder RGB-Wert) |
-| Textextraktor | Text extractor | Funktion zum Erkennen und Kopieren von Text aus Bildern (OCR) |
-| Zeilenumbrüche entfernen | Remove line breaks | Option im Textextractor, um automatische Zeilenumbrüche zu entfernen|
+| Englisch | Deutsch | Beschreibung |
+|----------|---------|--------------|
+| Colour picker | Farbwähler | Werkzeug zum Erfassen eines Farbwerts vom Bildschirm |
+| Color value | Farbwert | Ergebnis der Farbauswahl (z. B. Hex- oder RGB-Wert) |
+| Delay snip | Ausschnitt nach Verzögerung | Verzögertes Erstellen eines Screenshots |
+| Screen recording | Bildschirmvideo | Videoaufnahme eines Bildschirmbereichs |
+| Screenshot | Bildschirmfoto | Einzelbildaufnahme des Bildschirms |
+| Snip | Ausschnitt | Zentraler Bereich zur Auswahl von Foto- und Video-Modus |
+| Snipping area | Ausschnittbereich | Der tatsächlich ausgewählte Bildschirmbereich |
