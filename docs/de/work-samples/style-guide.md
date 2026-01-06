@@ -1,7 +1,7 @@
 # Styleguide – Deutsche Software-Dokumentation
 
-Dieser Style Guide definiert verbindliche Richtlinien für die Erstellung
-deutscher, **aufgabenorientierten Dokumentation** Software-Dokumentation in diesem Portfolio.
+Dieser Styleguide definiert verbindliche Richtlinien für die Erstellung
+deutscher, **aufgabenorientierter Software-Dokumentation** in diesem Portfolio.
 Er gilt projektübergreifend (z. B. für das Snipping Tool und memoQ).
 
 ---
@@ -201,7 +201,7 @@ Geeignet für:
 
 ### Platzierung
 - Direkt nach dem Schritt, auf den sie sich beziehen
-- Oder zentral im Reference-Bereich bei Wiederverwendung
+- Oder zentral in den Referenzinformationen bei Wiederverwendung
 
 ### Alt-Text
 - beschreibt **Inhalt und Zweck** des Bildes
@@ -241,7 +241,4 @@ Dekorative Markierungen oder unterschiedliche Farben werden nicht verwendet.
 - Redundanzen vermeiden
 - Wiederverwendbare Informationen zentralisieren
 - UI-abhängige Details möglichst abstrahieren
-
----
-
-
+- Änderungen über Software-Releases hinweg erleichtern
