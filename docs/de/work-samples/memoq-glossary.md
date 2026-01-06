@@ -13,7 +13,7 @@
 | Documents | Bereich zum Exportieren und Verwalten von Dateien |
 | Export | Funktion zum Ausgeben übersetzter Dateien |
 | Export (Choose path) | Exportoption zur Auswahl des Zielpfads |
-| Filter | Einstellung zur Steuerung des Dateiimports |
+| Filter | Auswahl des Importfilters beim Dateiimport |
 | Finish | Schließt den Projektassistenten ab |
 | Import term base | Importiert eine Termbase in ein Projekt |
 | Import TM | Importiert eine Translation Memory in ein Projekt |
@@ -26,7 +26,6 @@
 | Simple bilingual configuration | Vereinfachte Konfiguration für zweisprachige Dateien |
 | Source language | Ausgangssprache des Projekts |
 | Target language | Zielsprache des Projekts |
-| Text extractor | OCR-Funktion zur Texterkennung |
 | Translation | Registerkarte mit Übersetzungsfunktionen |
 | Translation editor | Zentrale Arbeitsansicht für Übersetzungen |
 | Translation memory TMX import settings | Einstellungen für den Import von TMX-Dateien |
