@@ -124,16 +124,15 @@ This task describes how to add an existing translation memory (TM) to a memoQ pr
 
 ### Steps
 
-1. Open the memoQ project to which you want to add the translation memory.
-2. Select **Translation memories** in the project navigation.
+1. Select **Translation memories** in the project navigation.
    ![Translation memories section in memoQ](../../assets/images/memoq-new-TM.png)
-3. Right-click the TM list and select **Create/Use New**.
-4. Enter a name that matches your project.
-5. Right-click the new entry in the list and select **Import TM**.
-6. Browse to the location of the translation memory file, select it, and confirm.
-7. In **Translation memory TMX import settings**, verify the **Source** and **Target** language codes and review the import    options as needed.
+2. Right-click the TM list and select **Create/Use New**.
+3. Enter a name that matches your project.
+4. Right-click the new entry in the list and select **Import TM**.
+5. Browse to the location of the translation memory file, select it, and confirm.
+6. In **Translation memory TMX import settings**, verify the **Source** and **Target** language codes and review the import    options as needed.
    ![Translation memory TMX import settings](../../assets/images/memoq-TM-settings.png)
-8. Click **OK** to complete the import.
+7. Click **OK** to complete the import.
 
 The translation memory is added to the project and can be used to automatically suggest existing translations during the translation process.
 
@@ -158,22 +157,21 @@ Term bases are usually imported into a project and assigned to the relevant lang
 ## Upload a Term Base (Glossary) from an Excel file
 
 ### Prerequisites
-- A memoQ project is created.
+- A memoQ project is created and open.
 - A term base file is available as an Excel file with source and target language columns.
 
 
 ### Steps
 
-1. Open the memoQ project to which you want to add the term base.
-2. Select **Term bases** in the project navigation.
+1. Select **Term bases** in the project navigation.
    ![Term Base section in memoQ](../../assets/images/memoq-new-TB.png)
-3. Right-click the term base list and select **Create/Use New**.
-4. Enter a name that matches your project.
-5. Right-click the new entry in the list and select **Import term base**.
-6. Browse to the location of the term base file, select it, and confirm.
-7. Review the **term base import settings** and map the language columns as required.
+2. Right-click the term base list and select **Create/Use New**.
+3. Enter a name that matches your project.
+4. Right-click the new entry in the list and select **Import term base**.
+5. Browse to the location of the term base file, select it, and confirm.
+6. Review the **term base import settings** and map the language columns as required.
    ![Term base Excel import settings](../../assets/images/memoq-TB-language.png)
-8. Click **OK** to complete the import.
+7. Click **OK** to complete the import.
 
 The term base is added to the project and approved terminology is highlighted during translation to support consistent term usage.
 
@@ -208,19 +206,18 @@ recognition and consistency checks during translation.
 ## Export a translated file
 
 ### Prerequisites
-- The document is confirmed and ready for delivery.
+- The translation document is open and ready for delivery.
 - All QA checks are resolved (for example, no missing tags or formatting issues).
 
 ### Steps
 
-1. Open the memoQ project containing the translated document.
-2. Select the document you want to export.
-3. Select **Documents** in the project navigation.
+1. Select the document you want to export.
+2. Select **Documents** in the project navigation.
    ![Export a file in memoQ](../../assets/images/memoq-export.png)
-4. From the menu, choose **Export**.
-5. Select **Export (Choose path)**.
-6. Select the destination folder for the exported file.
-7. Confirm the export.
+3. From the menu, choose **Export**.
+4. Select **Export (Choose path)**.
+5. Select the destination folder for the exported file.
+6. Confirm the export.
 
 
 The translated file is exported to the selected location and can be uploaded to the
