@@ -34,7 +34,7 @@
   - [Glossar – Snipping Tool](docs/de/work-samples/snipping-tool-glossary.md)
 - [Beispiel 2: memoQ](docs/de/work-samples/memoQ.md)
   - [Glossar – memoQ](docs/de/work-samples/memoQ-glossary.md)
-- [Globaler Style Guide](docs/de/work-samples/style-guide.md)
+- [Globaler Styleguide](docs/de/work-samples/style-guide.md)
 
 ### Weiterbildungen & Qualifikationen
 
