@@ -41,9 +41,9 @@ resources and files are managed.
 
 A project defines the source and target languages, contains the files to be
 translated, and serves as the container for translation resources such as
-**Translation Memories (TMs)** and **Glossaries (Term Bases)**.
+**Translation Memories (TMs)** and **Term Bases (Glossaries)**.
 
-All further steps in memoQ—such as assigning TMs, adding glossaries, or starting
+All further steps in memoQ—such as assigning Translation Memories, adding Term Bases, or starting
 the translation—are performed within the context of an existing project.
 
 ---
@@ -63,7 +63,7 @@ Create a new memoQ project to manage translation files and linguistic resources.
 7. Click **Finish** to create the project.
 
 The memoQ project is created and ready to be enriched with translation resources
-such as **Translation Memories** and **Glossaries**.
+such as **Translation Memories** and **Term Bases**.
 
 ---
 
@@ -193,7 +193,7 @@ This task describes how to add a new term to an existing term base directly duri
 4. Enter the corresponding **target-language term**.
 5. Click **OK** to save the new term.
 
-The new glossary term is added to the term base and will be available for term
+The new term is added to the term base and will be available for term
 recognition and consistency checks during translation.
 
 ### Notes
@@ -246,6 +246,6 @@ in memoQ:
 - **Ctrl + Z** – Undo last action
 - **Ctrl + C / Ctrl + V** – Copy / paste content
 - **Ctrl + F** – Search in document
-- **Ctrl + E** – Add new glossary term *(Equivalent to **Translation > Add Term**)*
+- **Ctrl + E** – Add new term *(Equivalent to **Translation > Add Term**)*
 
 
