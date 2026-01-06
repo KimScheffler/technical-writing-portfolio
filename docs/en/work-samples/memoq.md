@@ -4,7 +4,7 @@
 
 1. [What is memoQ?](#what-is-memoq)
 2. [What is a memoQ project?](#what-is-a-memoq-project)
-3. [Create a new memoQ project](#create-a-new-memoQ-project)
+3. [Create a new memoQ project](#create-a-new-memoq-project)
 4. [Add an Excel file for translation](#add-an-excel-file-for-translation)
 5. [What is a Translation Memory?](#what-is-a-translation-memory)
 6. [Upload a Translation Memory](#upload-a-translation-memory)
@@ -12,8 +12,8 @@
 8. [Upload a Term Base (Glossary)](#upload-a-term-base-glossary)
 9. [Add a new term to a term base while translating](#add-a-new-term-to-a-term-base-while-translating)
 10. [Export a translated file](#export-a-translated-file)
-10. [Reference](#reference)
-    - [memoQ user interface areas](#memoQ-user-interface-areas)
+11. [Reference](#reference)
+    - [memoQ user interface areas](#memoq-user-interface-areas)
     - [Keyboard shortcuts (selection)](#keyboard-shortcuts-selection)
 
 ---
@@ -27,8 +27,8 @@ It supports the translation of multilingual content by combining source files
 with linguistic resources such as **Translation Memories (TMs)** and
 **Glossaries (Term Bases)**.
 
-memoQ is commonly used in professional translation workflows to ensure
-consistency, quality, and efficiency across translation projects.
+memoQ is commonly used in professional translation workflows to support
+consistency and quality across translation projects.
 
 ![memoQ – start view](../../assets/images/memoq-start.png)
 
@@ -167,13 +167,13 @@ Term bases are usually imported into a project and assigned to the relevant lang
 1. Open the memoQ project to which you want to add the term base.
 2. Select **Term bases** in the project navigation.
    ![Term Base section in memoQ](../../assets/images/memoq-new-TB.png)
-4. Right-click the term base list and select **Create/Use New**.
-5. Enter a name that matches your project.
-6. Right-click the new entry in the list and select **Import term base**.
-7. Browse to the location of the term base file, select it, and confirm.
-8. Review the **term base import settings** and map the language columns as required.
+3. Right-click the term base list and select **Create/Use New**.
+4. Enter a name that matches your project.
+5. Right-click the new entry in the list and select **Import term base**.
+6. Browse to the location of the term base file, select it, and confirm.
+7. Review the **term base import settings** and map the language columns as required.
    ![Term base Excel import settings](../../assets/images/memoq-TB-language.png)
-9. Click **OK** to complete the import.
+8. Click **OK** to complete the import.
 
 The term base is added to the project and approved terminology is highlighted during translation to support consistent term usage.
 
@@ -217,10 +217,10 @@ recognition and consistency checks during translation.
 2. Select the document you want to export.
 3. Select **Documents** in the project navigation.
    ![Export a file in memoQ](../../assets/images/memoq-export.png)
-5. From the menu, choose **Export**.
-6. Select **Export (Choose path)**.
-7. Select the destination folder for the exported file.
-8. Confirm the export.
+4. From the menu, choose **Export**.
+5. Select **Export (Choose path)**.
+6. Select the destination folder for the exported file.
+7. Confirm the export.
 
 
 The translated file is exported to the selected location and can be uploaded to the
