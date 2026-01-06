@@ -101,6 +101,8 @@ This applies in particular to buttons, modes, and tool names.
 
 Binding UI terms are defined in the project-specific glossary and are used consistently throughout the documentation.
 
+When a technical term is widely known under a more general name, the technical term is used as the primary term, followed by the commonly known term in parentheses at first mention (for example, *Term Base (Glossary)*). The primary term is used consistently thereafter.
+
 ---
 
 ## Task structure
