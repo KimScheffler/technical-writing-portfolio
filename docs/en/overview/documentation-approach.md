@@ -8,7 +8,7 @@ strong focus on **task-oriented documentation**, clear information architecture,
 user-centered content.
 
 All methods and principles described here are applied across the documentation examples in this
-portfolio, including the **Windows Snipping Tool** project as well as the associated **glossaries**
+portfolio, including the **Windows Snipping Tool** and **memoQ** projects as well as the associated **glossaries**
 and **style guide**.
 
 ---
@@ -36,7 +36,7 @@ At this stage, target audiences and user roles are identified, typical tasks and
 are analyzed, and information needs and usage contexts are clarified.
 
 As part of this approach, **style guides, terminology standards, and writing conventions** are
-defined early to ensure consistent UI naming, tone, and structure across all documentation (see steps 3 in the diagram).
+defined early to ensure consistent UI naming, tone, and structure across all documentation (steps 3).
 Global style guides and project-specific glossaries support consistency, content reuse, and
 long-term maintainability.
 
