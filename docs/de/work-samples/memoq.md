@@ -130,7 +130,7 @@ jeweiligen Sprachpaar zugewiesen.
    ![Bereich „Translation memories“ in memoQ](../../assets/images/memoq-new-TM.png)
 2. Klicken Sie mit der rechten Maustaste in die TM-Liste und wählen Sie **Create/Use New**.
 3. Geben Sie einen Namen ein, der zum Projekt passt und klicken Sie **OK**.
-4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import TM**.
+4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import...**.
 5. Wählen Sie die Translation-Memory-Datei aus und klicken Sie **Open**.
 6. Überprüfen Sie die Importeinstellungen:
    - Überprüfen Sie die Codes der Quell- und Zielsprache unter **Source** und **Target**.
@@ -174,7 +174,7 @@ Sprachen zugewiesen.
    ![Bereich „Term bases“ in memoQ](../../assets/images/memoq-new-TB.png)
 2. Klicken Sie mit der rechten Maustaste in die Term-Base-Liste und wählen Sie **Create/Use New**.
 3. Geben Sie einen Namen ein, der zum Projekt passt und klicken Sie **OK**.
-4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import terminology**.
+4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import Terminology**.
 5. Wählen Sie die Term-Base-Datei aus und klicken Sie **Open**.
 6. Überprüfen Sie, ob die **Importeinstellungen für die Term Base** und Sprachspalten korrekt zugeordnet sind.
    ![Importeinstellungen für Term Base aus Excel](../../assets/images/memoq-TB-language.png)
@@ -221,7 +221,7 @@ Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 2. Klicken Sie auf **Export**.
 3. Wählen Sie **Export (Choose path)**.
 4. Wählen Sie den Zielordner für die exportierte Datei aus.
-5. Bestätigen Sie den Export.
+5. Klicken Sie **OK**, um den Export zu bestätigen.
 
 Die übersetzte Datei wird am ausgewählten Speicherort abgelegt und kann
 in das Projektsystem hochgeladen oder als Ersatz für die Originaldatei verwendet werden.
