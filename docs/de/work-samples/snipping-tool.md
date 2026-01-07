@@ -88,7 +88,7 @@ Der erkannte Text steht anschließend zur weiteren Verwendung zur Verfügung.
 
 > **Hinweis**  
 > Beim Kopieren von Text aus einem Bildschirmfoto können Sie optional im
-> Drei-Punkte-Menü die automatische Entfernung von **Zeilenumbrüchen** aktivieren,
+> **Drei-Punkte-Menü** die Option **Zeilenumbrüchen entfernen** aktivieren,
 > um den Text für die Weiterverarbeitung in anderen Anwendungen zu optimieren.
 
 ---
