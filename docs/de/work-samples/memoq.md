@@ -137,7 +137,6 @@ jeweiligen Sprachpaar zugewiesen.
    - Überprüfen Sie die **Source**- und **Target**-Sprache.
    - Passen Sie weitere Importoptionen bei Bedarf an.
    ![TMX-Importeinstellungen für Translation Memories](../../assets/images/memoq-TM-settings.png)
-
 7. Klicken Sie auf **OK**, um den Import abzuschließen.
 
 Das Translation Memory wird dem Projekt hinzugefügt und kann während der Übersetzung automatisch vorhandene Übersetzungen vorschlagen.
@@ -204,10 +203,9 @@ wird während der Übersetzung hervorgehoben.
 Der neue Term wird der Term Base hinzugefügt und steht für
 Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 
-### Hinweise
-
-- Sie können den englischen Term und den entsprechenden deutschen Term im Text markieren und anschließend **Quick Add Term** wählen, um den Term ohne Öffnen des Assistenten hinzuzufügen.
-- Alternativ können Sie einen Term auch über eine Tastenkombination hinzufügen. Weitere Informationen finden Sie unter [*Tastenkombinationen*](#tastenkombinationen-auswahl).
+> ### Hinweise  
+> - Sie können den englischen Term und den entsprechenden deutschen Term im Text markieren und anschließend **Quick Add Term** wählen, um den Term ohne Öffnen des Assistenten hinzuzufügen.
+> - Alternativ können Sie einen Term auch über eine Tastenkombination hinzufügen. Weitere Informationen finden Sie unter [*Tastenkombinationen*](#tastenkombinationen-auswahl).
 
 ---
 
@@ -253,5 +251,3 @@ in memoQ verwendet:
 - **Strg + C / Strg + V** – Inhalt kopieren / einfügen
 - **Strg + F** – Im Dokument suchen
 - **Strg + E** – Neuen Terminus hinzufügen *(entspricht **Translation > Add Term**)*
-
-
