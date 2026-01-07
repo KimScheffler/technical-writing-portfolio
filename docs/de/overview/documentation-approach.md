@@ -19,7 +19,7 @@ sowie der zugehörigen **Glossare** und des **Styleguides**.
 Die folgende Grafik gibt einen Überblick über die zugrunde liegenden Prinzipien und Schritte
 dieses Dokumentationsansatzes und stellt den vollständigen Dokumentationslebenszyklus dar.
 
-![Überblick über einen typischen 12-stufigen Dokumentationsprozess für aufgabenorientierte Dokumentation](../../assets/images/12Principles_en.png)
+![Überblick über einen typischen 12-stufigen Dokumentationsprozess für aufgabenorientierte Dokumentation](../../assets/images/12Principles_de.png)
 
 *Abbildung 1: Überblick über den im Portfolio verwendeten Dokumentationsprozess. Grafik erstellt mit PowerPoint und Canva.*
 
