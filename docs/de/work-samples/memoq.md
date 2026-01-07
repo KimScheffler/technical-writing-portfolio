@@ -174,7 +174,7 @@ Sprachen zugewiesen.
    ![Bereich „Term bases“ in memoQ](../../assets/images/memoq-new-TB.png)
 2. Klicken Sie mit der rechten Maustaste in die Term-Base-Liste und wählen Sie **Create/Use New**.
 3. Geben Sie einen Namen ein, der zum Projekt passt und klicken Sie **OK**.
-4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import term base**.
+4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import terminology**.
 5. Wählen Sie die Term-Base-Datei aus und klicken Sie **Open**.
 6. Überprüfen Sie, ob die **Importeinstellungen für die Term Base** und Sprachspalten korrekt zugeordnet sind.
    ![Importeinstellungen für Term Base aus Excel](../../assets/images/memoq-TB-language.png)
