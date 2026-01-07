@@ -31,11 +31,11 @@ based on multiple optical image acquisitions.
 
 #### Tasks and Methodology
 
-- Processing of **image stacks from optical surface measurements**
-- Conversion of **image data into a matrix** for numerical processing
-- Application of **pattern recognition** to align and overlay images at pixel level
-- **Calculation of maximum values** representing the respective focal planes
-- Derivation of **surface topography** from the determined focus positions,
+- Processing of image stacks from optical surface measurements
+- Application of pattern recognition to align and overlay images at pixel level
+- Conversion of image data into a matrix for numerical processing
+- Calculation of maximum values representing the respective focal planes
+- Derivation of surface topography from the determined focus positions,
   taking into account the known distance between individual images
 
 ---
