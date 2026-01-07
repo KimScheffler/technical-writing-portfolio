@@ -17,7 +17,7 @@
 | Finish | Completes the project creation wizard |
 | Import term base | Imports a term base into a project |
 | Import TM | Imports a translation memory |
-| Import with options | Imports files with configurable settings |
+| Import With Options | Imports files with configurable settings |
 | Multilingual delimited text filter | Import filter for multilingual table-based files |
 | New project | Starts the project creation wizard |
 | Next | Proceeds to the next step in a wizard |
