@@ -81,7 +81,7 @@ Das memoQ-Projekt wird erstellt und ist bereit, mit
 
 1. Klicken Sie in der Projektnavigation auf **Translations**.
    ![Bereich „Translations“ in memoQ](../../assets/images/memoq-translations.png)
-2. Wählen Sie im Ribbon den Tab **Documents**.  
+2. Wechseln Sie im Ribbon zum Tab **Documents**.  
 3. Klicken Sie auf **Import**. 
 4. Wählen Sie **Import With Options**.
 5. Wählen Sie die Excel-Datei aus und klicken Sie auf **Open**.
@@ -196,7 +196,7 @@ wird während der Übersetzung hervorgehoben.
 
 ### Schritte
 
-1. Wählen Sie im **Ribbon** den Tab **Translation**.
+1. Wechseln Sie im Ribbon zum Tab **Translation**.
 2. Klicken Sie auf **Add Term**.
 3. Geben Sie den **Quellsprachterm** und den **Zielsprachterm** ein und fügen Sie beide mit dem **Plus-Button** hinzu.
    ![Term zur Term Base hinzufügen](../../assets/images/memoq-add-term.png)
@@ -219,7 +219,7 @@ Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
 
 ### Schritte
 
-1. Wählen Sie im **Ribbon** den Tab **Documents**.
+1. Wechseln Sie im Ribbon zum Tab **Documents**.
    ![Datei in memoQ exportieren](../../assets/images/memoq-export.png)
 2. Klicken Sie auf **Export**.
 3. Wählen Sie **Export (Choose path)**.
