@@ -81,16 +81,18 @@ Das memoQ-Projekt wird erstellt und ist bereit, mit
 
 1. Klicken Sie in der Projektnavigation auf **Translations**.
    ![Bereich „Translations“ in memoQ](../../assets/images/memoq-translations.png)
-2. Wählen Sie **Import with options**.
-3. Wählen Sie die Excel-Datei aus und klicken Sie auf **Open**.
-4. Klicken Sie auf **Change filter and configuration**.
-5. Konfigurieren Sie die Importoptionen:
+2. Wählen Sie im Ribbon den Tab **Documents**.  
+3. Klicken Sie auf **Import**. 
+4. Wählen Sie **Import With Options**.
+5. Wählen Sie die Excel-Datei aus und klicken Sie auf **Open**.
+6. Klicken Sie auf **Change filter and configuration**.
+7. Konfigurieren Sie die Importoptionen:
    - Wählen Sie als **Filter** den **Multilingual delimited text filter**.
    - Aktivieren Sie **Simple bilingual configuration**.
    - Legen Sie **Source** (Spalte der Quellsprache) und **Target** (Spalte der Zielsprache) fest (z. B. Spalten A und B).
    - Aktivieren Sie **First row contains column names**, wenn die erste Zeile der Excel-Datei Spaltenüberschriften enthält.
    ![Importeinstellungen für Dokumente](../../assets/images/memoq-import-settings.png)
-6. Klicken Sie auf **OK** und anschließend erneut auf **OK**, um den Import abzuschließen.
+8. Klicken Sie auf **OK** und anschließend erneut auf **OK**, um den Import abzuschließen.
 
 Die Excel-Datei wird in das memoQ-Projekt importiert und mit korrekt zugewiesenen
 Quell- und Zielspalten für die Übersetzung vorbereitet.
@@ -130,11 +132,11 @@ jeweiligen Sprachpaar zugewiesen.
 1. Klicken Sie in der Projektnavigation auf **Translation memories**.
    ![Bereich „Translation memories“ in memoQ](../../assets/images/memoq-new-TM.png)
 2. Klicken Sie mit der rechten Maustaste in die TM-Liste und wählen Sie **Create/Use New**.
-3. Geben Sie einen Namen ein, der zum Projekt passt.
+3. Geben Sie einen Namen ein, der zum Projekt passt und klicken Sie **OK**.
 4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import TM**.
 5. Wählen Sie die Translation-Memory-Datei aus und klicken Sie **Open**.
 6. Überprüfen Sie die Importeinstellungen:
-   - Überprüfen Sie die **Source**- und **Target**-Sprache.
+   - Überprüfen Sie die Codes der Quell- und Zielsprache unter **Source** und **Target**.
    - Passen Sie weitere Importoptionen bei Bedarf an.
    ![TMX-Importeinstellungen für Translation Memories](../../assets/images/memoq-TM-settings.png)
 7. Klicken Sie auf **OK**, um den Import abzuschließen.
@@ -174,7 +176,7 @@ Sprachen zugewiesen.
 1. Klicken Sie in der Projektnavigation auf **Term bases**.
    ![Bereich „Term bases“ in memoQ](../../assets/images/memoq-new-TB.png)
 2. Klicken Sie mit der rechten Maustaste in die Term-Base-Liste und wählen Sie **Create/Use New**.
-3. Geben Sie einen Namen ein, der zum Projekt passt.
+3. Geben Sie einen Namen ein, der zum Projekt passt und klicken Sie **OK**.
 4. Klicken Sie mit der rechten Maustaste auf den neuen Eintrag und wählen Sie **Import term base**.
 5. Wählen Sie die Term-Base-Datei aus und klicken Sie **Open**.
 6. Überprüfen Sie, ob die **Importeinstellungen für die Term Base** und Sprachspalten korrekt zugeordnet sind.
@@ -195,10 +197,10 @@ wird während der Übersetzung hervorgehoben.
 ### Schritte
 
 1. Wählen Sie im **Ribbon** den Tab **Translation**.
-2. Wählen Sie **Add Term**.
-3. Geben Sie den **Quellsprachterm** ein.
-4. Geben Sie den entsprechenden **Zielsprachterm** ein.
-5. Speichern Sie den neuen Term.
+2. Klicken Sie auf **Add Term**.
+3. Geben Sie den **Quellsprachterm** und den **Zielsprachterm** ein und fügen Sie beide mit dem **Plus-Button** hinzu.
+   ![Term zur Term Base hinzufügen](../../assets/images/memoq-add-term.png)
+6. Klicken Sie **OK**, um den neuen Term zu speichern.
 
 Der neue Term wird der Term Base hinzugefügt und steht für
 Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
@@ -236,7 +238,6 @@ in das Projektsystem hochgeladen oder als Ersatz für die Originaldatei verwende
 - **Dashboard** – Startansicht zum Erstellen und Öffnen von Projekten.
 - **Projektnavigation** – Linker Navigationsbereich innerhalb eines memoQ-Projekts.
 - **Ribbon** – Oberer Menübereich mit Tabs und Befehlen.
-- **Übersetzungseditor** – Zentraler Bereich zum Übersetzen und Prüfen von Segmenten.
 
 ---
 
@@ -250,4 +251,4 @@ in memoQ verwendet:
 - **Strg + Z** – Letzte Aktion rückgängig machen
 - **Strg + C / Strg + V** – Inhalt kopieren / einfügen
 - **Strg + F** – Im Dokument suchen
-- **Strg + E** – Neuen Terminus hinzufügen *(entspricht **Translation > Add Term**)*
+- **Strg + E** – Neuen Term hinzufügen *(entspricht **Translation > Add Term**)*
