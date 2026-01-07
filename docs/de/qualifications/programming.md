@@ -32,11 +32,11 @@ auf Basis mehrerer optischer Einzelaufnahmen.
 
 #### Aufgaben und Methodik
 
-- Verarbeitung von **Bildstapeln aus optischen Oberflächenmessungen**
-- Überführung der **Bilddaten in eine Matrix** zur weiteren numerischen Verarbeitung
-- Einsatz von **Mustererkennung**, um die Bilder pixelgenau zu überlagern
-- **Berechnung von Maximalwerten**, da diese den jeweiligen Fokusbereich repräsentieren
-- Ableitung der **Oberflächentopographie** aus den ermittelten Fokuspositionen unter
+- Verarbeitung von Bildstapeln aus optischen Oberflächenmessungen
+- Einsatz von Mustererkennung, um die Bilder pixelgenau zu überlagern
+- Überführung der Bilddaten in eine Matrix zur weiteren numerischen Verarbeitung
+- Berechnung von Maximalwerten, da diese den jeweiligen Fokusbereich repräsentieren
+- Ableitung der Oberflächentopographie aus den ermittelten Fokuspositionen unter
   Berücksichtigung des bekannten Abstands zwischen den Einzelbildern
 
 ---
