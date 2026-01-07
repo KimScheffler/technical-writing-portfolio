@@ -38,7 +38,7 @@ Nutzungsszenarien analysiert sowie Informationsbedarfe und Nutzungskontexte gekl
 
 Im Rahmen dieses Ansatzes werden **Styleguides, Terminologiestandards und Schreibkonventionen**
 frühzeitig festgelegt, um eine konsistente Benennung von UI-Elementen, einen einheitlichen Ton
-sowie eine klare Struktur in der gesamten Dokumentation sicherzustellen (Schritte 3). Globale Styleguides und projektspezifische Glossare unterstützen Konsistenz,
+sowie eine klare Struktur in der gesamten Dokumentation sicherzustellen (Schritt 3). Globale Styleguides und projektspezifische Glossare unterstützen Konsistenz,
 Wiederverwendbarkeit von Inhalten und die langfristige Wartbarkeit.
 
 Diese Analyse bildet die Grundlage für alle weiteren Dokumentationsentscheidungen.
