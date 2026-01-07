@@ -62,8 +62,7 @@ translation files and linguistic resources.
 5. Add the files to be translated, if required.
 6. Click **Finish** to create the project.
 
-The memoQ project is created and ready to be enriched with translation resources
-such as **Translation memories** and **Term bases**.
+The memoQ project is created and ready to add **translation files** and assign **Translation memories** and **Term bases**.
 
 ---
 
