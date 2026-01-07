@@ -64,8 +64,7 @@ In diesem Abschnitt wird beschrieben, wie Sie ein neues memoQ-Projekt als Grundl
 5. Fügen Sie bei Bedarf die zu übersetzenden Dateien hinzu.
 6. Klicken Sie auf **Finish**, um das Projekt zu erstellen.
 
-Das memoQ-Projekt wird erstellt und ist bereit, mit
-**Translation Memories** und **Term Bases** ergänzt zu werden.
+Das memoQ-Projekt wird erstellt und ist bereit, **Übersetzungsdateien** hinzuzufügen sowie **Translation Memories** und **Term Bases** zuzuweisen.
 
 ---
 
