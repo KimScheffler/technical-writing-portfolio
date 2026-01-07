@@ -15,8 +15,8 @@
 | Export (Choose path) | Exportoption zur Auswahl des Zielpfads |
 | Filter | Auswahl des Importfilters beim Dateiimport |
 | Finish | Schließt den Projektassistenten ab |
-| Import term base | Importiert eine Termbase in ein Projekt |
-| Import TM | Importiert eine Translation Memory in ein Projekt |
+| Import Terminology | Importiert eine Termbase in ein Projekt |
+| Import... | Importiert eine Translation Memory in ein Projekt |
 | Import With Options | Importiert Dateien mit konfigurierbaren Einstellungen |
 | Multilingual delimited text filter | Importfilter für mehrsprachige Tabellenformate |
 | New project | Startet den Projektassistenten |
