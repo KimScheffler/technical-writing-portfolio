@@ -95,5 +95,6 @@ remaining sustainable for development and documentation teams.
 
 ---
 
-**Note:** *ChatGPT (version 5.2)* was used as a supportive tool for content structuring and drafting.
-All terminology, content, and described workflows were reviewed, validated, and finalized by me.
+> **Note:** *ChatGPT (version 5.2)* was used as a supportive tool for draft text generation.
+> All terminology, content, and described workflows were defined, reviewed, validated, and finalized by me.
+
