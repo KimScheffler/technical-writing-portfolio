@@ -200,7 +200,7 @@ wird während der Übersetzung hervorgehoben.
 2. Klicken Sie auf **Add Term**.
 3. Geben Sie den **Quellsprachterm** und den **Zielsprachterm** ein und fügen Sie beide mit dem **Plus-Button** hinzu.
    ![Term zur Term Base hinzufügen](../../assets/images/memoq-add-term.png)
-6. Klicken Sie **OK**, um den neuen Term zu speichern.
+4. Klicken Sie **OK**, um den neuen Term zu speichern.
 
 Der neue Term wird der Term Base hinzugefügt und steht für
 Termerkennung und Konsistenzprüfungen während der Übersetzung zur Verfügung.
