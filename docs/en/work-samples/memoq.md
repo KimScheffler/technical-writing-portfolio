@@ -79,16 +79,18 @@ such as **Translation memories** and **Term bases**.
 
 1. In the Project Navigation, select **Translations**.
    ![Translations section in memoQ](../../assets/images/memoq-translations.png)
-2. Select **Import with options**.
-3. Select the Excel file and click **Open**.
-4. Click **Change filter and configuration**.
-5. Configure the import options:
+2. On the Ribbon, select the tab **Documents**.  
+3. Click **Import**. 
+4. Choose **Import with options**.
+5. Select the Excel file and click **Open**.
+6. Click **Change filter and configuration**.
+7. Configure the import options:
    - For **Filter**, select the **Multilingual delimited text filter**.
    - Enable **Simple bilingual configuration**.
    - Specify the **source** and **target** columns (for example, columns A and B).
    - Enable **First row contains column names**, if applicable.
    ![Document import settings](../../assets/images/memoq-import-settings.png)
-6. Click **OK**, then **OK** again to complete the import process.
+8. Click **OK**, then **OK** again to complete the import process.
 
 The Excel file is imported into the memoQ project and prepared for translation,
 with the correct source and target columns assigned.
@@ -124,7 +126,7 @@ Translation memories are typically imported into a project and assigned to the p
 1. In the Project Navigation, select **Translation memories**.
    ![Translation memories section in memoQ](../../assets/images/memoq-new-TM.png)
 2. Right-click the TM list and select **Create/Use New**.
-3. Enter a name that matches your project.
+3. Enter a name that matches your project and click **OK**.
 4. Right-click the new entry in the list and select **Import TM**.
 5. Select the Translation memory file and click **Open**.
 6. Review the import settings:
@@ -165,7 +167,7 @@ Term bases are usually imported into a project and assigned to the relevant lang
 1. In the Project Navigation, select **Term bases**.
    ![Term base section in memoQ](../../assets/images/memoq-new-TB.png)
 2. Right-click the Term base list and select **Create/Use New**.
-3. Enter a name that matches your project.
+3. Enter a name that matches your project and click **OK**.
 4. Right-click the new entry in the list and select **Import Term base**.
 5. Select the Term base file and click **Open**.
 6. Review the **Term base import settings** and map the language columns as required.
@@ -184,11 +186,11 @@ The Term base is added to the project and approved terminology is highlighted du
 
 ### Steps
 
-1. On the Ribbon, select **Translation**.
-2. Select **Add Term**.
-3. Enter the **source-language term**.
-4. Enter the corresponding **target-language term**.
-5. Click **OK** to save the new term.
+1. On the **Ribbon**, select the **Translation** tab.
+2. Click **Add Term**.
+3. Enter the **source-language term** and the **target-language term**, and add both using the **Plus button**.
+   ![Add a term to the term base](../../assets/images/memoq-add-term.png)
+4. Click **OK** to save the new term.
 
 The new term is added to the Term base and will be available for term
 recognition and consistency checks during translation.
@@ -208,7 +210,7 @@ recognition and consistency checks during translation.
 
 ### Steps
 
-1. On the Ribbon, select **Documents**.
+1. On the Ribbon, select the tab **Documents**.
    ![Export a file in memoQ](../../assets/images/memoq-export.png)
 2. Click **Export**.
 3. Choose **Export (Choose path)**.
@@ -229,7 +231,6 @@ project system or used to replace the original source file.
 - **Dashboard** – Start view used to create and open projects.
 - **Project Navigation** – Left-hand navigation area within a memoQ project.
 - **Ribbon** – Top menu area containing tabs and commands.
-- **Translation Editor** – Central area used to translate and review segments.
 
 ---
 
