@@ -98,6 +98,6 @@ gleichzeitig nachhaltig für Entwicklungs- und Dokumentationsteams bleibt.
 
 ---
 
-**Hinweis:** *ChatGPT (Version 5.2)* wurde unterstützend für Strukturierung und Textentwürfe
-eingesetzt. Sämtliche Terminologie, Inhalte und beschriebenen Workflows wurden von mir geprüft,
-validiert und finalisiert.
+> **Hinweis:** *ChatGPT (Version 5.2)* wurde unterstützend für Strukturierung und Textentwürfe
+> eingesetzt. Sämtliche Terminologie, Inhalte und beschriebenen Workflows wurden von mir vorgegeben, geprüft,
+> validiert und finalisiert.
