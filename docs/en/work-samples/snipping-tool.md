@@ -27,7 +27,7 @@ This documentation describes core Snipping Tool features as available in **Windo
 ![Snipping Tool – start view](../../assets/images/snipping-tool-start-en.png)
 
 
-> **Note**
+> **Note**  
 > The buttons and controls used in the following tasks are described in [*Capture controls*](#capture-controls).
 
 ## Start the Snipping Tool
@@ -38,7 +38,7 @@ This documentation describes core Snipping Tool features as available in **Windo
 
 The Snipping Tool opens and is ready to use.
 
-> **Note**
+> **Note**  
 > You can also start screenshot functions using a keyboard shortcut.  
 For an overview of available shortcuts, see [*Keyboard shortcuts*](#keyboard-shortcuts).
 
@@ -67,7 +67,7 @@ The screenshot is displayed and can be edited or saved in a supported file forma
 
 The screen video is displayed in the Snipping Tool and can be saved.
 
-> **Note**
+> **Note**  
 > Screen recording is only available in newer versions of the Snipping Tool.
 
 ---
@@ -81,7 +81,7 @@ The screen video is displayed in the Snipping Tool and can be saved.
 
 The recognized text is now available for further use.
 
-> **Note**
+> **Note**  
 > When copying text from a screenshot, you can optionally **remove line breaks** to optimize the text for use in other applications.
 
 ---
