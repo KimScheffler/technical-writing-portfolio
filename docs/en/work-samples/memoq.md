@@ -124,7 +124,7 @@ Translation memories are typically imported into a project and assigned to the p
    ![Translation memories section in memoQ](../../assets/images/memoq-new-TM.png)
 2. Right-click the TM list and select **Create/Use New**.
 3. Enter a name that matches your project and click **OK**.
-4. Right-click the new entry in the list and select **Import TM**.
+4. Right-click the new entry in the list and select **Import...**.
 5. Select the Translation memory file and click **Open**.
 6. Review the import settings:
    - Verify the **Source** language code.
@@ -165,7 +165,7 @@ Term bases are usually imported into a project and assigned to the relevant lang
    ![Term base section in memoQ](../../assets/images/memoq-new-TB.png)
 2. Right-click the Term base list and select **Create/Use New**.
 3. Enter a name that matches your project and click **OK**.
-4. Right-click the new entry in the list and select **Import Term base**.
+4. Right-click the new entry in the list and select **Import Terminology**.
 5. Select the Term base file and click **Open**.
 6. Review the **Term base import settings** and map the language columns as required.
    ![Term base Excel import settings](../../assets/images/memoq-TB-language.png)
@@ -212,7 +212,7 @@ recognition and consistency checks during translation.
 2. Click **Export**.
 3. Choose **Export (Choose path)**.
 4. Select the destination folder for the exported file.
-5. Confirm the export.
+5. Click **OK** to confirm the export.
 
 
 The translated file is exported to the selected location and can be uploaded to the
