@@ -9,12 +9,12 @@
 5. [What is a Translation memory?](#what-is-a-translation-memory)
 6. [Upload a Translation memory](#upload-a-translation-memory)
 7. [What is a Term base (Glossary)?](#what-is-a-term-base-glossary)
-8. [Upload a Term base (Glossary)](#upload-a-term-base-glossary)
+8. [Upload a Term base (Glossary) from an Excel file](#upload-a-term-base-glossary-from-an-excel-file)
 9. [Add a new term to a Term base while translating](#add-a-new-term-to-a-term-base-while-translating)
 10. [Export a translated file](#export-a-translated-file)
 11. [Reference](#reference)
-  - [memoQ user interface areas](#memoq-user-interface-areas)
-  - [Keyboard shortcuts (selection)](#keyboard-shortcuts-selection)
+    - [memoQ user interface areas](#memoq-user-interface-areas)
+    - [Keyboard shortcuts (selection)](#keyboard-shortcuts-selection)
 
 ---
 
