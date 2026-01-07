@@ -30,8 +30,6 @@ with linguistic resources such as **Translation memories** and
 memoQ is commonly used in professional translation workflows to support
 consistency and quality across translation projects.
 
-![memoQ – start view](../../assets/images/memoq-start.png)
-
 ---
 
 ## What is a memoQ project?
