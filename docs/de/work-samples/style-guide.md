@@ -20,6 +20,7 @@ Er gilt projektübergreifend (z. B. für das Snipping Tool und memoQ).
 10. [Barrierefreiheit](#barrierefreiheit)
 11. [Wartbarkeit](#wartbarkeit)
 
+---
 ## Informationsarten
 
 Es wird konsequent zwischen folgenden Informationstypen unterschieden:
@@ -49,8 +50,6 @@ Informationstypen werden **nicht vermischt**.
 ### Aktiv statt Passiv
 - ✔ *Klicken Sie auf **Neu***  
 - ✘ *Der Button **Neu** wird angeklickt*
-
-### Sprachvariante
 
 ### Sprachvariante
 
@@ -87,7 +86,7 @@ Diese Entscheidung dient der sprachlichen Klarheit und Konsistenz und stellt kei
 ### Reihenfolge
 - **Aktion → Zweck**
   
-> **Beispiel:**  
+> **Beispiel**  
 >*Klicken Sie auf **Neu**, um den Aufnahmemodus zu starten.*
 
 ---
@@ -117,10 +116,10 @@ Ist ein technischer Fachbegriff unter einer allgemein gebräuchlicheren Bezeichn
 Jeder Task besteht aus:
 
 1. **Überschrift** (Ziel des Tasks)
-2. (Optional) **Einleitung** (In diesem Abschnitt wird beschrieben, wie ...), aber nur, wenn sie Mehrwert bringt
+2. (Optional) **Einleitung** (*In diesem Abschnitt wird beschrieben, wie ...*), aber nur, wenn sie Mehrwert bringt
 3. (Optional) **Voraussetzungen** werden genannt, falls es welche gibt
 4. **Schritte** + **Ergebnis** (Outcome)
-5. (Optional) **Hinweise** für Optionen oder Sonderfälle oder **Beispiele** zu Veranschaulichung
+5. (Optional) **Hinweise** für Optionen oder Sonderfälle oder **Beispiele** zur Veranschaulichung
 
 ---
 
@@ -135,9 +134,7 @@ In der Dokumentation werden unterschiedliche Listentypen gezielt eingesetzt:
 
 ### Umfang von Schrittfolgen
 
-Eine Schrittfolge sollte **nicht mehr als 10 Schritte** enthalten.
-
-Wenn ein Ablauf mehr als 10 Schritte erfordert:
+Eine Schrittfolge sollte **nicht mehr als 10 Schritte** enthalten. Wenn ein Ablauf mehr als 10 Schritte erfordert:
 - wird der Task in **zwei oder mehr logisch abgegrenzte Tasks** aufgeteilt  
   **oder**
 - der Ablauf wird durch eine **übersichtliche Grafik oder Prozessdarstellung** ergänzt.
@@ -159,9 +156,6 @@ funktional zu einem Hauptschritt gehören.
 - eigenständige Hauptaktionen zu verstecken
 - die 10-Schritte-Regel zu umgehen
 
-Wenn mehrere Unterpunkte jeweils eigenständige Aktionen beschreiben,
-muss der Task in separate Schritte oder einen eigenen Task aufgeteilt werden.
-
 ---
 
 ## Hinweise
@@ -179,10 +173,9 @@ Dabei gelten folgende Regeln:
 Dieser Ansatz hält Tasks schlank und übersichtlich und stellt gleichzeitig sicher,
 dass zusätzliche Informationen zentral und gut wartbar bleiben.
 
-> **Beispiele:**  
+> **Beispiele**  
 > - *Sie können diese Aktion auch über eine Tastenkombination ausführen. Weitere Informationen finden Sie unter Tastenkombinationen.*  
 > - *Beim Kopieren von Text können Sie optional Zeilenumbrüche automatisch entfernen.*
-
 
 ---
 
@@ -216,7 +209,7 @@ Geeignet für:
 - beschreibt **Inhalt und Zweck** des Bildes
 - keine generischen Begriffe wie „Screenshot“
 
-> **Beispiel:**  
+> **Beispiel**  
 > *Schaltfläche zur Auswahl des Foto-Modus im Snipping Tool*
 
 ### Hervorhebung von UI-Elementen
