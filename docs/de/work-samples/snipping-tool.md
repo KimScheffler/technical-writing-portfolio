@@ -29,7 +29,7 @@ Benutzeroberflächen können je nach Windows-Version oder Anwendungs-Update abwe
 
 ![Snipping Tool – Startansicht](../../assets/images/snipping-tool-start.jpg)
 
-> **Hinweis**
+> **Hinweis**  
 > Die in den folgenden Tasks verwendeten Schaltflächen und Bedienelemente sind im Abschnitt [*Aufnahme-Steuerelemente*](#aufnahme-steuerelemente) beschrieben.
 
 ---
@@ -42,7 +42,7 @@ Benutzeroberflächen können je nach Windows-Version oder Anwendungs-Update abwe
 
 Das Snipping Tool wird gestartet und ist einsatzbereit.
 
-> **Hinweis**
+> **Hinweis**  
 > Alternativ können Sie die Screenshot-Funktionen auch über eine Tastenkombination starten.  
 Eine Übersicht der verfügbaren Tastenkombinationen finden Sie im Abschnitt 
 [*Tastenkombinationen*](#tastenkombinationen).
@@ -72,7 +72,7 @@ Das Bildschirmfoto wird angezeigt und kann weiterbearbeitet oder in einem unters
 
 Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 
-> **Hinweis**
+> **Hinweis**  
 > Die Bildschirmaufnahme per Video ist nur in neueren Versionen des Snipping Tools verfügbar.
 
 ---
@@ -86,7 +86,7 @@ Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 
 Der erkannte Text steht anschließend zur weiteren Verwendung zur Verfügung.
 
-> **Hinweis**
+> **Hinweis**  
 > Beim Kopieren von Text aus einem Bildschirmfoto können Sie optional die 
 automatische Entfernung von **Zeilenumbrüchen** aktivieren, um den Text
 für die Weiterverarbeitung in anderen Anwendungen zu optimieren.
