@@ -80,7 +80,7 @@ For the sake of readability, this documentation uses gender-neutral language whe
 ### Order
 Action → purpose
 
-> **Example:**  
+> **Example**  
 >*Select **New** to start capture mode.*
 
 ---
@@ -129,9 +129,7 @@ Different list types are used intentionally:
 
 ### Length of step sequences
 
-A step sequence should contain **no more than 10 steps**.
-
-If a workflow requires more than 10 steps:
+A step sequence should contain **no more than 10 steps**. If a workflow requires more than 10 steps:
 - split it into **two or more logically separated tasks**  
   **or**
 - complement the steps with a **clear process diagram or graphic**
@@ -153,8 +151,6 @@ configuration details or supporting actions that belong to a single main step.
 - hide independent main actions
 - bypass the maximum number of steps rule
 
-If multiple substeps describe independent actions, the task must be split into separate steps or a separate task.
-
 ---
 
 ## Notes
@@ -172,7 +168,7 @@ The following rules apply:
 This approach keeps tasks concise while ensuring that additional information
 is centralized and easy to maintain.
 
-> **Examples:**  
+> **Examples**  
 > - *You can also perform this action using a keyboard shortcut. See Keyboard shortcuts for details.*
 > - *When copying text, you can optionally enable automatic removal of line breaks.*
 
@@ -208,7 +204,7 @@ Typical reference topics include:
 - Describes **content and purpose** of the image
 - Avoid generic descriptions such as “screenshot”
 
-> **Example:**  
+> **Example**  
 > *Button to select Photo mode in the Snipping Tool*
 
 ### Highlighting UI elements
