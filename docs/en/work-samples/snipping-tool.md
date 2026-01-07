@@ -84,7 +84,7 @@ The screen video is displayed in the Snipping Tool and can be saved.
 The recognized text is now available for further use.
 
 > **Note**  
-> When copying text from a screenshot, you can optionally **remove line breaks** to optimize the text for use in other applications.
+> When copying text from a screenshot, you can optionally **remove line breaks** using the **Three-dot menu** to optimize the text for use in other applications.
 
 ---
 
