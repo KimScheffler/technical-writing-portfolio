@@ -1,8 +1,15 @@
 # Glossar – Snipping Tool
 
-> **Sprachhinweis:**  
-> - Die Fließtexte dieser Dokumentation sind in **American English (AE)** verfasst.  
-> - UI-Elemente werden exakt in der Originalschreibweise des User Interface übernommen, einschließlich **British English (BE)** (z. B. *Colour picker*).
+> **Sprachhinweise**
+> - Die Glossareinträge für UI-Elemente entsprechen exakt den Bezeichnungen,
+  wie sie in der jeweiligen Sprachversion der Benutzeroberfläche angezeigt werden.
+> - Die Fließtexte der englischen Dokumentation sind in **American English (AE)** verfasst.
+> - UI-Bezeichnungen werden in der **Originalschreibweise des User Interface** übernommen,
+  auch wenn diese von der verwendeten Sprachvariante abweichen
+  (z. B. **British English (BE)**).
+> - Daher können bei UI-Begriffen unterschiedliche Schreibweisen auftreten,
+  etwa bei *Colour picker* (UI) und *Color value* (Begriffsbeschreibung).
+
 
 
 | Englisch | Deutsch | Beschreibung |
