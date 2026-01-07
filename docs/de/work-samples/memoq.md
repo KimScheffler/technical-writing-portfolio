@@ -31,8 +31,6 @@ Kombination von Quelldateien mit linguistischen Ressourcen wie
 memoQ wird in professionellen Übersetzungsworkflows eingesetzt, um
 Konsistenz, Qualität und Effizienz über Projekte hinweg sicherzustellen.
 
-![memoQ – Startansicht](../../assets/images/memoq-start.png)
-
 ---
 
 ## Was ist ein memoQ-Projekt?
