@@ -81,7 +81,7 @@ such as **Translation memories** and **Term bases**.
    ![Translations section in memoQ](../../assets/images/memoq-translations.png)
 2. On the Ribbon, select the tab **Documents**.  
 3. Click **Import**. 
-4. Choose **Import with options**.
+4. Choose **Import With Options**.
 5. Select the Excel file and click **Open**.
 6. Click **Change filter and configuration**.
 7. Configure the import options:
