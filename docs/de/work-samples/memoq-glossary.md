@@ -17,7 +17,7 @@
 | Finish | Schließt den Projektassistenten ab |
 | Import term base | Importiert eine Termbase in ein Projekt |
 | Import TM | Importiert eine Translation Memory in ein Projekt |
-| Import with options | Importiert Dateien mit konfigurierbaren Einstellungen |
+| Import With Options | Importiert Dateien mit konfigurierbaren Einstellungen |
 | Multilingual delimited text filter | Importfilter für mehrsprachige Tabellenformate |
 | New project | Startet den Projektassistenten |
 | Next | Wechselt zum nächsten Schritt im Assistenten |
