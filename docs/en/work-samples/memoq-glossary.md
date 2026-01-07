@@ -6,7 +6,7 @@
 
 | Term | Description |
 |------|-------------|
-| Add Term | Adds a new term to a term base |
+| Add Term | Adds a new term to a Term base |
 | Change filter and configuration | Opens file import configuration options |
 | Create/Use New | Creates a new resource or uses an existing one |
 | Dashboard | Start view used to create and open projects |
@@ -15,8 +15,8 @@
 | Export (Choose path) | Export option to select the destination folder |
 | Filter | Setting used to control how files are imported |
 | Finish | Completes the project creation wizard |
-| Import term base | Imports a term base into a project |
-| Import TM | Imports a translation memory |
+| Import Terminology | Imports a Term base into a project |
+| Import... | Imports a Translation memory |
 | Import With Options | Imports files with configurable settings |
 | Multilingual delimited text filter | Import filter for multilingual table-based files |
 | New project | Starts the project creation wizard |
@@ -29,4 +29,4 @@
 | Translation | Ribbon tab containing translation commands |
 | Translation editor | Central workspace for translating segments |
 | Translation memory TMX import settings | Settings used when importing TMX files |
-| Translation memories | Section used to manage translation memories |
+| Translation memories | Section used to manage Translation memories |
