@@ -87,9 +87,9 @@ Das Bildschirmvideo wird im Snipping Tool angezeigt und kann gespeichert werden.
 Der erkannte Text steht anschließend zur weiteren Verwendung zur Verfügung.
 
 > **Hinweis**  
-> Beim Kopieren von Text aus einem Bildschirmfoto können Sie optional die 
-automatische Entfernung von **Zeilenumbrüchen** aktivieren, um den Text
-für die Weiterverarbeitung in anderen Anwendungen zu optimieren.
+> Beim Kopieren von Text aus einem Bildschirmfoto können Sie optional im
+> Drei-Punkte-Menü die automatische Entfernung von **Zeilenumbrüchen** aktivieren,
+> um den Text für die Weiterverarbeitung in anderen Anwendungen zu optimieren.
 
 ---
 
@@ -107,6 +107,7 @@ oder Dokumentationszwecke.
 
 Der Farbwert steht zur Verwendung in anderen Anwendungen (z. B. Design- oder Entwicklungswerkzeugen) zur Verfügung.
 
+---
 
 ## Referenzinformationen
 
