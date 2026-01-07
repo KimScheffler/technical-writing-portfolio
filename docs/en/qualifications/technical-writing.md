@@ -19,9 +19,9 @@ The course covers the fundamentals of software documentation with a strong empha
 
 - Fundamentals of technical writing for software products  
 - Task-oriented documentation and user-centered content design  
-- Writing and structuring documentation using **Markdown** in **GitHub-based workflows**  
+- Writing and structuring documentation using Markdown in GitHub-based workflows  
 - Fundamentals of information architecture from a technical writing perspective  
-- Creating supporting graphics and diagrams using **Canva**  
+- Creating supporting graphics and diagrams using Canva  
 - Quality criteria for professional software documentation  
 - Basic methods of user analysis (for example, card sorting)  
 
