@@ -4,8 +4,8 @@
 *JPDocu School of Technical Writing*
 
 Ich habe den Online-Kurs **Technical Writing: How to Write Software Documentation** abgeschlossen,
-ein praxisorientiertes Trainingsprogramm mit Fokus auf moderne Workflows in der
-Software-Dokumentation und grundlegende professionelle Methoden der Software-Dokumentation.
+ein praxisorientiertes Trainingsprogramm mit Fokus auf moderne Workflows und grundlegende professionelle
+Methoden der Software-Dokumentation.
 
 Der Kurs bietet eine strukturierte Einführung in die technische Dokumentation von
 Softwareprodukten und wird von **Jordan Stanchev**, User Assistance Development Architect
@@ -25,9 +25,9 @@ praktische Anwendung. Zentrale Themen sind:
 
 - Grundlagen des Technical Writing für Softwareprodukte  
 - Aufgabenorientierte Dokumentation und nutzerzentrierte Inhaltsgestaltung  
-- Schreiben und Strukturieren von Dokumentation mit **Markdown** in **GitHub-basierten Workflows**  
+- Schreiben und Strukturieren von Dokumentation mit Markdown in GitHub-basierten Workflows  
 - Grundlagen der Informationsarchitektur aus Sicht des Technical Writing  
-- Erstellung unterstützender Grafiken und Diagramme mit **Canva**  
+- Erstellung unterstützender Grafiken und Diagramme mit Canva  
 - Qualitätskriterien professioneller Software-Dokumentation  
 - Grundlegende Methoden der Nutzeranalyse (z. B. Card Sorting)  
 
