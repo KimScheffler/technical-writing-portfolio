@@ -1,4 +1,4 @@
-# Documentation Approach (DITA-inspired)
+# Documentation Approach (DITA-based structure)
 
 This page describes the **methodological documentation approach** I apply in technical
 documentation projects—from initial analysis to continuous improvement.
