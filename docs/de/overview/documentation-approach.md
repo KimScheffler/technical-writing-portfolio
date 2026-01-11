@@ -1,4 +1,4 @@
-# Dokumentationsansatz (DITA-basiert)
+# Dokumentationsansatz (DITA-basierte Struktur)
 
 Diese Seite beschreibt den **methodischen Dokumentationsansatz**, den ich in technischen
 Dokumentationsprojekten anwende – von der initialen Analyse bis zur kontinuierlichen
