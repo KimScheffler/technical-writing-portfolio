@@ -5,7 +5,7 @@
 ### Overview
 
 - [Professional Summary](docs/en/overview/summary.md)
-- [Documentation Approach (DITA-based)](docs/en/overview/documentation-approach.md)
+- [Documentation Approach (DITA-based structure)](docs/en/overview/documentation-approach.md)
 
 ### Work samples
 - [Example 1: Snipping Tool](docs/en/work-samples/snipping-tool.md)
@@ -26,7 +26,7 @@
 ### Überblick
 
 - [Kurzprofil](docs/de/overview/summary.md)
-- [Dokumentationsansatz (DITA-basiert)](docs/de/overview/documentation-approach.md)
+- [Dokumentationsansatz (DITA-basierte Struktur)](docs/de/overview/documentation-approach.md)
 
 ### Arbeitsproben
 
