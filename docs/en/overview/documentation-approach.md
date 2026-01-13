@@ -1,9 +1,9 @@
-# Documentation Approach (DITA-based structure)
+# Documentation Approach (DITA-based)
 
 This page describes the **methodological documentation approach** I apply in technical
 documentation projects—from initial analysis to continuous improvement.
 
-The approach is based on established principles of professional software documentation, with a
+The approach is based on established principles of professional technical documentation, with a
 strong focus on **task-oriented documentation**, clear information architecture, and consistently
 user-centered content.
 
@@ -52,17 +52,15 @@ approach (steps 4–7 in the diagram).
 At this stage, the **documentation format** is defined and appropriate **tools** for content
 creation and maintenance are selected (steps 4–5).
 
-The **content structure** is then designed using a task-oriented approach and is based on the
-**DITA information model**, with a clear separation of **Concept**, **Task**, and **Reference**
-content. This separation is reflected both conceptually and structurally in the individual
-documentation topics (step 6).
+The structure used throughout this portfolio follows the **DITA information model** and therefore
+corresponds directly to the content models implemented in DITA-based component content management
+systems (CCMS) such as **SCHEMA ST4**, **Adobe Experience Manager Guides**, **oXygen XML Author**,
+or **IXIASOFT CCMS**.
 
-Based on this structure, the **output channels** are defined (step 7), such as web-based help
-systems, in-product help, PDF documentation, or internal knowledge bases. Navigation, terminology,
-and structure are aligned accordingly.
-
-This structured approach ensures that documentation remains understandable, scalable, and
-maintainable throughout the software lifecycle.
+The content structure is task-oriented and based on a clear separation of **Concept**, **Task**, and
+**Reference**. This separation is applied consistently across all documentation topics in the
+portfolio and reflects the same logical structure used in industrial CCMS environments—independent
+of whether the content is authored in XML or maintained in a Markdown-based workflow.
 
 ---
 
@@ -77,7 +75,7 @@ avoid redundancy and improve maintainability.
 
 After publication, feedback and usage insights are continuously incorporated into further
 documentation development. Documentation is treated as a **living product** that evolves
-alongside the software and user requirements.
+alongside the product and user requirements.
 
 ---
 
