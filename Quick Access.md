@@ -16,7 +16,6 @@
 
 
 ### Professional Development
-- [Curriculum Vitae](docs/en/qualifications/curriculum-vitae.md)
 - [Technical Writing – Certificate](docs/en/qualifications/technical-writing.md)
 - [Bio and Environmental Process Engineering – Master](docs/de/qualifications/bio-process-engineering.md)
 - [Programming](docs/en/qualifications/programming.md)
@@ -38,7 +37,6 @@
 
 ### Weiterbildungen & Qualifikationen
 
-- [Lebenslauf](docs/de/qualifications/curriculum-vitae.md)
 - [Technical Writing – Zertifikat](docs/de/qualifications/technical-writing.md)
 - [Bio- und Umweltverfahrenstechnik – Diplom](docs/de/qualifications/bio-process-engineering.md)
 - [Programmieren](docs/de/qualifications/programming.md)
