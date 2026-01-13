@@ -1,10 +1,10 @@
-# Dokumentationsansatz (DITA-basierte Struktur)
+# Dokumentationsansatz (DITA-basiert)
 
 Diese Seite beschreibt den **methodischen Dokumentationsansatz**, den ich in technischen
 Dokumentationsprojekten anwende – von der initialen Analyse bis zur kontinuierlichen
 Weiterentwicklung.
 
-Der Ansatz basiert auf etablierten Prinzipien professioneller Softwaredokumentation, mit einem
+Der Ansatz basiert auf etablierten Prinzipien professioneller technischer Dokumentation, mit einem
 klaren Fokus auf **aufgabenorientierte Dokumentation**, eine klare Informationsarchitektur und
 konsequent anwenderzentrierte Inhalte.
 
@@ -53,18 +53,16 @@ Bestandteil des angewendeten Ansatzes (Schritte 4–7 in der Grafik).
 In dieser Phase werden das **Dokumentationsformat** festgelegt und geeignete **Werkzeuge** für
 Erstellung und Pflege der Inhalte ausgewählt (Schritte 4–5).
 
-Die **Inhaltsstruktur** wird anschließend aufgabenorientiert entworfen und basiert auf dem
-**DITA-Informationsmodell** mit einer klaren Trennung von **Concept**, **Task** und
-**Reference**. Diese Trennung wird sowohl konzeptionell als auch strukturell in den einzelnen
-Dokumentationsthemen umgesetzt (Schritt 6).
+Die in diesem Portfolio verwendete Struktur folgt dem **DITA-Informationsmodell** und entspricht
+damit direkt den Inhaltsmodellen, wie sie in DITA-basierten Component Content Management
+Systemen (CCMS) wie **SCHEMA ST4**, **Adobe Experience Manager Guides**, **oXygen XML Author**
+oder **IXIASOFT CCMS** eingesetzt werden.
 
-Auf Basis dieser Struktur werden die **Ausgabekanäle** definiert (Schritt 7), beispielsweise
-webbasierte Hilfesysteme, kontextbezogene Hilfe innerhalb der Software, PDF-Dokumentation oder
-interne Wissensdatenbanken. Navigation, Terminologie und Struktur werden entsprechend
-aufeinander abgestimmt.
-
-Dieser strukturierte Ansatz stellt sicher, dass die Dokumentation über den gesamten
-Softwarelebenszyklus hinweg verständlich, skalierbar und wartbar bleibt.
+Die Inhaltsstruktur ist aufgabenorientiert aufgebaut und basiert auf einer klaren Trennung von **Concept**,
+**Task** und **Reference**. Diese Trennung wird konsequent über alle Dokumentationsthemen im Portfolio hinweg
+angewendet und spiegelt die gleiche logische Struktur wider, wie sie in industriellen CCMS-Umgebungen
+verwendet wird – unabhängig davon, ob die Inhalte in XML oder in einem Markdown-basierten Workflow erstellt
+und gepflegt werden.
 
 ---
 
@@ -80,7 +78,7 @@ verbessern.
 
 Nach der Veröffentlichung werden Feedback und Nutzungserkenntnisse kontinuierlich in die
 Weiterentwicklung der Dokumentation integriert. Dokumentation wird als **lebendes Produkt**
-verstanden, das sich parallel zur Software und zu den Nutzeranforderungen weiterentwickelt.
+verstanden, das sich parallel zum Produkt und zu den Nutzeranforderungen weiterentwickelt.
 
 ---
 
