@@ -22,7 +22,7 @@ der Entwickler als auch der Anwender zu berücksichtigen.
 ---
 
 ### Wissenschaftliche Mitarbeit – Programmierung mit MATLAB  
-*RPTU Kaiserslautern, Lehrstuhl für Messtechnik und Sensorik (2018)*
+*RPTU Kaiserslautern, Lehrstuhl für Messtechnik und Sensorik (2017 – 2018)*
 
 Im Rahmen meiner Tätigkeit als wissenschaftliche Mitarbeiterin habe ich MATLAB
 zur Auswertung und Analyse von bildbasierten Oberflächenmessdaten eingesetzt.
