@@ -21,7 +21,7 @@ user perspectives.
 ---
 
 ### Research Assistant – Programming with MATLAB  
-*RPTU Kaiserslautern, Department of Metrology & Sensor Technology (2018)*
+*RPTU Kaiserslautern, Department of Metrology & Sensor Technology (2017 – 2018)*
 
 As part of my work as a Research Associate, I used MATLAB to analyze and process
 image-based surface measurement data.
