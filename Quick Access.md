@@ -18,7 +18,7 @@
 ### Professional Development
 - [Technical Writing – Certificate](docs/en/qualifications/technical-writing.md)
 - [Bio and Environmental Process Engineering – Master](docs/de/qualifications/bio-process-engineering.md)
-- [Maschinenbau & Technisches Zeichnen (CAD)](docs/en/qualifications/CAD.md)
+- [Mechanical Engineering & Technical Drawing (CAD)](docs/en/qualifications/CAD.md)
 - [Programming](docs/en/qualifications/programming.md)
 
 ## German
